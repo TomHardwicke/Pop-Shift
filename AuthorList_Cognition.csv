@@ -1,0 +1,6506 @@
+article_id,year,author
+0,2018,Maria Kozhevnikov
+0,2018,Yahui Li
+0,2018,Sabrina Wong
+0,2018,Takashi Obana
+0,2018,Ido Amihai
+1,2018,O Rosa-Salva
+1,2018,M Hernik
+1,2018,A Broseghini
+1,2018,G Vallortigara
+2,2018,Athena Vouloumanos
+3,2018,Yuqi Liu
+3,2018,Jared Medina
+4,2018,Nese Oktay-Gür
+4,2018,Alexandra Schulz
+4,2018,Hannes Rakoczy
+5,2018,Emmanuel Dupoux
+6,2018,C Daryl Cameron
+6,2018,B Keith Payne
+6,2018,Walter Sinnott-Armstrong
+6,2018,Julian A Scheffer
+6,2018,Michael Inzlicht
+7,2017,Samuel J Gershman
+8,2017,Leyre Castro
+8,2017,Edward A Wasserman
+8,2017,Marisol Lauffer
+9,2017,Daniel Yon
+9,2017,Clare Press
+10,2017,Angela Cooper
+10,2017,Natalie Fecher
+10,2017,Elizabeth K Johnson
+11,2017,Sayuri Hayakawa
+11,2017,Boaz Keysar
+12,2017,Eckart Zimmermann
+13,2017,Sophia Uddin
+13,2017,Shannon L M Heald
+13,2017,Stephen C Van Hedger
+13,2017,Serena Klos
+13,2017,Howard C Nusbaum
+14,2017,Lisa J Stephenson
+14,2017,S Gareth Edwards
+14,2017,Emma E Howard
+14,2017,Andrew P Bayliss
+15,2017,Leonidas Spiliopoulos
+16,2017,Dasha A Sandra
+16,2017,A Ross Otto
+17,2017,Apoorva Bhandari
+17,2017,David Badre
+18,2017,Alissa Melinger
+19,2017,Ardi Roelofs
+20,2017,Robin S S Kramer
+20,2017,Andrew W Young
+20,2017,A Mike Burton
+21,2017,Rebecca M Foerster
+21,2017,Werner X Schneider
+22,2017,Calum Hartley
+22,2017,Sophie Fisher
+23,2017,Stian Reimers
+23,2017,Chris Donkin
+23,2017,Mike E Le Pelley
+24,2017,Laura E de Ruiter
+24,2017,Anna L Theakston
+24,2017,Silke Brandt
+24,2017,Elena V M Lieven
+25,2017,Cornelius Maurer
+25,2017,Valerian Chambon
+25,2017,Sacha Bourgeois-Gironde
+25,2017,Marion Leboyer
+25,2017,Tiziana Zalla
+26,2017,Gareth Roberts
+26,2017,Maryia Fedzechkina
+27,2017,Brendan Gaesser
+27,2017,Kerri Keeler
+27,2017,Liane Young
+28,2017,Tally McCormick Miller
+28,2017,Timo Torsten Schmidt
+28,2017,Felix Blankenburg
+28,2017,Friedemann Pulvermüller
+29,2017,Alexandra S Dylman
+29,2017,Christopher Barry
+30,2017,Okko Räsänen
+30,2017,Gabriel Doyle
+30,2017,Michael C Frank
+31,2017,Michael Huemer
+31,2017,Josef Perner
+31,2017,Brian Leahy
+32,2017,Dror Dotan
+32,2017,Florent Meyniel
+32,2017,Stanislas Dehaene
+33,2017,Jincai Li
+33,2017,Longgen Liu
+33,2017,Elizabeth Chalmers
+33,2017,Jesse Snedeker
+34,2017,Toben H Mintz
+34,2017,Rachel L Walker
+34,2017,Ashlee Welday
+34,2017,Celeste Kidd
+35,2017,Qi-Yang Nie
+35,2017,Xiaowei Ding
+35,2017,Jianyong Chen
+35,2017,Markus Conci
+36,2017,Guy Ben-Yosef
+36,2017,Liav Assif
+36,2017,Shimon Ullman
+37,2017,Marcello Costantini
+37,2017,Daniele Migliorati
+37,2017,Brunella Donno
+37,2017,Miroslav Sirota
+37,2017,Francesca Ferri
+38,2017,Zoe Liberman
+38,2017,Katherine D Kinzler
+38,2017,Amanda L Woodward
+39,2017,Alejandrina Cristia
+40,2017,Joakim Sundh
+40,2017,Peter Juslin
+41,2017,Ángel Eugenio Tovar
+41,2017,Gert Westermann
+41,2017,Alvaro Torres
+42,2017,Caroline Catmur
+42,2017,Emma L Thompson
+42,2017,Orianna Bairaktari
+42,2017,Frida Lind
+42,2017,Geoffrey Bird
+43,2017,Elin H Williams
+43,2017,Emily S Cross
+44,2017,Betsy Sneller
+44,2017,Gareth Roberts
+45,2017,Fintan Costello
+45,2017,Paul Watts
+45,2017,Christopher Fisher
+46,2017,Andrew Simpson
+46,2017,Daniel J Carroll
+47,2017,Tiziana Vercillo
+47,2017,Alessia Tonelli
+47,2017,Monica Gori
+48,2017,Christelle Larzabal
+48,2017,Eve Tramoni
+48,2017,Sophie Muratot
+48,2017,Simon J Thorpe
+48,2017,Emmanuel J Barbeau
+49,2017,Ellen Bialystok
+49,2017,John G Grundy
+50,2017,Lauren E Marsh
+50,2017,Patricia Kanngiesser
+50,2017,Bruce Hood
+51,2017,Orit Baruch
+51,2017,Ruth Kimchi
+51,2017,Morris Goldsmith
+52,2017,Leonardo Weiss-Cohen
+52,2017,Emmanouil Konstantinidis
+52,2017,Maarten Speekenbrink
+52,2017,Nigel Harvey
+53,2017,Lindsey A Drayton
+53,2017,Laurie R Santos
+54,2017,Harriet Over
+54,2017,Richard Cook
+56,2017,Neil W Kirk
+56,2017,Vera Kempe
+56,2017,Kenneth C Scott-Brown
+56,2017,Andrea Philipp
+56,2017,Mathieu Declerck
+57,2017,Yang Xu
+57,2017,David Reitter
+58,2017,Felix Ball
+58,2017,Lara E Michels
+58,2017,Carsten Thiele
+58,2017,Toemme Noesselt
+59,2017,Janne von Koss Torkildsen
+59,2017,Joanne Arciuli
+59,2017,Christiane Lingås Haukedal
+59,2017,Ona Bø Wie
+60,2017,Hanna B Fechner
+60,2017,Lael J Schooler
+60,2017,Thorsten Pachur
+61,2017,Ivar R Hannikainen
+61,2017,Edouard Machery
+61,2017,Fiery A Cushman
+62,2017,Hauke S Meyerhoff
+62,2017,Brian J Scholl
+63,2017,Alexander Noyes
+63,2017,Frank C Keil
+63,2017,Yarrow Dunham
+64,2017,Henry Markovits
+64,2017,Bastien Trémolière
+64,2017,Isabelle Blanchette
+66,2017,Felix Hao Wang
+66,2017,Toben H Mintz
+67,2017,Esti Blanco-Elorrieta
+67,2017,Victor S Ferreira
+67,2017,Paul Del Prato
+67,2017,Liina Pylkkänen
+68,2017,Samantha F Goldsmith
+68,2017,J Bruce Morton
+69,2017,Lindsey J Powell
+69,2017,Elizabeth S Spelke
+70,2017,Madeleine R Long
+70,2017,William S Horton
+70,2017,Hannah Rohde
+70,2017,Antonella Sorace
+71,2017,Peggy Li
+71,2017,Linda Abarbanell
+72,2017,Niels Skovgaard-Olsen
+72,2017,Henrik Singmann
+72,2017,Karl Christoph Klauer
+73,2017,Bob McMurray
+73,2017,Ashley Farris-Trimble
+73,2017,Hannah Rigler
+74,2017,Kay L Ritchie
+74,2017,Robin S S Kramer
+74,2017,A Mike Burton
+75,2017,Markus Kneer
+75,2017,Sacha Bourgeois-Gironde
+76,2017,Isabelle Dagry
+76,2017,Pierre Barrouillet
+77,2017,Helen G Jing
+77,2017,Kevin P Madore
+77,2017,Daniel L Schacter
+78,2017,Tim Chuk
+78,2017,Kate Crookes
+78,2017,William G Hayward
+78,2017,Antoni B Chan
+78,2017,Janet H Hsiao
+79,2017,Robert W Proctor
+79,2017,Mei-Ching Lien
+79,2017,Lane Thompson
+80,2017,Marissa Krimsky
+80,2017,Daniel E Forster
+80,2017,Maria M Llabre
+80,2017,Amishi P Jha
+81,2017,Andria Shimi
+81,2017,Gaia Scerif
+82,2017,J Zaman
+82,2017,W Vanpaemel
+82,2017,C Aelbrecht
+82,2017,F Tuerlinckx
+82,2017,J W S Vlaeyen
+83,2017,Megan Reilly
+83,2017,Rutvik H Desai
+84,2017,Cory D Bonn
+84,2017,Jessica F Cantlon
+85,2017,Steve Guglielmo
+86,2017,Jennifer Murphy
+86,2017,Richard Cook
+87,2017,Xin Wang
+87,2017,Juan Wang
+87,2017,Jeffrey G Malins
+88,2017,Bernhard E Riecke
+88,2017,Timothy P McNamara
+89,2017,Carly Giffin
+89,2017,Daniel Wilkenfeld
+89,2017,Tania Lombrozo
+90,2017,John Corbit
+90,2017,Katherine McAuliffe
+90,2017,Tara C Callaghan
+90,2017,Peter R Blake
+90,2017,Felix Warneken
+91,2017,Karri Neldner
+91,2017,Ilana Mushin
+91,2017,Mark Nielsen
+92,2017,Matthew C Overlan
+92,2017,Robert A Jacobs
+92,2017,Steven T Piantadosi
+93,2017,Regina Paxton Gazes
+93,2017,Rachel F L Diamond
+93,2017,Jasmine M Hope
+93,2017,Damien Caillaud
+93,2017,Tara S Stoinski
+93,2017,Robert R Hampton
+94,2017,Gregory Scontras
+94,2017,Noah D Goodman
+95,2017,Florent Perek
+95,2017,Adele E Goldberg
+96,2017,John Turri
+97,2017,Colin J Palmer
+97,2017,Colin W G Clifford
+98,2017,Susan Carey
+98,2017,Anna Shusterman
+98,2017,Paul Haward
+98,2017,Rebecca Distefano
+99,2017,Bria Long
+99,2017,Talia Konkle
+100,2017,Ariel Starr
+100,2017,Nicholas K DeWind
+100,2017,Elizabeth M Brannon
+101,2017,Joshua Snell
+101,2017,Jonathan Grainger
+102,2017,Andreas Sotiropoulos
+102,2017,J Richard Hanley
+103,2017,Árni Gunnar Ásgeirsson
+103,2017,Sander Nieuwenhuis
+104,2017,Franziska Plessow
+104,2017,Susann Schade
+104,2017,Clemens Kirschbaum
+104,2017,Rico Fischer
+105,2017,Devin B Terhune
+105,2017,Love R A Hedman
+106,2017,Stefania Pighin
+106,2017,Vittorio Girotto
+106,2017,Katya Tentori
+107,2017,Brandon M Woo
+107,2017,Conor M Steckler
+107,2017,Doan T Le
+107,2017,J Kiley Hamlin
+108,2017,Frederik S Kamps
+108,2017,Joshua B Julian
+108,2017,Peter Battaglia
+108,2017,Barbara Landau
+108,2017,Nancy Kanwisher
+108,2017,Daniel D Dilks
+109,2017,Jessica Podda
+109,2017,Caterina Ansuini
+109,2017,Roberta Vastano
+109,2017,Andrea Cavallo
+109,2017,Cristina Becchio
+110,2017,Yanliang Sun
+110,2017,Timo Stein
+110,2017,Wenjie Liu
+110,2017,Xiaowei Ding
+110,2017,Qi-Yang Nie
+111,2017,Aaron Sell
+111,2017,Daniel Sznycer
+111,2017,Laith Al-Shawaf
+111,2017,Julian Lim
+111,2017,Andre Krauss
+111,2017,Aneta Feldman
+111,2017,Ruxandra Rascanu
+111,2017,Lawrence Sugiyama
+111,2017,Leda Cosmides
+111,2017,John Tooby
+112,2017,Dekel Abeles
+112,2017,Shlomit Yuval-Greenberg
+113,2017,Gaëlle Meert
+113,2017,Jessica Wang
+113,2017,Dana Samson
+114,2017,Alan Jern
+114,2017,Christopher G Lucas
+114,2017,Charles Kemp
+115,2017,Laura Verga
+115,2017,Sonja A Kotz
+116,2017,Maryam Vaziri-Pashkam
+116,2017,Sarah Cormiea
+116,2017,Ken Nakayama
+117,2017,Céline Ngon
+117,2017,Sharon Peperkamp
+118,2017,Geoffrey Fisher
+119,2017,Noemi Fariña
+119,2017,Jon Andoni Duñabeitia
+119,2017,Manuel Carreiras
+120,2017,Mahiko Konishi
+120,2017,Kevin Brown
+120,2017,Luca Battaglini
+120,2017,Jonathan Smallwood
+121,2017,Susan A J Birch
+121,2017,Patricia E Brosseau-Liard
+121,2017,Taeh Haddock
+121,2017,Siba E Ghrear
+122,2017,Nayoung Kwon
+122,2017,Patrick Sturt
+122,2017,Pan Liu
+123,2017,Hannah Little
+123,2017,Kerem Eryılmaz
+123,2017,Bart de Boer
+124,2017,Fiery Cushman
+124,2017,Victor Kumar
+124,2017,Peter Railton
+125,2017,Iva K Brunec
+125,2017,Amir-Homayoun Javadi
+125,2017,Fiona E L Zisch
+125,2017,Hugo J Spiers
+126,2017,Yuko Okumura
+126,2017,Yasuhiro Kanakogi
+126,2017,Tessei Kobayashi
+126,2017,Shoji Itakura
+127,2017,George Kachergis
+127,2017,Marjorie Rhodes
+127,2017,Todd Gureckis
+128,2017,Benjamin M Basile
+128,2017,Robert R Hampton
+129,2017,Carolina Jiménez Lira
+129,2017,Miranda Carver
+129,2017,Heather Douglas
+129,2017,Jo-Anne LeFevre
+130,2017,Austin J Simpson
+130,2017,Andrew R Todd
+131,2017,Matthew Masapollo
+131,2017,Linda Polka
+131,2017,Lucie Ménard
+132,2017,Richard W Hass
+133,2017,Oliver Bott
+133,2017,Petra Augurzky
+133,2017,Wolfgang Sternefeld
+133,2017,Rolf Ulrich
+134,2017,Adam Feltz
+134,2017,Joshua May
+135,2017,Márton Sóskuthy
+135,2017,Jennifer Hay
+136,2017,Alessandra S Souza
+136,2017,Zuzanna Skóra
+137,2017,Senne Braem
+138,2017,Athanassios Protopapas
+138,2017,Anna Mitsi
+138,2017,Miltiadis Koustoumbardis
+138,2017,Sofia M Tsitsopoulou
+138,2017,Marianna Leventi
+138,2017,Aaron R Seitz
+139,2017,Hartmut Fitz
+139,2017,Franklin Chang
+140,2017,Marco Marelli
+140,2017,Christina L Gagné
+140,2017,Thomas L Spalding
+141,2017,Ylva Ferstl
+141,2017,Heinrich Bülthoff
+141,2017,Stephan de la Rosa
+142,2017,Yi Ting Huang
+142,2017,Rochelle S Newman
+142,2017,Allison Catalano
+142,2017,Matthew J Goupell
+143,2017,Roy Salomon
+143,2017,Jean-Paul Noel
+143,2017,Marta Łukowska
+143,2017,Nathan Faivre
+143,2017,Thomas Metzinger
+143,2017,Andrea Serino
+143,2017,Olaf Blanke
+144,2017,Dalila Burin
+144,2017,Maria Pyasik
+144,2017,Adriana Salatino
+144,2017,Lorenzo Pia
+145,2017,William H Warren
+145,2017,Daniel B Rothman
+145,2017,Benjamin H Schnapp
+145,2017,Jonathan D Ericson
+146,2017,Lorna F Halliday
+146,2017,Outi Tuomainen
+146,2017,Stuart Rosen
+147,2017,Michael B Lewis
+148,2017,Sarah S Wu
+148,2017,Lang Chen
+148,2017,Christian Battista
+148,2017,Ashley K Smith Watts
+148,2017,Erik G Willcutt
+148,2017,Vinod Menon
+149,2017,Anna K Kuhlen
+149,2017,Rasha Abdel Rahman
+150,2017,Kouki Miyazawa
+150,2017,Takahito Shinya
+150,2017,Andrew Martin
+150,2017,Hideaki Kikuchi
+150,2017,Reiko Mazuka
+151,2017,Weizhen Xie
+151,2017,Weiwei Zhang
+152,2017,Christine E Potter
+152,2017,Jenny R Saffran
+153,2017,Louise Ewing
+153,2017,Annette Karmiloff-Smith
+153,2017,Emily K Farran
+153,2017,Marie L Smith
+154,2017,Jennifer J Richler
+154,2017,Jeremy B Wilmer
+154,2017,Isabel Gauthier
+155,2017,Nese Oktay-Gür
+155,2017,Hannes Rakoczy
+156,2017,Caren M Walker
+156,2017,Alison Gopnik
+157,2017,Ivan Patané
+157,2017,Alessandro Farnè
+157,2017,Francesca Frassinetti
+158,2017,Tina Iachini
+158,2017,Francesco Ruotolo
+158,2017,Michela Vinciguerra
+158,2017,Gennaro Ruggiero
+159,2017,Asheley R Landrum
+159,2017,Robert B Lull
+159,2017,Heather Akin
+159,2017,Ariel Hasell
+159,2017,Kathleen Hall Jamieson
+160,2017,Victor Kumar
+161,2017,Aiyana K Willard
+161,2017,Ara Norenzayan
+162,2017,Gelareh Jowkar-Baniani
+162,2017,Angelina Paolozza
+162,2017,Anishka Greene
+162,2017,Cho Kin Cheng
+162,2017,Mark A Schmuckler
+163,2017,Ann-Christin Posten
+163,2017,Thomas Mussweiler
+164,2017,Motonori Yamaguchi
+164,2017,Helen J Wall
+164,2017,Bernhard Hommel
+165,2017,Daniele Romano
+165,2017,Francesco Marini
+165,2017,Angelo Maravita
+166,2017,Jenifer Z Siegel
+166,2017,Molly J Crockett
+166,2017,Raymond J Dolan
+167,2017,Eilidh Noyes
+167,2017,Rob Jenkins
+168,2017,Onurcan Yilmaz
+168,2017,S Adil Saribay
+169,2017,Rebecca Brewer
+169,2017,Federica Biotti
+169,2017,Geoffrey Bird
+169,2017,Richard Cook
+170,2017,Richmond Campbell
+171,2017,Anders Petersen
+171,2017,Annemarie Hilkjær Petersen
+171,2017,Claus Bundesen
+171,2017,Signe Vangkilde
+171,2017,Thomas Habekost
+172,2017,Julie W Hughes
+172,2017,Tatiana T Schnur
+173,2017,Francesco Della Gatta
+173,2017,Francesca Garbarini
+173,2017,Marco Rabuffetti
+173,2017,Luca Viganò
+173,2017,Stephen A Butterfill
+173,2017,Corrado Sinigaglia
+175,2017,Jasmeen Kanwal
+175,2017,Kenny Smith
+175,2017,Jennifer Culbertson
+175,2017,Simon Kirby
+176,2017,Feng Du
+176,2017,Xiaotao Wang
+176,2017,Richard A Abrams
+176,2017,Kan Zhang
+177,2017,Peter Cole
+177,2017,Gabriella Hermon
+178,2017,Anna Remington
+178,2017,Jake Fairnie
+179,2017,Delphine Sasanguie
+179,2017,Ian M Lyons
+179,2017,Bert De Smedt
+179,2017,Bert Reynvoet
+180,2017,Anat Prior
+180,2017,Tamar Degani
+180,2017,Sehrab Awawdy
+180,2017,Rana Yassin
+180,2017,Nachshon Korem
+181,2017,Konstantina Kilteni
+181,2017,H Henrik Ehrsson
+182,2017,Karolina Krzyżanowska
+182,2017,Peter J Collins
+182,2017,Ulrike Hahn
+183,2017,Julia Uddén
+183,2017,Martin Ingvar
+183,2017,Peter Hagoort
+183,2017,Karl Magnus Petersson
+184,2017,Laura Lakusta
+184,2017,Danielle Spinelli
+184,2017,Kathryn Garcia
+185,2017,Neil Van Leeuwen
+186,2017,Christopher D Erb
+186,2017,Jeff Moher
+186,2017,Joo-Hyun Song
+186,2017,David M Sobel
+187,2017,Lindsey J Powell
+187,2017,Susan Carey
+188,2017,Freya Watkins
+188,2017,Robin L Thompson
+189,2017,Omri Abend
+189,2017,Tom Kwiatkowski
+189,2017,Nathaniel J Smith
+189,2017,Sharon Goldwater
+189,2017,Mark Steedman
+190,2017,Ty W Boyer
+190,2017,Samuel M Harding
+190,2017,Bennett I Bertenthal
+191,2017,Rachel W Magid
+191,2017,Laura E Schulz
+192,2017,Conor M Steckler
+192,2017,Brandon M Woo
+192,2017,J Kiley Hamlin
+193,2017,R J R Blair
+194,2017,Hezekiah Akiva Bacovcin
+194,2017,Amy Goodwin Davies
+194,2017,Robert J Wilder
+194,2017,David Embick
+195,2017,Jeffrey D Wammes
+195,2017,Myra A Fernandes
+196,2017,Ayala S Allon
+196,2017,Roy Luria
+197,2017,Elizabeth Levy Paluck
+197,2017,Eldar Shafir
+197,2017,Sherry Jueyu Wu
+198,2017,Nicola Molinaro
+198,2017,Francesco Giannelli
+198,2017,Sendy Caffarra
+198,2017,Clara Martin
+199,2017,Sudeep Bhatia
+200,2017,Erin Robbins
+200,2017,Jason Shepard
+200,2017,Philippe Rochat
+201,2017,Andrea Stocco
+201,2017,Nicole L Murray
+201,2017,Brianna L Yamasaki
+201,2017,Taylor J Renno
+201,2017,Jimmy Nguyen
+201,2017,Chantel S Prat
+202,2017,Max Kleiman-Weiner
+202,2017,Rebecca Saxe
+202,2017,Joshua B Tenenbaum
+203,2017,Elizabeth A Enright
+203,2017,Hyowon Gweon
+203,2017,Jessica A Sommerville
+204,2017,Nicholas A Smith
+204,2017,Nicole A Folland
+204,2017,Diana M Martinez
+204,2017,Laurel J Trainor
+205,2017,Joshua D Greene
+206,2017,Christopher D Watkins
+206,2017,Mike J Nicholls
+206,2017,Carlota Batres
+206,2017,Dengke Xiao
+206,2017,Sean Talamas
+206,2017,David I Perrett
+207,2017,Isabelle Dautriche
+207,2017,Kyle Mahowald
+207,2017,Edward Gibson
+207,2017,Anne Christophe
+207,2017,Steven T Piantadosi
+208,2017,Mark K Ho
+208,2017,James MacGlashan
+208,2017,Michael L Littman
+208,2017,Fiery Cushman
+209,2017,Kevin M Trewartha
+209,2017,J Randall Flanagan
+210,2017,Fabienne Chetail
+211,2017,Niina Tamura
+211,2017,Anne Castles
+211,2017,Kate Nation
+212,2017,Benjamin van Buren
+212,2017,Brian J Scholl
+213,2017,Simone Falk
+213,2017,Christopher T Kello
+214,2017,Alex de Carvalho
+214,2017,Isabelle Dautriche
+214,2017,Isabelle Lin
+214,2017,Anne Christophe
+215,2017,Yang Xu
+215,2017,Terry Regier
+215,2017,Nora S Newcombe
+216,2017,John G Grundy
+216,2017,Ashley Chung-Fat-Yim
+216,2017,Deanna C Friesen
+216,2017,Lorinda Mak
+216,2017,Ellen Bialystok
+217,2017,Karl Halvor Teigen
+217,2017,Gisela Böhm
+217,2017,Susanne Bruckmüller
+217,2017,Peter Hegarty
+217,2017,Olivier Luminet
+218,2017,Benjamin E Hilbig
+218,2017,Isabel Thielmann
+219,2017,Aimee E Stahl
+219,2017,Lisa Feigenson
+220,2017,Michael N Stagnaro
+220,2017,Antonio A Arechar
+220,2017,David G Rand
+221,2017,Tobias Tempel
+221,2017,Christian Frings
+222,2017,Alexander Noyes
+222,2017,Yarrow Dunham
+224,2017,Rebecca Keogh
+224,2017,Joel Pearson
+226,2017,Bethany L Ojalehto
+226,2017,Douglas L Medin
+226,2017,Salino G García
+227,2017,Hugh Rabagliati
+227,2017,Leonidas A A Doumas
+227,2017,Douglas K Bemis
+228,2017,Brianna Beck
+228,2017,Steven Di Costa
+228,2017,Patrick Haggard
+229,2017,Kerstin Fröber
+229,2017,Gesine Dreisbach
+230,2017,Nataşa Ganea
+230,2017,Matthew R Longo
+231,2017,Luke E Miller
+231,2017,Matthew R Longo
+231,2017,Ayse P Saygin
+232,2017,Dana Schneider
+232,2017,Virginia P Slaughter
+232,2017,Paul E Dux
+233,2017,Lucy Cragg
+233,2017,Sarah Keeble
+233,2017,Sophie Richardson
+233,2017,Hannah E Roome
+233,2017,Camilla Gilmore
+234,2017,Iris Berent
+234,2017,Outi Bat-El
+234,2017,Vered Vaknin-Nusbaum
+235,2017,David De Vito
+235,2017,Mark J Fenske
+236,2017,Jean-Julien Aucouturier
+236,2017,Clément Canonne
+237,2017,Neil Levy
+238,2017,Alisabeth Ayars
+238,2017,Shaun Nichols
+239,2017,Thomas F Icard
+239,2017,Jonathan F Kominsky
+239,2017,Joshua Knobe
+240,2017,Andrea Ravignani
+240,2017,Ruth Sonnweber
+241,2017,Katherine McAuliffe
+241,2017,Nichola J Raihani
+241,2017,Yarrow Dunham
+242,2017,Raluca A Briazu
+242,2017,Clare R Walsh
+242,2017,Catherine Deeprose
+242,2017,Giorgio Ganis
+243,2017,Nicole K Bolt
+243,2017,Janeen D Loehr
+244,2017,Francesca Delogu
+244,2017,Matthew W Crocker
+244,2017,Heiner Drenhaus
+245,2017,Karl F MacDorman
+245,2017,Debaleena Chattopadhyay
+246,2017,Mauricio Dias Martins
+246,2017,Bruno Gingras
+246,2017,Estela Puig-Waldmueller
+246,2017,W Tecumseh Fitch
+247,2017,Kristen A Baker
+247,2017,Sarah Laurence
+247,2017,Catherine J Mondloch
+248,2017,Markus Paulus
+248,2017,Tobias Schuwerk
+248,2017,Beate Sodian
+248,2017,Kerstin Ganglmayer
+249,2017,Jennifer E Arnold
+249,2017,Nazbanou Nozari
+250,2017,Christian Unkelbach
+250,2017,Sarah C Rom
+251,2017,Giacomo Vivanti
+251,2017,Darren R Hocking
+251,2017,Peter Fanning
+251,2017,Cheryl Dissanayake
+252,2017,Filippo Domaneschi
+252,2017,Massimiliano Vignolo
+252,2017,Simona Di Paola
+253,2017,Melanie S Schreiner
+253,2017,Nivedita Mani
+254,2017,Drew Weatherhead
+254,2017,Katherine S White
+255,2017,Peter C Pantelis
+255,2017,Daniel P Kennedy
+256,2017,Melissa M Kibbe
+256,2017,Lisa Feigenson
+257,2017,Dominique Lamy
+257,2017,Tomer Carmel
+257,2017,Ziv Peremen
+258,2016,Miho Iwasaki
+258,2016,Kodai Tomita
+258,2016,Yasuki Noguchi
+259,2016,Jan-Philipp Stein
+259,2016,Peter Ohler
+260,2016,Shari Liu
+260,2016,Elizabeth S Spelke
+261,2016,Uriel Cohen Priva
+262,2016,Valerian Chambon
+262,2016,Chlöé Farrer
+262,2016,Elisabeth Pacherie
+262,2016,Pierre O Jacquet
+262,2016,Marion Leboyer
+262,2016,Tiziana Zalla
+263,2016,Katheryn Edwards
+263,2016,Jason Low
+264,2016,Caren M Walker
+264,2016,Tania Lombrozo
+265,2016,Jesse Graham
+265,2016,Adam Waytz
+265,2016,Peter Meindl
+265,2016,Ravi Iyer
+265,2016,Liane Young
+266,2016,Marcus Lindskog
+266,2016,Anders Winman
+266,2016,Leo Poom
+267,2016,Weiyi Ma
+267,2016,Peng Zhou
+267,2016,Leher Singh
+267,2016,Liqun Gao
+268,2016,Rose A Cooper
+268,2016,Kate C Plaisted-Grant
+268,2016,Simon Baron-Cohen
+268,2016,Jon S Simons
+269,2016,Jaimie Murdock
+269,2016,Colin Allen
+269,2016,Simon DeDeo
+270,2016,Annie C Spokes
+270,2016,Elizabeth S Spelke
+271,2016,Andrew R Todd
+271,2016,C Daryl Cameron
+271,2016,Austin J Simpson
+272,2016,Qi-Yang Nie
+272,2016,Hermann J Müller
+272,2016,Markus Conci
+273,2016,Anantha Singarajah
+273,2016,Jill Chanley
+273,2016,Yoselin Gutierrez
+273,2016,Yoselin Cordon
+273,2016,Bryan Nguyen
+273,2016,Lauren Burakowski
+273,2016,Scott P Johnson
+274,2016,Yi Ting Huang
+274,2016,Kathryn Leech
+274,2016,Meredith L Rowe
+275,2016,Yvonne Teoh
+275,2016,Emma Wallis
+275,2016,Ian D Stephen
+275,2016,Peter Mitchell
+276,2016,Rose M Scott
+277,2016,Christine Cuskley
+277,2016,Claudio Castellano
+277,2016,Francesca Colaiori
+277,2016,Vittorio Loreto
+277,2016,Martina Pugliese
+277,2016,Francesca Tria
+278,2016,Mahesh Srinivasan
+278,2016,Sara Al-Mughairy
+278,2016,Ruthe Foushee
+278,2016,David Barner
+279,2016,Maria L Filippetti
+279,2016,Manos Tsakiris
+280,2016,Samuel J Cheyette
+280,2016,David C Plaut
+281,2016,C Daryl Cameron
+281,2016,B Keith Payne
+281,2016,Walter Sinnott-Armstrong
+281,2016,Julian A Scheffer
+281,2016,Michael Inzlicht
+282,2016,Adam Bear
+282,2016,Joshua Knobe
+283,2016,Brianna Ruth Doherty
+283,2016,Eva Zita Patai
+283,2016,Mihaela Duta
+283,2016,Anna Christina Nobre
+283,2016,Gaia Scerif
+284,2016,Julien Barra
+284,2016,Patrice Senot
+284,2016,Laurent Auclair
+285,2016,Athanassios Protopapas
+285,2016,Artemis Markatou
+285,2016,Evangelos Samaras
+285,2016,Andreas Piokos
+286,2016,Irit Meir
+286,2016,Mark Aronoff
+286,2016,Carl Börstell
+286,2016,So-One Hwang
+286,2016,Deniz Ilkbasaran
+286,2016,Itamar Kastner
+286,2016,Ryan Lepic
+286,2016,Adi Lifshitz Ben-Basat
+286,2016,Carol Padden
+286,2016,Wendy Sandler
+287,2016,Maria Dolores de Hevia
+287,2016,Margaret Addabbo
+287,2016,Elena Nava
+287,2016,Emanuela Croci
+287,2016,Luisa Girelli
+287,2016,Viola Macchi Cassia
+288,2016,Evan Westra
+288,2016,Peter Carruthers
+289,2016,Toyomi Matsuno
+289,2016,Masaki Tomonaga
+290,2016,Xiaomei Qiao
+290,2016,Kenneth I Forster
+291,2016,Bozana Meinhardt-Injac
+291,2016,Isabelle Boutet
+291,2016,Malte Persike
+291,2016,Günter Meinhardt
+291,2016,Margarete Imhof
+292,2016,Bence Bago
+292,2016,Wim De Neys
+293,2016,Jacob Beck
+294,2016,Emily E Butler
+294,2016,Christopher W N Saville
+294,2016,Robert Ward
+294,2016,Richard Ramsey
+295,2016,Steven A Marchette
+295,2016,Jack Ryan
+295,2016,Russell A Epstein
+296,2016,Francesco Sella
+296,2016,Ilaria Berteletti
+296,2016,Daniela Lucangeli
+296,2016,Marco Zorzi
+297,2016,María Juliana Leone
+297,2016,Diego Fernandez Slezak
+297,2016,Diego Golombek
+297,2016,Mariano Sigman
+298,2016,Emily Morgan
+298,2016,Roger Levy
+299,2016,G Besson
+299,2016,G Barragan-Jason
+299,2016,S J Thorpe
+299,2016,M Fabre-Thorpe
+299,2016,S Puma
+299,2016,M Ceccaldi
+299,2016,E J Barbeau
+300,2016,Tomás Lejarraga
+300,2016,Jan K Woike
+300,2016,Ralph Hertwig
+301,2016,Srdan Medimorec
+301,2016,Torin P Young
+301,2016,Evan F Risko
+302,2016,Emily M Carrigan
+302,2016,Marie Coppola
+303,2016,Yoshiko Yabe
+303,2016,Hemangi Dave
+303,2016,Melvyn A Goodale
+304,2016,Masasi Hattori
+305,2016,Sabine Doebel
+305,2016,Philip David Zelazo
+306,2016,Gavin Nobes
+306,2016,Georgia Panagiotaki
+306,2016,Kimberley J Bartholomew
+307,2016,Mayuka Kowaguchi
+307,2016,Nirali P Patel
+307,2016,Megan E Bunnell
+307,2016,Jerald D Kralik
+308,2016,Jasminka Majdandžić
+308,2016,Sandra Amashaufer
+308,2016,Allan Hummer
+308,2016,Christian Windischberger
+308,2016,Claus Lamm
+309,2016,Stephanie C Goodhew
+309,2016,Mark Edwards
+310,2016,Shogo Kajimura
+310,2016,Michio Nomura
+311,2016,Chiara Gambi
+311,2016,Martin J Pickering
+311,2016,Hugh Rabagliati
+312,2016,Dan Parker
+312,2016,Colin Phillips
+313,2016,Elena Azañón
+313,2016,Kim Mihaljevic
+313,2016,Matthew R Longo
+314,2016,Joshua K Hartshorne
+314,2016,Timothy J O'Donnell
+314,2016,Yasutada Sudo
+314,2016,Miki Uruwashi
+314,2016,Miseon Lee
+314,2016,Jesse Snedeker
+315,2016,Clare A M Sutherland
+315,2016,Julian A Oldmeadow
+315,2016,Andrew W Young
+316,2016,Holly P Branigan
+316,2016,Katherine Messenger
+317,2016,Gernot Horstmann
+317,2016,Ulrich Ansorge
+318,2016,Ernő Téglás
+318,2016,Luca L Bonatti
+319,2016,Horst Krist
+319,2016,Karoline Karl
+319,2016,Markus Krüger
+320,2016,Kristen Johannes
+320,2016,Colin Wilson
+320,2016,Barbara Landau
+321,2016,Takahiro Kawabe
+321,2016,Kyoshiro Sasaki
+321,2016,Keiko Ihaya
+321,2016,Yuki Yamada
+322,2016,Ting Qian
+322,2016,T Florian Jaeger
+322,2016,Richard N Aslin
+323,2016,Marek Meristo
+323,2016,Karin Strid
+323,2016,Erland Hjelmquist
+324,2016,David Kellen
+324,2016,Thorsten Pachur
+324,2016,Ralph Hertwig
+325,2016,Marjorie Rhodes
+325,2016,Henry Wellman
+326,2016,Emma E Howard
+326,2016,S Gareth Edwards
+326,2016,Andrew P Bayliss
+327,2016,John Michael
+327,2016,Natalie Sebanz
+327,2016,Günther Knoblich
+328,2016,Peter Railton
+329,2016,Su-Hua Wang
+329,2016,Yu Zhang
+329,2016,Renée Baillargeon
+330,2016,Hanna B Fechner
+330,2016,Thorsten Pachur
+330,2016,Lael J Schooler
+330,2016,Katja Mehlhorn
+330,2016,Ceren Battal
+330,2016,Kirsten G Volz
+330,2016,Jelmer P Borst
+331,2016,Jessica B Hamrick
+331,2016,Peter W Battaglia
+331,2016,Thomas L Griffiths
+331,2016,Joshua B Tenenbaum
+332,2016,O Rosa-Salva
+332,2016,M Grassi
+332,2016,E Lorenzi
+332,2016,L Regolin
+332,2016,G Vallortigara
+333,2016,Marcello Costantini
+333,2016,Jeffrey Robinson
+333,2016,Daniele Migliorati
+333,2016,Brunella Donno
+333,2016,Francesca Ferri
+333,2016,Georg Northoff
+334,2016,Xianmin Gong
+334,2016,Hongrui Xiao
+334,2016,Dahua Wang
+335,2016,Jana Samland
+335,2016,Michael R Waldmann
+336,2016,Annemarie Kocab
+336,2016,Ann Senghas
+336,2016,Jesse Snedeker
+337,2016,Aiden E G F Arnold
+337,2016,Giuseppe Iaria
+337,2016,Arne D Ekstrom
+338,2016,Stefanie Hechler
+338,2016,Franz J Neyer
+338,2016,Thomas Kessler
+339,2016,Bryor Snefjella
+339,2016,Victor Kuperman
+340,2016,George E Newman
+340,2016,Rosanna K Smith
+341,2016,Klaus Oberauer
+341,2016,Stephan Lewandowsky
+342,2016,Andrew R Todd
+342,2016,Austin J Simpson
+343,2016,Yi Ting Huang
+343,2016,Alison R Arnold
+344,2016,Katy Borodkin
+344,2016,Yoed N Kenett
+344,2016,Miriam Faust
+344,2016,Nira Mashal
+345,2016,Andrew Martin
+345,2016,Yosuke Igarashi
+345,2016,Nobuyuki Jincho
+345,2016,Reiko Mazuka
+346,2016,Mélanie Havy
+346,2016,Sandra R Waxman
+347,2016,Caren M Walker
+347,2016,Sophie Bridgers
+347,2016,Alison Gopnik
+348,2016,Michele Scaltritti
+348,2016,Barbara Arfé
+348,2016,Mark Torrance
+348,2016,Francesca Peressotti
+349,2016,Solène Le Bars
+349,2016,Yi-Fang Hsu
+349,2016,Florian Waszak
+350,2016,Filomena Anelli
+350,2016,Elisa Ciaramelli
+350,2016,Shahar Arzy
+350,2016,Francesca Frassinetti
+351,2016,Rajakrishnan Rajkumar
+351,2016,Marten van Schijndel
+351,2016,Michael White
+351,2016,William Schuler
+352,2016,Léo-Lyuki Nishibayashi
+352,2016,Thierry Nazzi
+353,2016,Laura Elenbaas
+353,2016,Michael T Rizzo
+353,2016,Shelby Cooley
+353,2016,Melanie Killen
+354,2016,Madison L Pesowski
+354,2016,Stephanie Denison
+354,2016,Ori Friedman
+355,2016,Jack De Havas
+355,2016,Arko Ghosh
+355,2016,Hiroaki Gomi
+355,2016,Patrick Haggard
+356,2016,Susan A Gelman
+356,2016,Natalie S Davidson
+357,2016,Aleksandar Aksentijevic
+357,2016,John Melvin Gudnyson Treider
+359,2016,Zijian Zhu
+359,2016,Yingying Wang
+359,2016,Zhijun Cao
+359,2016,Biqing Chen
+359,2016,Huaqian Cai
+359,2016,Yanhong Wu
+359,2016,Yi Rao
+360,2016,Bill Macken
+360,2016,John C Taylor
+360,2016,Michail D Kozlov
+360,2016,Robert W Hughes
+360,2016,Dylan M Jones
+361,2016,Andrés Fernández-Martín
+361,2016,Manuel G Calvo
+362,2016,Mustapha Chekaf
+362,2016,Nelson Cowan
+362,2016,Fabien Mathy
+363,2016,Tobias Meilinger
+363,2016,Marianne Strickrodt
+363,2016,Heinrich H Bülthoff
+364,2016,Emily J Hopkins
+364,2016,Deena Skolnick Weisberg
+364,2016,Jordan C V Taylor
+365,2016,Youngja Nam
+365,2016,Linda Polka
+366,2016,Arvid Guterstam
+366,2016,Hugo Zeberg
+366,2016,Vedat Menderes Özçiftci
+366,2016,H Henrik Ehrsson
+367,2016,Christoph J Völter
+367,2016,Inés Sentís
+367,2016,Josep Call
+368,2016,Sharon M Noh
+368,2016,Veronica X Yan
+368,2016,Robert A Bjork
+368,2016,W Todd Maddox
+369,2016,Elisa Canzoneri
+369,2016,Giuseppe di Pellegrino
+369,2016,Bruno Herbelin
+369,2016,Olaf Blanke
+369,2016,Andrea Serino
+370,2016,Kerstin Unger
+370,2016,Laura Ackerman
+370,2016,Christopher H Chatham
+370,2016,Dima Amso
+370,2016,David Badre
+371,2016,Solène Kalénine
+371,2016,Yannick Wamain
+371,2016,Jérémy Decroix
+371,2016,Yann Coello
+372,2016,Tanor L Bonin
+372,2016,Laurel J Trainor
+372,2016,Michel Belyk
+372,2016,Paul W Andrews
+373,2016,Cyril Thomas
+373,2016,André Didierjean
+374,2016,Cara H Cashon
+374,2016,Oh-Ryeong Ha
+374,2016,Katharine Graf Estes
+374,2016,Jenny R Saffran
+374,2016,Carolyn B Mervis
+375,2016,Aidan J Horner
+375,2016,James A Bisby
+375,2016,Aijing Wang
+375,2016,Katrina Bogus
+375,2016,Neil Burgess
+378,2016,Stephen C Van Hedger
+378,2016,Shannon L M Heald
+378,2016,Howard C Nusbaum
+379,2016,Amit Yashar
+379,2016,Marisa Carrasco
+380,2016,Lee Walsh
+380,2016,James Critchlow
+380,2016,Brianna Beck
+380,2016,Antonio Cataldo
+380,2016,Lieke de Boer
+380,2016,Patrick Haggard
+381,2016,Larisa Heiphetz
+381,2016,Liane L Young
+382,2016,Si On Yoon
+382,2016,Aaron S Benjamin
+382,2016,Sarah Brown-Schmidt
+383,2016,Jifan Zhou
+383,2016,Haihang Zhang
+383,2016,Xiaowei Ding
+383,2016,Rende Shui
+383,2016,Mowei Shen
+384,2016,Ravi D Mill
+384,2016,Akira R O'Connor
+384,2016,Ian G Dobbins
+385,2016,Michele Miozzo
+385,2016,Anna Petrova
+385,2016,Simon Fischer-Baum
+385,2016,Francesca Peressotti
+386,2016,Baptiste Gauthier
+386,2016,Virginie van Wassenhove
+387,2016,Marina C Wimmer
+387,2016,Katie L Maras
+387,2016,Elizabeth J Robinson
+387,2016,Charlotte Thomas
+388,2016,Shilpa Mody
+388,2016,Susan Carey
+389,2016,Janet Geipel
+389,2016,Constantinos Hadjichristidis
+389,2016,Luca Surian
+390,2016,Jessica L Roeder
+390,2016,F Gregory Ashby
+391,2016,Thomas Holtgraves
+391,2016,Audrey Perdew
+392,2016,Andrey Chetverikov
+392,2016,Gianluca Campana
+392,2016,Árni Kristjánsson
+393,2016,Molly L Lewis
+393,2016,Michael C Frank
+394,2016,Qingrong Chen
+394,2016,Jingjing Zhang
+394,2016,Xiaodong Xu
+394,2016,Christoph Scheepers
+394,2016,Yiming Yang
+394,2016,Michael K Tanenhaus
+395,2016,Danielle R Perszyk
+395,2016,Sandra R Waxman
+396,2016,Justin N Wood
+397,2016,Simon Fischer-Baum
+397,2016,Robert Englebretson
+398,2016,Irene M Pepperberg
+398,2016,Ken Nakayama
+399,2016,Katherine E Twomey
+399,2016,Franklin Chang
+399,2016,Ben Ambridge
+400,2016,Cordula Vesper
+400,2016,Laura Schmitz
+400,2016,Lou Safra
+400,2016,Natalie Sebanz
+400,2016,Günther Knoblich
+401,2016,Yang Sun
+401,2016,Luis J Fuentes
+401,2016,Glyn W Humphreys
+401,2016,Jie Sui
+402,2016,Harmen B Gudde
+402,2016,Kenny R Coventry
+402,2016,Paul E Engelhardt
+403,2016,Samuel Sparks
+403,2016,Sheila J Cunningham
+403,2016,Ada Kritikos
+404,2016,Gary Jones
+405,2016,Lauren L Emberson
+405,2016,Dani Y Rubinstein
+406,2016,Eda Mızrak
+406,2016,Ilke Öztekin
+407,2016,Amrisha Vaish
+407,2016,Esther Herrmann
+407,2016,Christiane Markmann
+407,2016,Michael Tomasello
+408,2016,Andrea Desantis
+408,2016,Patrick Haggard
+409,2016,Niklas Ihssen
+409,2016,Thomas Mussweiler
+409,2016,David E J Linden
+410,2016,Dimitrios Skordos
+410,2016,Anna Papafragou
+411,2016,Shinji Kuriki
+411,2016,Yuri Tamura
+411,2016,Miki Igarashi
+411,2016,Nobumasa Kato
+411,2016,Tamami Nakano
+412,2016,L Robert Slevc
+412,2016,Nicholas S Davey
+412,2016,Martin Buschkuehl
+412,2016,Susanne M Jaeggi
+413,2016,Chris R Sims
+414,2016,Peter D Kvam
+414,2016,Timothy J Pleskac
+415,2016,Anne Gabrielle Eva Collins
+415,2016,Michael Joshua Frank
+417,2016,Monika Molnar
+417,2016,Manuel Carreiras
+417,2016,Judit Gervain
+418,2016,Cristina D Rabaglia
+418,2016,Sam J Maglio
+418,2016,Madelaine Krehm
+418,2016,Jin H Seok
+418,2016,Yaacov Trope
+419,2016,Jonathan D Lane
+419,2016,Samuel Ronfard
+419,2016,Stéphane P Francioli
+419,2016,Paul L Harris
+420,2016,Christopher D Erb
+420,2016,Jeff Moher
+420,2016,David M Sobel
+420,2016,Joo-Hyun Song
+421,2016,Lara Maister
+421,2016,Manos Tsakiris
+422,2016,Caitlin M Fausey
+422,2016,Swapnaa Jayaraman
+422,2016,Linda B Smith
+423,2016,Yevdokiya Yermolayeva
+423,2016,David H Rakison
+424,2016,Emily J Ward
+424,2016,Adam Bear
+424,2016,Brian J Scholl
+425,2016,Bruce Hood
+425,2016,Sandra Weltzien
+425,2016,Lauren Marsh
+425,2016,Patricia Kanngiesser
+426,2016,Diana López-Barroso
+426,2016,David Cucurell
+426,2016,Antoni Rodríguez-Fornells
+426,2016,Ruth de Diego-Balaguer
+427,2016,Céline Ngon
+427,2016,Sharon Peperkamp
+428,2016,Luca Rinaldi
+428,2016,Samuel Di Luca
+428,2016,Avishai Henik
+428,2016,Luisa Girelli
+429,2016,Vittorio Girotto
+429,2016,Laura Fontanari
+429,2016,Michel Gonzalez
+429,2016,Giorgio Vallortigara
+429,2016,Agnès Blaye
+430,2016,Sebastian Benjamin Rose
+430,2016,Rasha Abdel Rahman
+431,2016,Timothy J Poepsel
+431,2016,Daniel J Weiss
+432,2016,Sudeep Bhatia
+432,2016,Lukasz Walasek
+433,2016,Rachel Ostrand
+433,2016,Sheila E Blumstein
+433,2016,Victor S Ferreira
+433,2016,James L Morgan
+434,2016,Igor Douven
+435,2016,Arber Tasimi
+435,2016,Karen Wynn
+436,2016,Mako Ishida
+436,2016,Arthur G Samuel
+436,2016,Takayuki Arai
+437,2016,M Fornaciai
+437,2016,G M Cicchini
+437,2016,D C Burr
+440,2016,Ke Ma
+440,2016,Roberta Sellaro
+440,2016,Dominique Patrick Lippelt
+440,2016,Bernhard Hommel
+441,2016,John M Huhn
+441,2016,Cory Adam Potts
+441,2016,David A Rosenbaum
+442,2016,Jakub Traczyk
+442,2016,Kamil Fulawka
+443,2016,Rixin Tang
+443,2016,Robert L Whitwell
+443,2016,Melvyn A Goodale
+444,2016,Richard A Blythe
+444,2016,Andrew D M Smith
+444,2016,Kenny Smith
+445,2016,Jun Yin
+445,2016,Haokui Xu
+445,2016,Xiaowei Ding
+445,2016,Junying Liang
+445,2016,Rende Shui
+445,2016,Mowei Shen
+446,2016,John Protzko
+446,2016,Brett Ouimette
+446,2016,Jonathan Schooler
+447,2016,Wenke Möhring
+447,2016,Kizzann Ashana Ramsook
+447,2016,Kathryn Hirsh-Pasek
+447,2016,Roberta M Golinkoff
+447,2016,Nora S Newcombe
+448,2016,Alisabeth Ayars
+449,2016,Susan E Teubner-Rhodes
+449,2016,Alan Mishler
+449,2016,Ryan Corbett
+449,2016,Llorenç Andreu
+449,2016,Monica Sanz-Torrent
+449,2016,John C Trueswell
+449,2016,Jared M Novick
+450,2016,Stefan G Hofmann
+450,2016,Stacey N Doan
+450,2016,Manuel Sprung
+450,2016,Anne Wilson
+450,2016,Chad Ebesutani
+450,2016,Leigh A Andrews
+450,2016,Joshua Curtiss
+450,2016,Paul L Harris
+451,2016,Bernard Crespi
+451,2016,Emma Leach
+451,2016,Natalie Dinsdale
+451,2016,Mikael Mokkonen
+451,2016,Peter Hurd
+452,2016,Hilary E Miller
+452,2016,Rebecca Patterson
+452,2016,Vanessa R Simmering
+453,2016,Sarah Jessen
+453,2016,Nicole Altvater-Mackensen
+453,2016,Tobias Grossmann
+454,2016,Qi-Yang Nie
+454,2016,Mara Maurer
+454,2016,Hermann J Müller
+454,2016,Markus Conci
+455,2016,Zheng Wang
+455,2016,Jerome R Busemeyer
+456,2016,Tomas Folke
+456,2016,Julia Ouzia
+456,2016,Peter Bright
+456,2016,Benedetto De Martino
+456,2016,Roberto Filippi
+457,2016,Eoin Travers
+457,2016,Jonathan J Rolison
+457,2016,Aidan Feeney
+458,2016,Katrin Göthe
+458,2016,Klaus Oberauer
+458,2016,Reinhold Kliegl
+459,2016,Eric Reuland
+460,2016,Ana B Vivas
+460,2016,Alejandra Marful
+460,2016,Despina Panagiotidou
+460,2016,Teresa Bajo
+461,2016,C Fabian Benitez-Quiroz
+461,2016,Ronnie B Wilbur
+461,2016,Aleix M Martinez
+462,2016,Celia Goffin
+462,2016,Daniel Ansari
+463,2016,Carla Krachun
+463,2016,Robert Lurz
+463,2016,Jamie L Russell
+463,2016,William D Hopkins
+464,2016,Andrew Surtees
+464,2016,Ian Apperly
+464,2016,Dana Samson
+465,2016,Alex Wiegmann
+465,2016,Jana Samland
+465,2016,Michael R Waldmann
+466,2016,Niels Skovgaard-Olsen
+466,2016,Henrik Singmann
+466,2016,Karl Christoph Klauer
+467,2016,Vladimir Chituc
+467,2016,Paul Henne
+467,2016,Walter Sinnott-Armstrong
+467,2016,Felipe De Brigard
+468,2016,Andree Hartanto
+468,2016,Hwajin Yang
+469,2016,Jennifer L Mankin
+469,2016,Christopher Thompson
+469,2016,Holly P Branigan
+469,2016,Julia Simner
+470,2016,Daphna Heller
+470,2016,Christopher Parisien
+470,2016,Suzanne Stevenson
+471,2016,Efrat Goldvicht-Bacon
+471,2016,Gil Diesendruck
+472,2016,Katherine R Naish
+472,2016,Brittany Barnes
+472,2016,Sukhvinder S Obhi
+473,2016,Surya Gayet
+473,2016,Chris L E Paffen
+473,2016,Artem V Belopolsky
+473,2016,Jan Theeuwes
+473,2016,Stefan Van der Stigchel
+474,2016,Isabel Lindner
+474,2016,Cécile Schain
+474,2016,Gerald Echterhoff
+475,2016,Adolfo M García
+475,2016,Agustín Ibáñez
+476,2016,David W Braithwaite
+476,2016,Robert L Goldstone
+476,2016,Han L J van der Maas
+476,2016,David H Landy
+477,2016,Christina Starmans
+477,2016,Ori Friedman
+478,2016,Kyle A Pettijohn
+478,2016,Alexis N Thompson
+478,2016,Andrea K Tamplin
+478,2016,Sabine A Krawietz
+478,2016,Gabriel A Radvansky
+479,2016,Matthew Goldrick
+479,2016,Joseph Keshet
+479,2016,Erin Gustafson
+479,2016,Jordana Heller
+479,2016,Jeremy Needle
+480,2016,John C Trueswell
+480,2016,Yi Lin
+480,2016,Benjamin Armstrong
+480,2016,Erica A Cartmill
+480,2016,Susan Goldin-Meadow
+480,2016,Lila R Gleitman
+481,2016,Kyriakos Antoniou
+481,2016,Kleanthes K Grohmann
+481,2016,Maria Kambanaros
+481,2016,Napoleon Katsos
+482,2016,John E Opfer
+482,2016,Clarissa A Thompson
+482,2016,Dan Kim
+483,2016,Michelle R Greene
+484,2016,L Cardinali
+484,2016,C Brozzoli
+484,2016,L Finos
+484,2016,A C Roy
+484,2016,A Farnè
+485,2016,Gaye Soley
+485,2016,Elizabeth S Spelke
+486,2016,Andrew Surtees
+486,2016,Dana Samson
+486,2016,Ian Apperly
+487,2016,Bryan E Kerster
+487,2016,Theo Rhodes
+487,2016,Christopher T Kello
+488,2015,Fathima Manaar Zuhurudeen
+488,2015,Yi Ting Huang
+489,2015,Janny C Stapel
+489,2015,Sabine Hunnius
+489,2015,Marlene Meyer
+489,2015,Harold Bekkering
+490,2015,Gustav Kuhn
+490,2015,Ronald A Rensink
+491,2015,Jeffrey S Bowers
+491,2015,Ivan I Vankov
+491,2015,Markus F Damian
+491,2015,Colin J Davis
+492,2015,Daniel Fitousi
+493,2015,Gabriel Arnold
+493,2015,Charles Spence
+493,2015,Malika Auvray
+494,2015,Michel Failing
+494,2015,Jan Theeuwes
+495,2015,Şeyda Özçalışkan
+495,2015,Ché Lucero
+495,2015,Susan Goldin-Meadow
+496,2015,Caroline Floccia
+496,2015,Tamar Keren-Portnoy
+496,2015,Rory DePaolis
+496,2015,Hester Duffy
+496,2015,Claire Delle Luche
+496,2015,Samantha Durrant
+496,2015,Laurence White
+496,2015,Jeremy Goslin
+496,2015,Marilyn Vihman
+497,2015,Hui Chen
+497,2015,Garrett Swan
+497,2015,Brad Wyble
+498,2015,Sachio Otsuka
+498,2015,Jun Saiki
+499,2015,Justin W Martin
+499,2015,Fiery Cushman
+500,2015,James Myers
+501,2015,Mario Weick
+501,2015,John A Allen
+501,2015,Milica Vasiljevic
+501,2015,Bo Yao
+502,2015,Elan Barenholtz
+502,2015,Lauren Mavica
+502,2015,David J Lewkowicz
+503,2015,Stefanie Keupp
+503,2015,Christin Bancken
+503,2015,Jelka Schillmöller
+503,2015,Hannes Rakoczy
+503,2015,Tanya Behne
+504,2015,Roland Pfister
+504,2015,Robert Wirth
+504,2015,Katharina A Schwarz
+504,2015,Marco Steinhauser
+504,2015,Wilfried Kunde
+505,2015,Rachel A Ryskin
+505,2015,Ranxiao Frances Wang
+505,2015,Sarah Brown-Schmidt
+506,2015,Rebecca L A Frost
+506,2015,Padraic Monaghan
+507,2015,Hee Seung Lee
+507,2015,Melissa DeWolf
+507,2015,Miriam Bassok
+507,2015,Keith J Holyoak
+508,2015,Mark Myslín
+508,2015,Roger Levy
+509,2015,Melissa L Allen
+509,2015,Erika Nurmsoo
+509,2015,Norman Freeman
+510,2015,Simon P Liversedge
+510,2015,Denis Drieghe
+510,2015,Xin Li
+510,2015,Guoli Yan
+510,2015,Xuejun Bai
+510,2015,Jukka Hyönä
+511,2015,Gail McKoon
+511,2015,Roger Ratcliff
+512,2015,Sascha Topolinski
+512,2015,Giti Bakhtiari
+512,2015,Thorsten M Erle
+513,2015,E Gowen
+513,2015,E Bolton
+513,2015,E Poliakoff
+514,2015,Maria Cristina Cioffi
+514,2015,Michael J Banissy
+514,2015,James W Moore
+515,2015,Bradley R Sturz
+515,2015,Kent D Bodily
+516,2015,Francesco Rigoli
+516,2015,Giovanni Pezzulo
+516,2015,Raymond J Dolan
+517,2015,Daniel Perez-Zapata
+517,2015,Virginia Slaughter
+517,2015,Julie D Henry
+518,2015,Lauri Oksama
+518,2015,Jukka Hyönä
+519,2015,Colin Holbrook
+519,2015,Daniel M T Fessler
+519,2015,Jeremy Pollack
+520,2015,Joaquín Ais
+520,2015,Ariel Zylberberg
+520,2015,Pablo Barttfeld
+520,2015,Mariano Sigman
+521,2015,Cynthia Lukyanenko
+521,2015,Cynthia Fisher
+522,2015,Miriam A Novack
+522,2015,Elizabeth M Wakefield
+522,2015,Susan Goldin-Meadow
+523,2015,Déborah Marciano-Romm
+523,2015,Assaf Romm
+523,2015,Sacha Bourgeois-Gironde
+523,2015,Leon Y Deouell
+524,2015,Zaifeng Gao
+524,2015,Qiyang Gao
+524,2015,Ning Tang
+524,2015,Rende Shui
+524,2015,Mowei Shen
+525,2015,Neil Cohn
+526,2015,Kim Uittenhove
+526,2015,Catherine Thevenot
+526,2015,Pierre Barrouillet
+527,2015,Huanhuan Liu
+527,2015,Lijuan Liang
+527,2015,Susan Dunlap
+527,2015,Ning Fan
+527,2015,Baoguo Chen
+528,2015,Melissa M Kibbe
+528,2015,Lisa Feigenson
+529,2015,Matthew Hudson
+529,2015,Toby Nicholson
+529,2015,Rob Ellis
+529,2015,Patric Bach
+530,2015,Milena Rabovsky
+530,2015,Daniel J Schad
+530,2015,Rasha Abdel Rahman
+531,2015,Romain Mathieu
+531,2015,Audrey Gourjon
+531,2015,Auriane Couderc
+531,2015,Catherine Thevenot
+531,2015,Jérôme Prado
+532,2015,Veronica Dudarev
+532,2015,Ran R Hassin
+533,2015,Jiaying Zhao
+533,2015,Ru Qi Yu
+534,2015,Peter Moseley
+534,2015,David Smailes
+534,2015,Amanda Ellison
+534,2015,Charles Fernyhough
+535,2015,Karl F MacDorman
+535,2015,Debaleena Chattopadhyay
+536,2015,Brock Ferguson
+536,2015,Sandra R Waxman
+537,2015,Joris Van de Cavey
+537,2015,Robert J Hartsuiker
+538,2015,Bastien Trémolière
+538,2015,Hakim Djeriouat
+539,2015,Juan J Ortells
+539,2015,Markus Kiefer
+539,2015,Alejandro Castillo
+539,2015,Montserrat Megías
+539,2015,Alejandro Morillas
+540,2015,Andrea Desantis
+540,2015,Florian Waszak
+540,2015,Karolina Moutsopoulou
+540,2015,Patrick Haggard
+541,2015,Gustav Kuhn
+541,2015,Robert Teszka
+541,2015,Natalia Tenaw
+541,2015,Alan Kingstone
+542,2015,Leyre Castro
+542,2015,Edward A Wasserman
+543,2015,Ana L Fernandez Cruz
+543,2015,Santiago Arango-Muñoz
+543,2015,Kirsten G Volz
+544,2015,Audrey Bürki
+544,2015,Jasmin Sadat
+544,2015,Anne-Sophie Dubarry
+544,2015,F-Xavier Alario
+545,2015,Antje Gentsch
+545,2015,Arne Weber
+545,2015,Matthis Synofzik
+545,2015,Gottfried Vosgerau
+545,2015,Simone Schütz-Bosbach
+546,2015,Peer Christensen
+546,2015,Riccardo Fusaroli
+546,2015,Kristian Tylén
+547,2015,Christos Bechlivanidis
+547,2015,David A Lagnado
+548,2015,Catherine Thevenot
+548,2015,Pierre Barrouillet
+548,2015,Caroline Castel
+548,2015,Kim Uittenhove
+549,2015,Maya B Mathur
+549,2015,David B Reichling
+550,2015,Mansur Khamitov
+550,2015,Jeff D Rotman
+550,2015,Jared Piazza
+551,2015,Stephanie McEwan
+551,2015,Madison L Pesowski
+551,2015,Ori Friedman
+552,2015,Svenja Koehne
+552,2015,Alexander Hatri
+552,2015,John T Cacioppo
+552,2015,Isabel Dziobek
+553,2015,Juan M Toro
+553,2015,Marina Nespor
+553,2015,Judit Gervain
+554,2015,Suk Won Han
+555,2015,Joel Chan
+555,2015,Christian D Schunn
+556,2015,Nick Leonard
+556,2015,Lance J Rips
+557,2015,Josef Perner
+557,2015,Michael Huemer
+557,2015,Brian Leahy
+558,2015,Joshua D Cosman
+558,2015,Priyanka V Atreya
+558,2015,Geoffrey F Woodman
+559,2015,Manuel Bohn
+559,2015,Josep Call
+559,2015,Michael Tomasello
+560,2015,Daniel Yurovsky
+560,2015,Michael C Frank
+561,2015,Liqiang Huang
+562,2015,Jonathan Phillips
+562,2015,Jamie B Luguri
+562,2015,Joshua Knobe
+563,2015,Rohan Kapitány
+563,2015,Mark Nielsen
+564,2015,Michiel van Elk
+564,2015,Bastiaan T Rutjens
+564,2015,Joop van der Pligt
+565,2015,Larisa Heiphetz
+565,2015,Elizabeth S Spelke
+565,2015,Liane L Young
+566,2015,Katrina Ferrara
+566,2015,Barbara Landau
+567,2015,Nino Grillo
+567,2015,João Costa
+567,2015,Bruno Fernandes
+567,2015,Andrea Santi
+568,2015,Lulu Wan
+568,2015,Kate Crookes
+568,2015,Katherine J Reynolds
+568,2015,Jessica L Irons
+568,2015,Elinor McKone
+569,2015,Angie M Johnston
+569,2015,Candice M Mills
+569,2015,Asheley R Landrum
+570,2015,Jessica A Cooper
+570,2015,Jessecae K Marsh
+571,2015,Livia Freier
+571,2015,Richard P Cooper
+571,2015,Denis Mareschal
+572,2015,Jean-Paul Noel
+572,2015,Christian Pfeiffer
+572,2015,Olaf Blanke
+572,2015,Andrea Serino
+573,2015,Shelbie L Sutherland
+573,2015,Andrei Cimpian
+574,2015,Alice De Visscher
+574,2015,Arnaud Szmalec
+574,2015,Lize Van Der Linden
+574,2015,Marie-Pascale Noël
+575,2015,Dirk U Wulff
+575,2015,Thomas T Hills
+575,2015,Ralph Hertwig
+576,2015,Dušan Vejnović
+576,2015,Sunčica Zdravković
+577,2015,Elizabeth A Gunderson
+577,2015,Elizabet Spaepen
+577,2015,Dominic Gibson
+577,2015,Susan Goldin-Meadow
+577,2015,Susan C Levine
+578,2015,Gary Jones
+578,2015,Bill Macken
+579,2015,Azzurra Ruggeri
+579,2015,Tania Lombrozo
+580,2015,Myrthe Faber
+580,2015,Silvia P Gennari
+581,2015,LouAnn Gerken
+581,2015,Sara Knight
+582,2015,Anna J Cunningham
+582,2015,Caroline Witton
+582,2015,Joel B Talcott
+582,2015,Adrian P Burgess
+582,2015,Laura R Shapiro
+583,2015,Fabián A Soto
+583,2015,Gonzalo R Quintana
+583,2015,Andrés M Pérez-Acosta
+583,2015,Fernando P Ponce
+583,2015,Edgar H Vogel
+584,2015,Desmond C Ong
+584,2015,Jamil Zaki
+584,2015,Noah D Goodman
+585,2015,Christina M Vanden Bosch der Nederlanden
+585,2015,Erin E Hannon
+585,2015,Joel S Snyder
+586,2015,Hironori Akechi
+586,2015,Timo Stein
+586,2015,Yukiko Kikuchi
+586,2015,Yoshikuni Tojo
+586,2015,Hiroo Osanai
+586,2015,Toshikazu Hasegawa
+587,2015,Isabelle Deschamps
+587,2015,Galit Agmon
+587,2015,Yonatan Loewenstein
+587,2015,Yosef Grodzinsky
+588,2015,Marcus Rothkirch
+588,2015,Apoorva Rajiv Madipakkam
+588,2015,Erik Rehn
+588,2015,Philipp Sterzer
+589,2015,Xiaoqing Gao
+589,2015,Daphne Maurer
+589,2015,Hugh R Wilson
+590,2015,Pierce Edmiston
+590,2015,Gary Lupyan
+591,2015,Thomas T Hills
+591,2015,James S Adelman
+592,2015,Isabelle Dautriche
+592,2015,Daniel Swingley
+592,2015,Anne Christophe
+593,2015,Daniel Freudenthal
+593,2015,Julian M Pine
+593,2015,Gary Jones
+593,2015,Fernand Gobet
+594,2015,Stephen Stich
+594,2015,Joshua Tarzia
+595,2015,Winfried Menninghaus
+595,2015,Isabel C Bohrn
+595,2015,Christine A Knoop
+595,2015,Sonja A Kotz
+595,2015,Wolff Schlotz
+595,2015,Arthur M Jacobs
+596,2015,Flavia Mancini
+596,2015,Hannah Steinitz
+596,2015,James Steckelmacher
+596,2015,Gian Domenico Iannetti
+596,2015,Patrick Haggard
+597,2015,Adriel John Orena
+597,2015,Rachel M Theodore
+597,2015,Linda Polka
+598,2015,Yingying Wang
+598,2015,Zhijun Cao
+598,2015,Zijian Zhu
+598,2015,Huaqian Cai
+598,2015,Yanhong Wu
+599,2015,Padraic Monaghan
+599,2015,Ut Na Sio
+599,2015,Sum Wai Lau
+599,2015,Hoi Kei Woo
+599,2015,Sally A Linkenauger
+599,2015,Thomas C Ormerod
+600,2015,Andrea Ravignani
+600,2015,Gesche Westphal-Fitch
+600,2015,Ulrike Aust
+600,2015,Martin M Schlumpp
+600,2015,W Tecumseh Fitch
+601,2015,Cristine H Legare
+601,2015,Nicole J Wen
+601,2015,Patricia A Herrmann
+601,2015,Harvey Whitehouse
+602,2015,Tristan Mahr
+602,2015,Brianna T M McMillan
+602,2015,Jenny R Saffran
+602,2015,Susan Ellis Weismer
+602,2015,Jan Edwards
+603,2015,Tali Kleiman
+603,2015,Noa Sher
+603,2015,Andrey Elster
+603,2015,Ruth Mayo
+604,2015,Kayleigh Carr
+604,2015,Rachel L Kendal
+604,2015,Emma G Flynn
+605,2015,Will M Gervais
+606,2015,Igor Douven
+606,2015,Jonah N Schupbach
+607,2015,Luca Rinaldi
+607,2015,Peter Brugger
+607,2015,Christopher J Bockisch
+607,2015,Giovanni Bertolini
+607,2015,Luisa Girelli
+608,2015,Lilia Rissman
+608,2015,Kyle Rawlins
+608,2015,Barbara Landau
+609,2015,Michael J Beran
+609,2015,Bonnie M Perdue
+609,2015,Sara E Futch
+609,2015,J David Smith
+609,2015,Theodore A Evans
+609,2015,Audrey E Parrish
+610,2015,Nicholas K DeWind
+610,2015,Geoffrey K Adams
+610,2015,Michael L Platt
+610,2015,Elizabeth M Brannon
+611,2015,Matthew R Longo
+612,2015,Carolyn Ranti
+612,2015,Christopher H Chatham
+612,2015,David Badre
+613,2015,Mindaugas Mozuraitis
+613,2015,Craig G Chambers
+613,2015,Meredyth Daneman
+614,2015,Martin L Jönsson
+614,2015,Ulrike Hahn
+614,2015,Erik J Olsson
+615,2015,Maria C D'Angelo
+615,2015,Karin R Humphreys
+616,2015,Miriam A Novack
+616,2015,Susan Goldin-Meadow
+616,2015,Amanda L Woodward
+617,2015,Gillian Rhodes
+617,2015,Stephen Pond
+617,2015,Nichola Burton
+617,2015,Nadine Kloth
+617,2015,Linda Jeffery
+617,2015,Jason Bell
+617,2015,Louise Ewing
+617,2015,Andrew J Calder
+617,2015,Romina Palermo
+618,2015,Nikola Vukovic
+618,2015,John N Williams
+619,2015,Frederick Verbruggen
+619,2015,Gordon D Logan
+620,2015,Mintao Zhao
+620,2015,William H Warren
+621,2015,Fenna H Poletiek
+621,2015,Hartmut Fitz
+621,2015,Bruno R Bocanegra
+622,2015,Renato Frey
+622,2015,Rui Mata
+622,2015,Ralph Hertwig
+623,2015,Kathryn Hobbs
+623,2015,Elizabeth Spelke
+624,2015,Manuel Perea
+624,2015,Marta Vergara-Martínez
+624,2015,Pablo Gomez
+625,2015,Alan Jern
+625,2015,Charles Kemp
+626,2015,Leher Singh
+626,2015,Hwee Hwee Goh
+626,2015,Thilanga D Wewalaarachchi
+627,2015,Kay L Ritchie
+627,2015,Finlay G Smith
+627,2015,Rob Jenkins
+627,2015,Markus Bindemann
+627,2015,David White
+627,2015,A Mike Burton
+628,2015,Peter Cole
+628,2015,Gabriella Hermon
+629,2015,Eric Schwitzgebel
+629,2015,Fiery Cushman
+630,2015,Mirjam Keetels
+630,2015,Mauro Pecoraro
+630,2015,Jean Vroomen
+631,2015,Lara Bardi
+631,2015,Elisa Di Giorgio
+631,2015,Marco Lunghi
+631,2015,Nikolaus F Troje
+631,2015,Francesca Simion
+632,2015,Gillian S Forrester
+632,2015,Alina Rodriguez
+633,2015,Simon Kirby
+633,2015,Monica Tamariz
+633,2015,Hannah Cornish
+633,2015,Kenny Smith
+634,2015,Felix Leibfried
+634,2015,Jordi Grau-Moya
+634,2015,Daniel A Braun
+635,2015,Roberto Bottini
+635,2015,Davide Crepaldi
+635,2015,Daniel Casasanto
+635,2015,Virgine Crollen
+635,2015,Olivier Collignon
+636,2015,Gareth Roberts
+636,2015,Jirka Lewandowski
+636,2015,Bruno Galantucci
+637,2015,Monique Flecken
+637,2015,Panos Athanasopoulos
+637,2015,Jan Rouke Kuipers
+637,2015,Guillaume Thierry
+638,2015,Philippe Chassy
+638,2015,Fernand Gobet
+639,2015,Mowei Shen
+639,2015,Haokui Xu
+639,2015,Haihang Zhang
+639,2015,Rende Shui
+639,2015,Meng Zhang
+639,2015,Jifan Zhou
+640,2015,Marcel R Giezen
+640,2015,Henrike K Blumenfeld
+640,2015,Anthony Shook
+640,2015,Viorica Marian
+640,2015,Karen Emmorey
+641,2015,Steven Sloman
+642,2015,Daniele Didino
+642,2015,André Knops
+642,2015,Francesco Vespignani
+642,2015,Suchada Kornpetpanee
+643,2015,Samuel Bilson
+643,2015,Hanako Yoshida
+643,2015,Crystal D Tran
+643,2015,Elizabeth A Woods
+643,2015,Thomas T Hills
+644,2015,Sze Chai Kwok
+644,2015,Emiliano Macaluso
+645,2015,Stephen C Van Hedger
+645,2015,Shannon L M Heald
+645,2015,Rachelle Koch
+645,2015,Howard C Nusbaum
+646,2015,Roberta L Klatzky
+646,2015,Lori Holt
+646,2015,Marlene Behrmann
+647,2015,Caitlin Hilliard
+647,2015,Elizabeth O'Neal
+647,2015,Jodie Plumert
+647,2015,Susan Wagner Cook
+648,2015,Elisa Järnefelt
+648,2015,Caitlin F Canfield
+648,2015,Deborah Kelemen
+649,2015,Kalim Gonzales
+649,2015,LouAnn Gerken
+649,2015,Rebecca L Gómez
+650,2015,Robrecht P R D van der Wel
+651,2015,Magdalena Abel
+651,2015,Karl-Heinz T Bäuml
+652,2015,David Pietraszewski
+652,2015,Oliver Scott Curry
+652,2015,Michael Bang Petersen
+652,2015,Leda Cosmides
+652,2015,John Tooby
+653,2015,Julian Jara-Ettinger
+653,2015,Hyowon Gweon
+653,2015,Joshua B Tenenbaum
+653,2015,Laura E Schulz
+654,2015,Sascha Topolinski
+654,2015,Thorsten M Erle
+654,2015,Rolf Reber
+655,2015,Jan Kubanek
+655,2015,Lawrence H Snyder
+655,2015,Richard A Abrams
+656,2015,Christopher D Carroll
+656,2015,Charles Kemp
+657,2015,Fabian A Soto
+657,2015,F Gregory Ashby
+658,2015,Derek Powell
+658,2015,Zachary Horne
+658,2015,N Ángel Pinillos
+658,2015,Keith J Holyoak
+659,2015,Jennifer B Hay
+659,2015,Janet B Pierrehumbert
+659,2015,Abby J Walker
+659,2015,Patrick LaShell
+660,2015,Jennifer Culbertson
+660,2015,Elissa L Newport
+661,2015,Heather J Ferguson
+661,2015,Ian Apperly
+661,2015,Jumana Ahmad
+661,2015,Markus Bindemann
+661,2015,James Cane
+662,2015,Christina S Kim
+662,2015,Christine Gunlogson
+662,2015,Michael K Tanenhaus
+662,2015,Jeffrey T Runner
+663,2015,Christopher P Benton
+663,2015,Andrew L Skinner
+664,2015,Eldad Yechiam
+664,2015,Matan Retzer
+664,2015,Ariel Telpaz
+664,2015,Guy Hochman
+665,2015,Nadja Althaus
+665,2015,Kim Plunkett
+666,2015,Juemin Xu
+666,2015,Nigel Harvey
+667,2015,Angelo Turri
+667,2015,John Turri
+668,2015,Antonia Thelen
+668,2015,Durk Talsma
+668,2015,Micah M Murray
+669,2015,Helene Intraub
+669,2015,Frank Morelli
+669,2015,Kristin M Gagnier
+670,2015,N Karsh
+670,2015,B Eitam
+671,2015,Darko Odic
+671,2015,Mathieu Le Corre
+671,2015,Justin Halberda
+672,2015,Tamar Kushnir
+672,2015,Alison Gopnik
+672,2015,Nadia Chernyak
+672,2015,Elizabeth Seiver
+672,2015,Henry M Wellman
+673,2015,S A Verschoor
+673,2015,M Paulus
+673,2015,M Spapé
+673,2015,S Biro
+673,2015,B Hommel
+674,2015,Rixin Tang
+674,2015,Robert L Whitwell
+674,2015,Melvyn A Goodale
+675,2015,Laura E Garvin
+675,2015,Amanda L Woodward
+676,2015,Elisabeth E F Bradford
+676,2015,Ines Jentzsch
+676,2015,Juan-Carlos Gomez
+677,2015,Erica H Wojcik
+677,2015,Jenny R Saffran
+678,2015,Philip Millroth
+678,2015,Peter Juslin
+679,2015,Jonathan F Kominsky
+679,2015,Jonathan Phillips
+679,2015,Tobias Gerstenberg
+679,2015,David Lagnado
+679,2015,Joshua Knobe
+680,2015,Freek van Ede
+680,2015,Thomas I van Doren
+680,2015,Jochem Damhuis
+680,2015,Floris P de Lange
+680,2015,Eric Maris
+681,2015,Elizabeth C Stephens
+681,2015,Melissa A Koenig
+682,2015,Christine McLean
+682,2015,Stephen C Want
+682,2015,Benjamin J Dyson
+683,2015,Mathieu Declerck
+683,2015,Andrea M Philipp
+684,2015,Leslie Snapper
+684,2015,Cansu Oranç
+684,2015,Angelina Hawley-Dolan
+684,2015,Jenny Nissel
+684,2015,Ellen Winner
+685,2015,Micah B Goldwater
+685,2015,Dedre Gentner
+686,2015,Roger Ratcliff
+686,2015,Clarissa A Thompson
+686,2015,Gail McKoon
+687,2015,Hamutal Kreiner
+687,2015,Tamar Degani
+688,2015,Daniel Carey
+688,2015,Stuart Rosen
+688,2015,Saloni Krishnan
+688,2015,Marcus T Pearce
+688,2015,Alex Shepherd
+688,2015,Jennifer Aydelott
+688,2015,Frederic Dick
+689,2015,Martin J Doherty
+689,2015,Alex H McIntyre
+689,2015,Stephen R H Langton
+690,2015,Alan Langus
+690,2015,Amanda Saksida
+690,2015,Daniela Braida
+690,2015,Roberta Martucci
+690,2015,Mariaelvina Sala
+690,2015,Marina Nespor
+691,2015,Denis Tatone
+691,2015,Alessandra Geraci
+691,2015,Gergely Csibra
+692,2015,Mariana Vega-Mendoza
+692,2015,Holly West
+692,2015,Antonella Sorace
+692,2015,Thomas H Bak
+693,2015,Pierre Barrouillet
+693,2015,Caroline Gauffroy
+694,2015,I Bülthoff
+694,2015,F N Newell
+695,2015,William Hart
+695,2015,Alexa M Tullett
+695,2015,Wyley B Shreves
+695,2015,Zachary Fetterman
+696,2014,Goedele Van Belle
+696,2014,Philippe Lefèvre
+696,2014,Bruno Rossion
+697,2014,Chaz Firestone
+697,2014,Brian J Scholl
+698,2014,S Goldin-Meadow
+698,2014,D Brentari
+698,2014,M Coppola
+698,2014,L Horton
+698,2014,A Senghas
+699,2014,Michael L Slepian
+700,2014,Jennifer M Zosh
+700,2014,Lisa Feigenson
+701,2014,Matthias S Gobel
+701,2014,Heejung S Kim
+701,2014,Daniel C Richardson
+702,2014,Yuki Hirose
+702,2014,Reiko Mazuka
+703,2014,Daniel M Bartels
+703,2014,Eric J Johnson
+704,2014,Alan Scoboria
+704,2014,Jennifer M Talarico
+704,2014,Lisa Pascal
+705,2014,Sonia Kandel
+705,2014,Cyril Perret
+706,2014,Matthias J Sjerps
+706,2014,Antje S Meyer
+707,2014,Peter Juslin
+707,2014,Marcus Lindskog
+707,2014,Bastian Mayerhofer
+708,2014,Dan M Kahan
+709,2014,Zhenguang G Cai
+709,2014,Louise Connell
+710,2014,Zhenguang G Cai
+710,2014,Martin J Pickering
+710,2014,Ruiming Wang
+710,2014,Holly P Branigan
+711,2014,Vera Kempe
+711,2014,Nicolas Gauvrit
+711,2014,Douglas Forsyth
+712,2014,Jerome R Busemeyer
+713,2014,Joshua D Greene
+714,2014,Agnes Scholz
+714,2014,Bettina von Helversen
+714,2014,Jörg Rieskamp
+715,2014,Lijing Chen
+715,2014,Yufang Yang
+716,2014,Richard Futrell
+716,2014,Tina Hickey
+716,2014,Aldrin Lee
+716,2014,Eunice Lim
+716,2014,Elena Luchkina
+716,2014,Edward Gibson
+717,2014,Roman Feiman
+717,2014,Susan Carey
+717,2014,Fiery Cushman
+718,2014,Franklin Chang
+718,2014,Youngon Choi
+718,2014,Yeonjung Ko
+719,2014,Kaitlyn Bankieris
+719,2014,Julia Simner
+720,2014,G Brian Thompson
+720,2014,Claire M Fletcher-Flinn
+720,2014,Kathryn J Wilson
+720,2014,Michael F McKay
+720,2014,Valerie G Margrain
+721,2014,Pawel J Matusz
+721,2014,Hannah Broadbent
+721,2014,Jessica Ferrari
+721,2014,Benjamin Forrest
+721,2014,Rebecca Merkley
+721,2014,Gaia Scerif
+722,2014,Korbinian Moeller
+722,2014,Samuel Shaki
+722,2014,Silke M Göbel
+722,2014,Hans-Christoph Nuerk
+723,2014,Trevor Brothers
+723,2014,Tamara Y Swaab
+723,2014,Matthew J Traxler
+724,2014,Daniel Lassiter
+724,2014,Noah D Goodman
+725,2014,Edward A Wasserman
+725,2014,Daniel I Brooks
+725,2014,Bob McMurray
+726,2014,Cornelia Schulze
+726,2014,Michael Tomasello
+727,2014,Matthew W Lowder
+727,2014,Peter C Gordon
+728,2014,Thomas L Griffiths
+729,2014,Uriel Cohen Priva
+729,2014,Joseph L Austerweil
+730,2014,Michael J Frank
+730,2014,David Badre
+731,2014,Robert L Goldstone
+731,2014,Joshua R de Leeuw
+731,2014,David H Landy
+732,2014,Frank C Keil
+733,2014,David Peeters
+733,2014,Peter Hagoort
+733,2014,Aslı Özyürek
+734,2014,Adam S Cohen
+734,2014,Joni Y Sasaki
+734,2014,Tamsin C German
+735,2014,Thomas L Griffiths
+736,2014,Carola Haering
+736,2014,Andrea Kiesel
+737,2014,Alek Chakroff
+737,2014,Liane Young
+738,2014,Lewis J Baker
+738,2014,Daniel T Levin
+739,2014,Hagai Golan
+739,2014,Eyal Ert
+740,2014,Ben Kenward
+740,2014,Kahl Hellmer
+740,2014,Lina Söderström Winter
+740,2014,Malin Eriksson
+741,2014,Nick Chater
+742,2014,Steven A Sloman
+743,2014,Sho Tsuji
+743,2014,Reiko Mazuka
+743,2014,Alejandrina Cristia
+743,2014,Paula Fikkert
+744,2014,Annie Pye
+744,2014,Patricia E G Bestelmeyer
+745,2014,John R Iversen
+745,2014,Aniruddh D Patel
+745,2014,Brenda Nicodemus
+745,2014,Karen Emmorey
+746,2014,Asheley R Landrum
+746,2014,Candice M Mills
+747,2014,Ludger van Dijk
+747,2014,Rob Withagen
+747,2014,Raoul M Bongers
+748,2014,Guy Kahane
+748,2014,Jim A C Everett
+748,2014,Brian D Earp
+748,2014,Miguel Farias
+748,2014,Julian Savulescu
+749,2014,Casey E Pitts
+749,2014,Kristine H Onishi
+749,2014,Athena Vouloumanos
+750,2014,Michael Andres
+750,2014,Chiara Finocchiaro
+750,2014,Marco Buiatti
+750,2014,Manuela Piazza
+751,2014,William S Helton
+751,2014,Paul N Russell
+752,2014,Serge Caparos
+752,2014,Simon Fortier-St-Pierre
+752,2014,Jérémie Gosselin
+752,2014,Isabelle Blanchette
+752,2014,Benoit Brisson
+753,2014,Bolivar Reyes-Jaquez
+753,2014,Catharine H Echols
+754,2014,Wendy P Jung
+754,2014,Björn A Kahrs
+754,2014,Jeffrey J Lockman
+755,2014,Aaron A Duke
+755,2014,Laurent Bègue
+756,2014,Rémi Radel
+756,2014,Karen Davranche
+756,2014,Marion Fournier
+756,2014,Arne Dietrich
+757,2014,Aki Myllyneva
+757,2014,Jari K Hietanen
+758,2014,Efthymia C Kapnoula
+758,2014,Stephanie Packard
+758,2014,Prahlad Gupta
+758,2014,Bob McMurray
+759,2014,Alexander F Schmidt
+759,2014,Lisa M Kistemaker
+760,2014,Marjaana Lindeman
+760,2014,Annika M Svedholm-Häkkinen
+760,2014,Jari Lipsanen
+761,2014,Heiko Reuss
+761,2014,Andrea Kiesel
+761,2014,Wilfried Kunde
+762,2014,C Fini
+762,2014,M Brass
+762,2014,G Committeri
+763,2014,Mariagrazia Capizzi
+763,2014,Angel Correa
+763,2014,Alex Wojtowicz
+763,2014,Robert D Rafal
+764,2014,Asher Koriat
+764,2014,Hila Sorka
+765,2014,Gil Diesendruck
+765,2014,Reut Perez
+766,2014,Katherine McAuliffe
+766,2014,Jillian J Jordan
+766,2014,Felix Warneken
+767,2014,Joshua Knobe
+768,2014,Joanna Korman
+768,2014,John Voiklis
+768,2014,Bertram F Malle
+769,2014,Zissis Pappas
+770,2014,Neil Van Leeuwen
+771,2014,Judith Holler
+771,2014,Louise Schubotz
+771,2014,Spencer Kelly
+771,2014,Peter Hagoort
+771,2014,Manuela Schuetze
+771,2014,Aslı Özyürek
+772,2014,Hannah Rohde
+772,2014,William S Horton
+773,2014,Andreas Glöckner
+773,2014,Benjamin E Hilbig
+773,2014,Marc Jekel
+774,2014,Heath A Demaree
+774,2014,Joseph S Weaver
+774,2014,James Juergensen
+775,2014,Michele Miozzo
+775,2014,Kyle Rawlins
+775,2014,Brenda Rapp
+776,2014,Brett K Hayes
+776,2014,Guy E Hawkins
+776,2014,Ben R Newell
+776,2014,Martina Pasqualino
+776,2014,Bob Rehder
+777,2014,Richard W Prather
+778,2014,Dries Trippas
+778,2014,Michael F Verde
+778,2014,Simon J Handley
+779,2014,Viren Swami
+779,2014,Martin Voracek
+779,2014,Stefan Stieger
+779,2014,Ulrich S Tran
+779,2014,Adrian Furnham
+780,2014,Weimin Mou
+780,2014,Lei Zhang
+781,2014,Ernesto Guerra
+781,2014,Pia Knoeferle
+782,2014,Padraic Monaghan
+783,2014,Daniella Shidlovski
+783,2014,Yaacov Schul
+783,2014,Ruth Mayo
+785,2014,Davood G Gozli
+785,2014,Joshua B Moskowitz
+785,2014,Jay Pratt
+786,2014,Ulf Toelch
+786,2014,Esperanza Jubera-Garcia
+786,2014,Zeb Kurth-Nelson
+786,2014,Raymond J Dolan
+787,2014,Lauren H Howard
+787,2014,Cristina Carrazza
+787,2014,Amanda L Woodward
+788,2014,Roland Pfister
+788,2014,Markus Janczyk
+788,2014,Robert Wirth
+788,2014,David Dignath
+788,2014,Wilfried Kunde
+789,2014,André Mata
+789,2014,Anna-Lena Schubert
+789,2014,Mário B Ferreira
+790,2014,Avinash R Vaidya
+790,2014,Chenshuo Jin
+790,2014,Lesley K Fellows
+791,2014,Heather C Lench
+791,2014,Rachel Smallman
+791,2014,Kathleen E Darbor
+791,2014,Shane W Bench
+792,2014,Kara Hawthorne
+792,2014,LouAnn Gerken
+793,2014,Noam Weinbach
+793,2014,Avishai Henik
+794,2014,Paola Escudero
+794,2014,Daniel Williams
+795,2014,Cristina Baus
+795,2014,Natalie Sebanz
+795,2014,Vania de la Fuente
+795,2014,Francesca Martina Branzi
+795,2014,Clara Martin
+795,2014,Albert Costa
+796,2014,Liquan Liu
+796,2014,René Kager
+797,2014,Liina Pylkkänen
+797,2014,Douglas K Bemis
+797,2014,Estibaliz Blanco Elorrieta
+798,2014,Christopher J Schilling
+798,2014,Benjamin C Storm
+798,2014,Michael C Anderson
+799,2014,Caren M Walker
+799,2014,Tania Lombrozo
+799,2014,Cristine H Legare
+799,2014,Alison Gopnik
+800,2014,Chigusa Kurumada
+800,2014,Meredith Brown
+800,2014,Sarah Bibyk
+800,2014,Daniel F Pontillo
+800,2014,Michael K Tanenhaus
+801,2014,Maria Staudte
+801,2014,Matthew W Crocker
+801,2014,Alexis Heloir
+801,2014,Michael Kipp
+802,2014,Lauriane Rat-Fischer
+802,2014,J Kevin O'Regan
+802,2014,Jacqueline Fagard
+803,2014,Konika Banerjee
+803,2014,Paul Bloom
+804,2014,Peng Zhou
+804,2014,Stephen Crain
+804,2014,Likan Zhan
+805,2014,Brent Strickland
+805,2014,Matthew Fisher
+805,2014,Frank Keil
+805,2014,Joshua Knobe
+806,2014,Holly S S L Joseph
+806,2014,Elizabeth Wonnacott
+806,2014,Paul Forbes
+806,2014,Kate Nation
+807,2014,William S Bush
+807,2014,Shaun P Vecera
+808,2014,Katharina Spalek
+808,2014,Noriko Hoshino
+808,2014,Yan Jing Wu
+808,2014,Markus Damian
+808,2014,Guillaume Thierry
+809,2014,J Eric T Taylor
+809,2014,Jessica K Witt
+810,2014,Dima Amso
+810,2014,Sara Haas
+810,2014,Lauren McShane
+810,2014,David Badre
+811,2014,Joonkoo Park
+811,2014,Elizabeth M Brannon
+812,2014,Nino Grillo
+812,2014,João Costa
+813,2014,Kurt Gray
+814,2014,Scott Seyfarth
+815,2014,Joshua Rottman
+815,2014,Deborah Kelemen
+815,2014,Liane Young
+816,2014,Ida Selbing
+816,2014,Björn Lindström
+816,2014,Andreas Olsson
+817,2014,Matias Baltazar
+817,2014,Nesrine Hazem
+817,2014,Emma Vilarem
+817,2014,Virginie Beaucousin
+817,2014,Jean-Luc Picq
+817,2014,Laurence Conty
+818,2014,Nathaniel D Phillips
+818,2014,Ralph Hertwig
+818,2014,Yaakov Kareev
+818,2014,Judith Avrahami
+819,2014,Michaela Gummerum
+819,2014,Maria T Chu
+820,2014,Virginie Crollen
+820,2014,Marie-Pascale NoëL
+820,2014,Xavier Seron
+820,2014,Pierre Mahau
+820,2014,Franco Lepore
+820,2014,Olivier Collignon
+821,2014,James White
+821,2014,Megha Sundara
+822,2014,J Charles Millar
+822,2014,John Turri
+822,2014,Ori Friedman
+823,2014,Jorie Koster-Hale
+823,2014,Marina Bedny
+823,2014,Rebecca Saxe
+824,2014,Lee C White
+824,2014,Emmanuel M Pothos
+824,2014,Jerome R Busemeyer
+825,2014,Dana Schneider
+825,2014,Zoie E Nott
+825,2014,Paul E Dux
+826,2014,Philip J James
+826,2014,Saloni Krishnan
+826,2014,Jennifer Aydelott
+827,2014,Anuenue Kukona
+827,2014,Gerry T M Altmann
+827,2014,Yuki Kamide
+828,2014,Maurício Dias Martins
+828,2014,Sabine Laaha
+828,2014,Eva Maria Freiberger
+828,2014,Soonja Choi
+828,2014,W Tecumseh Fitch
+829,2014,Ralf Mayrhofer
+829,2014,Michael R Waldmann
+830,2014,Philippe Rochat
+830,2014,Erin Robbins
+830,2014,Claudia Passos-Ferreira
+830,2014,Angela Donato Oliva
+830,2014,Maria D G Dias
+830,2014,Liping Guo
+831,2014,Yvette N Lamb
+831,2014,John M D Thompson
+831,2014,Rinki Murphy
+831,2014,Clare Wall
+831,2014,Ian J Kirk
+831,2014,Angharad R Morgan
+831,2014,Lynnette R Ferguson
+831,2014,Edwin A Mitchell
+831,2014,Karen E Waldie
+832,2014,Arnaud Boutin
+832,2014,Yannick Blandin
+832,2014,Cristina Massen
+832,2014,Herbert Heuer
+832,2014,Arnaud Badets
+833,2014,Manuel Perea
+833,2014,Reem Abu Mallouh
+833,2014,Manuel Carreiras
+834,2014,Wyley B Shreves
+834,2014,William Hart
+834,2014,John M Adams
+834,2014,Rosanna E Guadagno
+834,2014,Cassie A Eno
+835,2014,Grayden J F Solman
+835,2014,Alan Kingstone
+836,2014,Raoul Bell
+836,2014,Cécile Schain
+836,2014,Gerald Echterhoff
+837,2014,Jon A Willits
+837,2014,Mark S Seidenberg
+837,2014,Jenny R Saffran
+838,2014,David G Pearson
+838,2014,Keira Ball
+838,2014,Daniel T Smith
+839,2014,Timothy N Welsh
+839,2014,Laura McDougall
+839,2014,Stephanie Paulson
+840,2014,John A Dewey
+840,2014,Elisabeth Pacherie
+840,2014,Guenther Knoblich
+841,2014,Andrea Bender
+841,2014,Sieghard Beller
+842,2014,Hyowon Gweon
+842,2014,Hannah Pelton
+842,2014,Jaclyn A Konopka
+842,2014,Laura E Schulz
+843,2014,Evelyne Debey
+843,2014,Jan De Houwer
+843,2014,Bruno Verschuere
+844,2014,Clare A M Sutherland
+844,2014,Gregor Thut
+844,2014,Vincenzo Romei
+845,2014,Nayeli Gonzalez-Gomez
+845,2014,Akiko Hayashi
+845,2014,Sho Tsuji
+845,2014,Reiko Mazuka
+845,2014,Thierry Nazzi
+846,2014,Daniel Corral
+846,2014,Matt Jones
+847,2014,Sophie J Milward
+847,2014,Sotaro Kita
+847,2014,Ian A Apperly
+848,2014,Adam Sandford
+848,2014,A Mike Burton
+849,2014,Roland Pfister
+849,2014,Christina U Pfeuffer
+849,2014,Wilfried Kunde
+850,2014,Andrea Desantis
+850,2014,Cedric Roussel
+850,2014,Florian Waszak
+851,2014,Robert J Hoffmeister
+851,2014,Catherine L Caldwell-Harris
+852,2014,Andrew Martin
+852,2014,Akira Utsugi
+852,2014,Reiko Mazuka
+853,2014,Ming Yan
+853,2014,Wei Zhou
+853,2014,Hua Shu
+853,2014,Rizwangul Yusupu
+853,2014,Dongxia Miao
+853,2014,André Krügel
+853,2014,Reinhold Kliegl
+854,2014,Maureen Gillespie
+854,2014,Ariel N James
+854,2014,Kara D Federmeier
+854,2014,Duane G Watson
+855,2014,Louise Fryer
+855,2014,Jonathan Freeman
+855,2014,Linda Pring
+856,2014,H Henny Yeung
+856,2014,Thierry Nazzi
+857,2014,Anahita Basirat
+857,2014,Stanislas Dehaene
+857,2014,Ghislaine Dehaene-Lambertz
+858,2014,Kristen M Tooley
+858,2014,Kathryn Bock
+859,2014,Renato Frey
+859,2014,Ralph Hertwig
+859,2014,Jörg Rieskamp
+860,2014,Milena Rabovsky
+860,2014,Ken McRae
+861,2014,Caroline B Drucker
+861,2014,Elizabeth M Brannon
+862,2014,Takao Noguchi
+862,2014,Neil Stewart
+863,2014,Markus Janczyk
+863,2014,Roland Pfister
+863,2014,Bernhard Hommel
+863,2014,Wilfried Kunde
+864,2014,Ana P Gantman
+864,2014,Jay J Van Bavel
+865,2014,Karl-Heinz T Bäuml
+865,2014,Andreas Schlichting
+866,2014,Tobias Heed
+866,2014,Brigitte Röder
+867,2014,Marieke Schouwstra
+867,2014,Henriëtte de Swart
+868,2014,Masataka Nakayama
+868,2014,Satoru Saito
+869,2014,N Faivre
+869,2014,C Koch
+870,2014,Julie A Van Dyke
+870,2014,Clinton L Johns
+870,2014,Anuenue Kukona
+871,2014,Lucie Bouvet
+871,2014,Andrée-Anne Simard-Meilleur
+871,2014,Adeline Paignon
+871,2014,Laurent Mottron
+871,2014,Sophie Donnadieu
+872,2014,Takaaki Kaneko
+872,2014,Masaki Tomonaga
+873,2014,Sarah Schwarzkopf
+873,2014,Leonhard Schilbach
+873,2014,Kai Vogeley
+873,2014,Bert Timmermans
+874,2014,Yi-Huang Su
+875,2014,Sarah P McGeown
+875,2014,Eleanor A Gray
+875,2014,Jamey L Robinson
+875,2014,Stephen A Dewhurst
+876,2014,Juan F Cardona
+876,2014,Lucila Kargieman
+876,2014,Vladimiro Sinay
+876,2014,Oscar Gershanik
+876,2014,Carlos Gelormini
+876,2014,Lucia Amoruso
+876,2014,María Roca
+876,2014,David Pineda
+876,2014,Natalia Trujillo
+876,2014,Maëva Michon
+876,2014,Adolfo M García
+876,2014,Daniela Szenkman
+876,2014,Tristán Bekinschtein
+876,2014,Facundo Manes
+876,2014,Agustín Ibáñez
+877,2014,Andrei Cimpian
+877,2014,Gina Petro
+878,2014,Christopher G Lucas
+878,2014,Sophie Bridgers
+878,2014,Thomas L Griffiths
+878,2014,Alison Gopnik
+879,2014,Bruno Laeng
+879,2014,Ilona M Bloem
+879,2014,Stefania D'Ascenzo
+879,2014,Luca Tommasi
+880,2014,Frances Le Cornu Knight
+880,2014,Matthew R Longo
+880,2014,Andrew J Bremner
+881,2014,Anne E Riggs
+881,2014,Charles W Kalish
+881,2014,Martha W Alibali
+882,2014,Ian S Hargreaves
+882,2014,Penny M Pexman
+883,2014,Feng Du
+883,2014,Kan Zhang
+883,2014,Richard A Abrams
+884,2014,Julie Markant
+884,2014,Dima Amso
+885,2014,Matthew D Zeigenfuse
+885,2014,Timothy J Pleskac
+885,2014,Taosheng Liu
+886,2014,Juemin Xu
+886,2014,Nigel Harvey
+887,2014,Nina Strohminger
+887,2014,Shaun Nichols
+888,2014,Haike E van Stralen
+888,2014,Martine J E van Zandvoort
+888,2014,Sylco S Hoppenbrouwers
+888,2014,Lidewij M G Vissers
+888,2014,L Jaap Kappelle
+888,2014,H Chris Dijkerman
+889,2014,Brock Ferguson
+889,2014,Eileen Graf
+889,2014,Sandra R Waxman
+890,2014,Ewelina Wnuk
+890,2014,Asifa Majid
+891,2014,Jared Piazza
+891,2014,Justin F Landy
+891,2014,Geoffrey P Goodwin
+892,2014,Daniel C Hyde
+892,2014,Saeeda Khanum
+892,2014,Elizabeth S Spelke
+893,2014,Evan Heit
+893,2014,Caren M Rotello
+894,2014,Tuuli H Morrill
+894,2014,Laura C Dilley
+894,2014,J Devin McAuley
+894,2014,Mark A Pitt
+895,2014,Elizabeth Meins
+895,2014,Charles Fernyhough
+895,2014,Jayne Harris-Waller
+896,2014,Hannes Rakoczy
+896,2014,Annette Clüver
+896,2014,Liane Saucke
+896,2014,Nicole Stoffregen
+896,2014,Alice Gräbener
+896,2014,Judith Migura
+896,2014,Josep Call
+897,2014,Calum Hartley
+897,2014,Melissa L Allen
+898,2014,Alex Wiegmann
+898,2014,Michael R Waldmann
+899,2014,Elizabeth R Schotter
+899,2014,Klinton Bicknell
+899,2014,Ian Howard
+899,2014,Roger Levy
+899,2014,Keith Rayner
+900,2014,Andreas Jarvstad
+900,2014,Ulrike Hahn
+900,2014,Paul A Warren
+900,2014,Simon K Rushton
+901,2014,Emmanuel Chemla
+901,2014,Lewis Bott
+902,2014,Peter C Pantelis
+902,2014,Chris L Baker
+902,2014,Steven A Cholewiak
+902,2014,Kevin Sanik
+902,2014,Ari Weinstein
+902,2014,Chia-Chien Wu
+902,2014,Joshua B Tenenbaum
+902,2014,Jacob Feldman
+903,2013,Eva Pool
+903,2013,Tobias Brosch
+903,2013,Sylvain Delplanque
+903,2013,David Sander
+904,2013,Elsa Addessi
+904,2013,Francesca Bellagamba
+904,2013,Alexia Delfino
+904,2013,Francesca De Petrillo
+904,2013,Valentina Focaroli
+904,2013,Luigi Macchitella
+904,2013,Valentina Maggiorelli
+904,2013,Beatrice Pace
+904,2013,Giulia Pecora
+904,2013,Sabrina Rossi
+904,2013,Agnese Sbaffi
+904,2013,Maria Isabella Tasselli
+904,2013,Fabio Paglieri
+905,2013,Maria Augustinova
+905,2013,Ludovic Ferrand
+906,2013,Stephanie Denison
+906,2013,Fei Xu
+907,2013,Ella Fizke
+907,2013,Dana Barthel
+907,2013,Thomas Peters
+907,2013,Hannes Rakoczy
+908,2013,Michael L Slepian
+908,2013,Nalini Ambady
+909,2013,Alia Martin
+909,2013,Laurie R Santos
+910,2013,Tommy C Blanchard
+910,2013,Lauren S Wolfe
+910,2013,Ivo Vlaev
+910,2013,Joel S Winston
+910,2013,Benjamin Y Hayden
+911,2013,Alejandra Calvo
+911,2013,Ellen Bialystok
+912,2013,Lukasz Piwek
+912,2013,Lawrie S McKay
+912,2013,Frank E Pollick
+914,2013,Jim Parkinson
+914,2013,Patrick Haggard
+915,2013,Albert Costa
+915,2013,Alice Foucart
+915,2013,Inbal Arnon
+915,2013,Melina Aparici
+915,2013,Jose Apesteguia
+916,2013,Max-Philipp Stenner
+916,2013,Markus Bauer
+916,2013,Nura Sidarus
+916,2013,Hans-Jochen Heinze
+916,2013,Patrick Haggard
+916,2013,Raymond J Dolan
+917,2013,Joshua Rottman
+917,2013,Deborah Kelemen
+917,2013,Liane Young
+918,2013,Amy E Skerry
+918,2013,Elizabeth S Spelke
+919,2013,Christoph J Völter
+919,2013,Josep Call
+920,2013,Amory H Danek
+920,2013,Thomas Fraps
+920,2013,Albrecht von Müller
+920,2013,Benedikt Grothe
+920,2013,Michael Ollinger
+921,2013,Brennan R Payne
+921,2013,Sarah Grison
+921,2013,Xuefei Gao
+921,2013,Kiel Christianson
+921,2013,Daniel G Morrow
+921,2013,Elizabeth A L Stine-Morrow
+922,2013,Mark Sheskin
+922,2013,Paul Bloom
+922,2013,Karen Wynn
+923,2013,Antonino Vallesi
+923,2013,Sandra Arbula
+923,2013,Paolo Bernardis
+924,2013,T Andrew Poehlman
+924,2013,George E Newman
+925,2013,Robrecht P R D van der Wel
+925,2013,Natalie Sebanz
+925,2013,Guenther Knoblich
+926,2013,Lucas P Butler
+926,2013,Ellen M Markman
+927,2013,James White
+928,2013,Micah R Bregman
+928,2013,Sarah C Creel
+929,2013,Ansgar D Endress
+930,2013,Jonathan D Nelson
+930,2013,Bojana Divjak
+930,2013,Gudny Gudmundsdottir
+930,2013,Laura F Martignon
+930,2013,Björn Meder
+931,2013,François Osiurak
+931,2013,Arnaud Badets
+932,2013,Guillermo Puebla
+932,2013,Sergio E Chaigneau
+933,2013,Annie E Wertz
+933,2013,Karen Wynn
+935,2013,Martijn Baart
+935,2013,Jean Vroomen
+935,2013,Kathleen Shaw
+935,2013,Heather Bortfeld
+936,2013,Apoorva Bhandari
+936,2013,John Duncan
+937,2013,Victoria Southgate
+937,2013,Angelina Vernetti
+938,2013,Irene P Kan
+938,2013,Susan Teubner-Rhodes
+938,2013,Anna B Drummey
+938,2013,Lauren Nutile
+938,2013,Lauren Krupa
+938,2013,Jared M Novick
+939,2013,J David Smith
+939,2013,Timothy M Flemming
+939,2013,Joseph Boomer
+939,2013,Michael J Beran
+939,2013,Barbara A Church
+940,2013,Peter J Hills
+940,2013,J Michael Pake
+941,2013,Yan Bao
+941,2013,Aneta Szymaszek
+941,2013,Xiaoying Wang
+941,2013,Anna Oron
+941,2013,Ernst Pöppel
+941,2013,Elzbieta Szelag
+942,2013,Jelle Demanet
+942,2013,Paul S Muhle-Karbe
+942,2013,Margaret T Lynn
+942,2013,Iris Blotenberg
+942,2013,Marcel Brass
+943,2013,Sudha Arunachalam
+944,2013,Nathaniel J Blanco
+944,2013,A Ross Otto
+944,2013,W Todd Maddox
+944,2013,Christopher G Beevers
+944,2013,Bradley C Love
+945,2013,Eun-Kyung Lee
+945,2013,Sarah Brown-Schmidt
+945,2013,Duane G Watson
+946,2013,Patricia A Herrmann
+946,2013,Cristine H Legare
+946,2013,Paul L Harris
+946,2013,Harvey Whitehouse
+947,2013,James S Adelman
+947,2013,Zachary Estes
+948,2013,Dror Dotan
+948,2013,Stanislas Dehaene
+949,2013,N J Schweitzer
+949,2013,D A Baker
+949,2013,Evan F Risko
+950,2013,Christopher D Erb
+950,2013,David W Buchanan
+950,2013,David M Sobel
+951,2013,David W Maidment
+951,2013,Bill Macken
+951,2013,Dylan M Jones
+952,2013,Jennifer Nagel
+952,2013,Raymond Mar
+952,2013,Valerie San Juan
+953,2013,Renita Silva
+953,2013,Sabrina Gerth
+953,2013,Harald Clahsen
+954,2013,Naohide Yamamoto
+954,2013,John W Philbeck
+955,2013,Keira Ball
+955,2013,David G Pearson
+955,2013,Daniel T Smith
+956,2013,Andrew Surtees
+956,2013,Ian Apperly
+956,2013,Dana Samson
+957,2013,Yan Jing Wu
+957,2013,Filipe Cristino
+957,2013,Charles Leek
+957,2013,Guillaume Thierry
+958,2013,Dana Schneider
+958,2013,Virginia P Slaughter
+958,2013,Andrew P Bayliss
+958,2013,Paul E Dux
+959,2013,Bert Windey
+959,2013,Wim Gevers
+959,2013,Axel Cleeremans
+960,2013,Aiyana K Willard
+960,2013,Ara Norenzayan
+961,2013,Daniel M Bartels
+961,2013,Trevor Kvaran
+961,2013,Shaun Nichols
+962,2013,Bob McMurray
+962,2013,Kristine A Kovack-Lesh
+962,2013,Dresden Goodwin
+962,2013,William McEchron
+963,2013,Holger Mitterer
+963,2013,Odette Scharenborg
+963,2013,James M McQueen
+964,2013,Sandra Murphy
+964,2013,Nick Fraenkel
+964,2013,Polly Dalton
+965,2013,Sander A Los
+966,2013,Adena Schachner
+966,2013,Susan Carey
+967,2013,Judith E Fan
+967,2013,Nicholas B Turk-Browne
+968,2013,John Turri
+969,2013,Michał Ziembowicz
+969,2013,Andrzej Nowak
+969,2013,Piotr Winkielman
+970,2013,Paula Rubio-Fernández
+971,2013,Elin Runnqvist
+971,2013,Tamar H Gollan
+971,2013,Albert Costa
+971,2013,Victor S Ferreira
+972,2013,Jesse Q Sargent
+972,2013,Jeffrey M Zacks
+972,2013,David Z Hambrick
+972,2013,Rose T Zacks
+972,2013,Christopher A Kurby
+972,2013,Heather R Bailey
+972,2013,Michelle L Eisenberg
+972,2013,Taylor M Beck
+973,2013,Dora Kampis
+973,2013,Eszter Somogyi
+973,2013,Shoji Itakura
+973,2013,Ildikó Király
+974,2013,Zhicheng Lin
+975,2013,Raymond B Becker
+975,2013,Todd R Ferretti
+975,2013,Carol J Madden-Lombardi
+976,2013,Brandon K Barakat
+976,2013,Aaron R Seitz
+976,2013,Ladan Shams
+977,2013,Jun Yin
+977,2013,Xiaowei Ding
+977,2013,Jifan Zhou
+977,2013,Rende Shui
+977,2013,Xinyu Li
+977,2013,Mowei Shen
+978,2013,Devin Blair Terhune
+978,2013,Olga Anna Wudarczyk
+978,2013,Priya Kochuparampil
+978,2013,Roi Cohen Kadosh
+979,2013,Weimin Mou
+979,2013,Timothy P McNamara
+979,2013,Lei Zhang
+980,2013,Benjamin Grant Purzycki
+981,2013,Ronaldo Vigo
+982,2013,Danielle M Shore
+982,2013,Erin A Heerey
+983,2013,Marek Meristo
+983,2013,Luca Surian
+984,2013,Laurent Benoit
+984,2013,Henri Lehalle
+984,2013,Michèle Molina
+984,2013,Charles Tijus
+984,2013,François Jouen
+985,2013,Tirta Susilo
+985,2013,Galit Yovel
+985,2013,Jason J S Barton
+985,2013,Bradley Duchaine
+986,2013,Anna N Rafferty
+986,2013,Thomas L Griffiths
+986,2013,Marc Ettlinger
+987,2013,Matthew Inglis
+987,2013,Camilla Gilmore
+988,2013,Katherine E Donnelly
+988,2013,Nathalia L Gjersoe
+988,2013,Bruce Hood
+989,2013,Jessica Y Y Kwong
+989,2013,Kin Fai Ellick Wong
+989,2013,Suki K Y Tang
+990,2013,Emily Slusser
+990,2013,Annie Ditta
+990,2013,Barbara Sarnecka
+991,2013,Tobias Meilinger
+991,2013,Julia Frankenstein
+991,2013,Heinrich H Bülthoff
+992,2013,Shai Gabay
+992,2013,Tali Leibovich
+992,2013,Avishai Henik
+992,2013,Nurit Gronau
+993,2013,J Kiley Hamlin
+994,2013,Matthew L Hall
+994,2013,Rachel I Mayberry
+994,2013,Victor S Ferreira
+995,2013,Mahesh Srinivasan
+995,2013,David Barner
+996,2013,Harold Pashler
+996,2013,Sean H K Kang
+996,2013,Michael C Mozer
+997,2013,Michael C Frank
+998,2013,Krista Byers-Heinlein
+998,2013,Janet F Werker
+999,2013,Trix Cacchione
+1000,2013,Gary S Dell
+1000,2013,Myrna F Schwartz
+1000,2013,Nazbanou Nozari
+1000,2013,Olufunsho Faseyitan
+1000,2013,H Branch Coslett
+1001,2013,Achille Pasqualotto
+1001,2013,Ciara M Finucane
+1001,2013,Fiona N Newell
+1002,2013,Caroline Blais
+1002,2013,Martin Arguin
+1002,2013,Frédéric Gosselin
+1003,2013,Christina Starmans
+1003,2013,Ori Friedman
+1004,2013,Lisa Cantrell
+1004,2013,Linda B Smith
+1005,2013,Lance J Rips
+1005,2013,Jennifer Asmuth
+1005,2013,Amber Bloomfield
+1006,2013,Nathaniel J Smith
+1006,2013,Roger Levy
+1007,2013,Kimberly M Fenn
+1007,2013,Daniel Margoliash
+1007,2013,Howard C Nusbaum
+1008,2013,Justin Hepler
+1008,2013,Dolores Albarracin
+1009,2013,Jared Piazza
+1009,2013,Paulo Sousa
+1009,2013,Colin Holbrook
+1010,2013,Michele Miozzo
+1010,2013,Adam Buchwald
+1011,2013,Femke Houtman
+1011,2013,Wim Notebaert
+1012,2013,Natalia Arias-Trejo
+1012,2013,Kim Plunkett
+1013,2013,Natalie M Klein
+1013,2013,Whitney M Gegg-Harrison
+1013,2013,Greg N Carlson
+1013,2013,Michael K Tanenhaus
+1014,2013,Andrew Wedel
+1014,2013,Abby Kaplan
+1014,2013,Scott Jackson
+1015,2013,Lara Maister
+1015,2013,Natalie Sebanz
+1015,2013,Günther Knoblich
+1015,2013,Manos Tsakiris
+1016,2013,Laurel Brehm
+1016,2013,Kathryn Bock
+1017,2013,Luke E Miller
+1017,2013,Ayse P Saygin
+1018,2013,Meghan M Salomon
+1018,2013,Joseph P Magliano
+1018,2013,Gabriel A Radvansky
+1019,2013,Yuko Okumura
+1019,2013,Yasuhiro Kanakogi
+1019,2013,Takayuki Kanda
+1019,2013,Hiroshi Ishiguro
+1019,2013,Shoji Itakura
+1020,2013,Russell E Jackson
+1020,2013,Chéla R Willey
+1021,2013,Jordan A Comins
+1021,2013,Timothy Q Gentner
+1022,2013,Andrew Simpson
+1022,2013,Nick R Cooper
+1022,2013,Helge Gillmeister
+1022,2013,Kevin J Riggs
+1023,2013,Lauren L Emberson
+1023,2013,Ran Liu
+1023,2013,Jason D Zevin
+1024,2013,François Osiurak
+1024,2013,Kevin Roche
+1024,2013,Jennifer Ramone
+1024,2013,Hanna Chainay
+1025,2013,Kevin A Smith
+1025,2013,David E Huber
+1025,2013,Edward Vul
+1026,2013,Markus F Neumann
+1026,2013,Stefan R Schweinberger
+1026,2013,A Mike Burton
+1027,2013,Pierre Barrouillet
+1027,2013,Catherine Thevenot
+1028,2013,Cristina Iani
+1028,2013,Sandro Rubichi
+1028,2013,Luca Ferraro
+1028,2013,Roberto Nicoletti
+1028,2013,Vittorio Gallese
+1029,2013,Mark P Holden
+1029,2013,Nora S Newcombe
+1029,2013,Thomas F Shipley
+1030,2013,Valerie A Thompson
+1030,2013,Rakefet Ackerman
+1030,2013,Yael Sidi
+1030,2013,Linden J Ball
+1030,2013,Gordon Pennycook
+1030,2013,Jamie A Prowse Turner
+1031,2013,Nicolas Chevalier
+1031,2013,Kristina L Huber
+1031,2013,Sandra A Wiebe
+1031,2013,Kimberly Andrews Espy
+1032,2013,Naomi H Feldman
+1032,2013,Emily B Myers
+1032,2013,Katherine S White
+1032,2013,Thomas L Griffiths
+1032,2013,James L Morgan
+1033,2013,Chigusa Kurumada
+1033,2013,Stephan C Meylan
+1033,2013,Michael C Frank
+1034,2013,Jean-Rémy Hochmann
+1035,2013,Sarah Bernolet
+1035,2013,Robert J Hartsuiker
+1035,2013,Martin J Pickering
+1036,2013,Adele E Goldberg
+1037,2013,Lynne G Duncan
+1037,2013,São Luís Castro
+1037,2013,Sylvia Defior
+1037,2013,Philip H K Seymour
+1037,2013,Sheila Baillie
+1037,2013,Jacqueline Leybaert
+1037,2013,Philippe Mousty
+1037,2013,Nathalie Genard
+1037,2013,Menelaos Sarris
+1037,2013,Costas D Porpodas
+1037,2013,Rannveig Lund
+1037,2013,Baldur Sigurðsson
+1037,2013,Anna S Thornráinsdóttir
+1037,2013,Ana Sucena
+1037,2013,Francisca Serrano
+1038,2013,Haley A Vlach
+1038,2013,Scott P Johnson
+1039,2013,Manami Sato
+1039,2013,Benjamin K Bergen
+1040,2013,Banchiamlack Dessalegn
+1040,2013,Barbara Landau
+1041,2013,Elika Bergelson
+1041,2013,Daniel Swingley
+1042,2013,Atsushi Sato
+1042,2013,Shoji Itakura
+1043,2013,Julian M Pine
+1043,2013,Daniel Freudenthal
+1043,2013,Grzegorz Krajewski
+1043,2013,Fernand Gobet
+1044,2013,Dedre Gentner
+1044,2013,Asli Ozyürek
+1044,2013,Ozge Gürcanli
+1044,2013,Susan Goldin-Meadow
+1045,2013,Katie Wagner
+1045,2013,Karen Dobkins
+1045,2013,David Barner
+1046,2013,Jennifer Nagel
+1046,2013,Valerie San Juan
+1046,2013,Raymond A Mar
+1047,2013,Ariel M Cohen-Goldberg
+1047,2013,Joana Cholin
+1047,2013,Michele Miozzo
+1047,2013,Brenda Rapp
+1048,2013,Davide Rigoni
+1048,2013,Hélène Wilquin
+1048,2013,Marcel Brass
+1048,2013,Boris Burle
+1049,2013,Linda Jeffery
+1049,2013,Ainsley Read
+1049,2013,Gillian Rhodes
+1050,2013,Joshua Knobe
+1050,2013,Sandeep Prasada
+1050,2013,George E Newman
+1051,2013,Sébastien Roux
+1051,2013,Thomas J McKeeff
+1051,2013,Géraldine Grosjacques
+1051,2013,Olivia Afonso
+1051,2013,Sonia Kandel
+1052,2013,Jamie Pritchard
+1052,2013,Nicolas Rothen
+1052,2013,Daniel Coolbear
+1052,2013,Jamie Ward
+1053,2013,Eric Luis Uhlmann
+1053,2013,Luke Lei Zhu
+1054,2013,Renaud Brochard
+1054,2013,Maxime Tassin
+1054,2013,Daniel Zagar
+1055,2013,Lara A Wood
+1055,2013,Rachel L Kendal
+1055,2013,Emma G Flynn
+1056,2013,James T Mantell
+1056,2013,Peter Q Pfordresher
+1057,2013,Ansgar D Endress
+1058,2013,Yunqi Wang
+1058,2013,Fengji Geng
+1058,2013,Yuzheng Hu
+1058,2013,Fenglei Du
+1058,2013,Feiyan Chen
+1059,2013,Adam L Alter
+1059,2013,Daniel M Oppenheimer
+1059,2013,Nicholas Epley
+1060,2013,James R Anderson
+1060,2013,Ayaka Takimoto
+1060,2013,Hika Kuroshima
+1060,2013,Kazuo Fujita
+1061,2013,Karl Halvor Teigen
+1061,2013,Marie Juanchich
+1061,2013,Anine H Riege
+1062,2013,Clare A M Sutherland
+1062,2013,Julian A Oldmeadow
+1062,2013,Isabel M Santos
+1062,2013,John Towler
+1062,2013,D Michael Burt
+1062,2013,Andrew W Young
+1063,2013,Iona S Kerrigan
+1063,2013,Wendy J Adams
+1064,2013,Tad T Brunyé
+1064,2013,Stephanie A Gagnon
+1064,2013,Martin Paczynski
+1064,2013,Amitai Shenhav
+1064,2013,Caroline R Mahoney
+1064,2013,Holly A Taylor
+1065,2013,Flavia Cardini
+1065,2013,Patrick Haggard
+1065,2013,Elisabetta Ladavas
+1066,2013,T Florian Jaeger
+1066,2013,Neal E Snider
+1067,2013,Colin Holbrook
+1067,2013,Daniel M T Fessler
+1068,2013,Vivian Li
+1068,2013,Alex Shaw
+1068,2013,Kristina R Olson
+1069,2013,Jesse Lee Preston
+1069,2013,Ryan S Ritter
+1069,2013,Justin Hepler
+1070,2013,Antonino Vallesi
+1070,2013,Violeta N Lozano
+1070,2013,Angel Correa
+1071,2013,Fiery Cushman
+1071,2013,Rachel Sheketoff
+1071,2013,Sophie Wharton
+1071,2013,Susan Carey
+1072,2013,Angelika Seidel
+1072,2013,Jesse Prinz
+1073,2013,Matthew R Longo
+1073,2013,Renata Sadibolova
+1074,2013,Jonathan W Kelly
+1074,2013,Lori A Sjolund
+1074,2013,Bradley R Sturz
+1075,2013,Vincent G Berthiaume
+1075,2013,Thomas R Shultz
+1075,2013,Kristine H Onishi
+1076,2013,Richard Breheny
+1076,2013,Heather J Ferguson
+1076,2013,Napoleon Katsos
+1077,2013,Sandeep Prasada
+1077,2013,Sangeet Khemlani
+1077,2013,Sarah-Jane Leslie
+1077,2013,Sam Glucksberg
+1078,2013,Emily R Cohen-Shikora
+1078,2013,David A Balota
+1079,2012,Benjamin M Basile
+1079,2012,Robert R Hampton
+1080,2012,Yuhong V Jiang
+1080,2012,Khena M Swallow
+1081,2012,Bernhard Pastötter
+1081,2012,Sabine Gleixner
+1081,2012,Theresa Neuhauser
+1081,2012,Karl-Heinz T Bäuml
+1082,2012,Katja Wiech
+1082,2012,Guy Kahane
+1082,2012,Nicholas Shackel
+1082,2012,Miguel Farias
+1082,2012,Julian Savulescu
+1082,2012,Irene Tracey
+1083,2012,David Pietraszewski
+1083,2012,Tamsin C German
+1084,2012,Daniel J Sanchez
+1084,2012,Paul J Reber
+1085,2012,Stephanie Denison
+1085,2012,Elizabeth Bonawitz
+1085,2012,Alison Gopnik
+1085,2012,Thomas L Griffiths
+1086,2012,Luca Onnis
+1086,2012,Erik Thiessen
+1087,2012,Jérôme Sackur
+1088,2012,Annette M E Henderson
+1088,2012,Mark A Sabbagh
+1088,2012,Amanda L Woodward
+1089,2012,Melissa L-H Võ
+1089,2012,Jeremy M Wolfe
+1090,2012,Marine Buon
+1090,2012,Pierre Jacob
+1090,2012,Elsa Loissel
+1090,2012,Emmanuel Dupoux
+1091,2012,Lisa Cantrell
+1091,2012,Linda B Smith
+1092,2012,Valerie A Thompson
+1092,2012,Jamie A Prowse Turner
+1092,2012,Gordon Pennycook
+1092,2012,Linden J Ball
+1092,2012,Hannah Brack
+1092,2012,Yael Ophir
+1092,2012,Rakefet Ackerman
+1093,2012,Weimin Mou
+1093,2012,Marcia L Spetch
+1094,2012,Eric Luis Uhlmann
+1094,2012,Luke Lei Zhu
+1094,2012,David Tannenbaum
+1095,2012,Vladimir M Sloutsky
+1095,2012,Christopher W Robinson
+1096,2012,Trafton Drew
+1096,2012,Todd S Horowitz
+1096,2012,Edward K Vogel
+1097,2012,Madeline Lee Pe
+1097,2012,Peter Koval
+1097,2012,Peter Kuppens
+1098,2012,Alexander Soutschek
+1098,2012,Torsten Schubert
+1099,2012,Daniela M de la Mora
+1099,2012,Juan M Toro
+1100,2012,Andrew J Bremner
+1100,2012,Serge Caparos
+1100,2012,Jules Davidoff
+1100,2012,Jan de Fockert
+1100,2012,Karina J Linnell
+1100,2012,Charles Spence
+1101,2012,Willem E Frankenhuis
+1101,2012,Bailey House
+1101,2012,H Clark Barrett
+1101,2012,Scott P Johnson
+1102,2012,Kyle Mahowald
+1102,2012,Evelina Fedorenko
+1102,2012,Steven T Piantadosi
+1102,2012,Edward Gibson
+1103,2012,Ilker Yildirim
+1103,2012,Robert A Jacobs
+1104,2012,Kimberly M Meier
+1104,2012,Mark R Blair
+1105,2012,Brigitte Röder
+1105,2012,Birthe Pagel
+1105,2012,Tobias Heed
+1106,2012,Joseph DeGutis
+1106,2012,Jeremy Wilmer
+1106,2012,Rogelio J Mercado
+1106,2012,Sarah Cohan
+1107,2012,Felix Warneken
+1108,2012,Takeharu Seno
+1108,2012,Takahiro Kawabe
+1108,2012,Hiroyuki Ito
+1108,2012,Shoji Sunaga
+1109,2012,Celeste Kidd
+1109,2012,Holly Palmeri
+1109,2012,Richard N Aslin
+1110,2012,Joshua Knobe
+1110,2012,Richard Samuels
+1111,2012,Han Gong
+1111,2012,Rumen Iliev
+1111,2012,Sonya Sachdeva
+1112,2012,Ricardo A H Bion
+1112,2012,Arielle Borovsky
+1112,2012,Anne Fernald
+1113,2012,Damian G Kelty-Stephen
+1113,2012,Daniel Mirman
+1114,2012,Marie Lallier
+1114,2012,Guillaume Thierry
+1114,2012,Marie-Josèphe Tainturier
+1115,2012,Adrian R Camilleri
+1115,2012,Ben R Newell
+1116,2012,Robin L Peterson
+1116,2012,Bruce F Pennington
+1116,2012,Richard K Olson
+1117,2012,Viridiana L Benitez
+1117,2012,Linda B Smith
+1118,2012,Terry D Palmer
+1118,2012,Ashley K Ramsey
+1119,2012,Caroline F Rowland
+1119,2012,Franklin Chang
+1119,2012,Ben Ambridge
+1119,2012,Julian M Pine
+1119,2012,Elena V M Lieven
+1120,2012,J Eric T Taylor
+1120,2012,Jessica K Witt
+1120,2012,Phillip J Grimaldi
+1121,2012,Susannah B F Paletz
+1121,2012,Christian D Schunn
+1121,2012,Kevin H Kim
+1122,2012,Ro'i Zultan
+1122,2012,Tobias Gerstenberg
+1122,2012,David A Lagnado
+1123,2012,Tamar H Gollan
+1123,2012,Matthew Goldrick
+1124,2012,Jan Koenderink
+1124,2012,Andrea van Doorn
+1124,2012,Johan Wagemans
+1125,2012,Manuel G Calvo
+1125,2012,Andrés Fernández-Martín
+1125,2012,Lauri Nummenmaa
+1126,2012,Talia Brandman
+1126,2012,Galit Yovel
+1127,2012,Louise Connell
+1127,2012,Dermot Lynott
+1128,2012,Carsten N Boehler
+1128,2012,Jens-Max Hopf
+1128,2012,Christian M Stoppel
+1128,2012,Ruth M Krebs
+1129,2012,Sho Tsuji
+1129,2012,Nayeli Gonzalez Gomez
+1129,2012,Victoria Medina
+1129,2012,Thierry Nazzi
+1129,2012,Reiko Mazuka
+1130,2012,Elisa Schneider
+1130,2012,Masaki Maruyama
+1130,2012,Stanislas Dehaene
+1130,2012,Mariano Sigman
+1131,2012,Bruce Hood
+1131,2012,Nathalia L Gjersoe
+1131,2012,Paul Bloom
+1132,2012,Valerian Chambon
+1132,2012,Patrick Haggard
+1133,2012,Takaaki Kaneko
+1133,2012,Masaki Tomonaga
+1134,2012,Chie Nakamura
+1134,2012,Manabu Arai
+1134,2012,Reiko Mazuka
+1135,2012,Debi Roberson
+1135,2012,Mariko Kikutani
+1135,2012,Paula Döge
+1135,2012,Lydia Whitaker
+1135,2012,Asifa Majid
+1136,2012,Senne Braem
+1136,2012,Tom Verguts
+1136,2012,Chantal Roggeman
+1136,2012,Wim Notebaert
+1137,2012,Catarina Silva
+1137,2012,Marie Montant
+1137,2012,Aurelie Ponz
+1137,2012,Johannes C Ziegler
+1138,2012,Aileen Oeberst
+1138,2012,Hartmut Blank
+1139,2012,Theodore A Evans
+1139,2012,Michael J Beran
+1140,2012,Irene M Pepperberg
+1140,2012,Susan Carey
+1141,2012,Chen Yu
+1141,2012,Linda B Smith
+1142,2012,Nicholas O Rule
+1142,2012,Michael L Slepian
+1142,2012,Nalini Ambady
+1143,2012,Judit Gervain
+1143,2012,Ramón Guevara Erra
+1144,2012,Tobias Brosch
+1144,2012,Jay J Van Bavel
+1145,2012,Martin Takac
+1145,2012,Lubica Benuskova
+1145,2012,Alistair Knott
+1146,2012,Barbara Magnani
+1146,2012,Francesco Pavani
+1146,2012,Francesca Frassinetti
+1147,2012,Arnaud D'Argembeau
+1147,2012,Julie Demblon
+1148,2012,Daniel J Schad
+1148,2012,Antje Nuthmann
+1148,2012,Ralf Engbert
+1149,2012,Anat Prior
+1150,2012,Victoria I Weisz
+1150,2012,Pablo F Argibay
+1151,2012,Laura Winther Balling
+1151,2012,R Harald Baayen
+1152,2012,Benjamin E Hilbig
+1153,2012,Jakke Tamminen
+1153,2012,Matthew H Davis
+1153,2012,Marjolein Merkx
+1153,2012,Kathleen Rastle
+1154,2012,Aaron M Scherer
+1154,2012,Paul D Windschitl
+1154,2012,Jillian O'Rourke
+1154,2012,Andrew R Smith
+1155,2012,W Todd Maddox
+1155,2012,Marissa A Gorlick
+1155,2012,Darrell A Worthy
+1155,2012,Christopher G Beevers
+1156,2012,Kurt Gray
+1156,2012,Daniel M Wegner
+1157,2012,Timo Stein
+1157,2012,Philipp Sterzer
+1157,2012,Marius V Peelen
+1158,2012,Anthony Shook
+1158,2012,Viorica Marian
+1159,2012,Marco F H Schmidt
+1159,2012,Hannes Rakoczy
+1159,2012,Michael Tomasello
+1160,2012,Tomás Lejarraga
+1160,2012,Ralph Hertwig
+1160,2012,Cleotilde Gonzalez
+1161,2012,Robert G Cook
+1161,2012,Muhammad A J Qadri
+1161,2012,Art Kieres
+1161,2012,Nicholas Commons-Miller
+1162,2012,Rinus G Verdonschot
+1162,2012,Renee Middelburg
+1162,2012,Saskia E Lensink
+1162,2012,Niels O Schiller
+1163,2012,Joshua Rottman
+1163,2012,Deborah Kelemen
+1164,2012,Polly Dalton
+1164,2012,Nick Fraenkel
+1165,2012,Jiaying Zhao
+1165,2012,Vincenzo Crupi
+1165,2012,Katya Tentori
+1165,2012,Branden Fitelson
+1165,2012,Daniel Osherson
+1166,2012,John C Thoresen
+1166,2012,Quoc C Vuong
+1166,2012,Anthony P Atkinson
+1167,2012,Kevin K S Luk
+1167,2012,Wen S Xiao
+1167,2012,Him Cheung
+1168,2012,Ilaria Berteletti
+1168,2012,Daniela Lucangeli
+1168,2012,Marco Zorzi
+1169,2012,Christina Starmans
+1169,2012,Ori Friedman
+1170,2012,Feng Du
+1170,2012,Richard A Abrams
+1171,2012,Bastien Trémolière
+1171,2012,Wim De Neys
+1171,2012,Jean-François Bonnefon
+1172,2012,Andrea Bender
+1172,2012,Sieghard Beller
+1173,2012,Hannah L Pincham
+1173,2012,Dénes Szűcs
+1174,2012,Kristien Aarts
+1174,2012,Jan De Houwer
+1174,2012,Gilles Pourtois
+1175,2012,Leher Singh
+1175,2012,Joanne Foong
+1176,2012,Xiaoou Li
+1176,2012,Weimin Mou
+1176,2012,Timothy P McNamara
+1177,2012,Viola Macchi Cassia
+1177,2012,Marta Picozzi
+1177,2012,Luisa Girelli
+1177,2012,Maria Dolores de Hevia
+1178,2012,Neha Mahajan
+1178,2012,Karen Wynn
+1179,2012,Jiaxin Yu
+1179,2012,Daisy L Hung
+1179,2012,Philip Tseng
+1179,2012,Ovid J L Tzeng
+1179,2012,Neil G Muggleton
+1179,2012,Chi-Hung Juan
+1180,2012,Chris R Brewin
+1180,2012,Zoe Huntley
+1180,2012,Matthew G Whalley
+1181,2012,Eric Luis Uhlmann
+1181,2012,Luke Lei Zhu
+1181,2012,David A Pizarro
+1181,2012,Paul Bloom
+1182,2012,Davood G Gozli
+1182,2012,Greg L West
+1182,2012,Jay Pratt
+1183,2012,Timothy D Sweeny
+1183,2012,Emmanuel Guzman-Martinez
+1183,2012,Laura Ortega
+1183,2012,Marcia Grabowecky
+1183,2012,Satoru Suzuki
+1184,2012,Andrew Shtulman
+1184,2012,Joshua Valcarcel
+1185,2012,Max Palamar
+1185,2012,Doan T Le
+1185,2012,Ori Friedman
+1186,2012,Gary Lupyan
+1186,2012,Daniel Mirman
+1186,2012,Roy Hamilton
+1186,2012,Sharon L Thompson-Schill
+1187,2012,Kearsy Cormier
+1187,2012,Adam Schembri
+1187,2012,David Vinson
+1187,2012,Eleni Orfanidou
+1188,2012,Gordon Pennycook
+1188,2012,Jonathan A Fugelsang
+1188,2012,Derek J Koehler
+1189,2012,Sachiko Kiyokawa
+1189,2012,Zoltán Dienes
+1189,2012,Daisuke Tanaka
+1189,2012,Ayumi Yamada
+1189,2012,Louise Crowe
+1190,2012,Niv Reggev
+1190,2012,Ran R Hassin
+1190,2012,Anat Maril
+1191,2012,Caroline Floccia
+1191,2012,Claire Delle Luche
+1191,2012,Samantha Durrant
+1191,2012,Joseph Butler
+1191,2012,Jeremy Goslin
+1192,2012,Rafael Núñez
+1192,2012,Kensy Cooperrider
+1192,2012,D Doan
+1192,2012,Jürg Wassmann
+1193,2012,Jerad H Moxley
+1193,2012,K Anders Ericsson
+1193,2012,Neil Charness
+1193,2012,Ralf T Krampe
+1194,2012,Joseph T McGuire
+1194,2012,Joseph W Kable
+1195,2012,Yael Gertner
+1195,2012,Cynthia Fisher
+1196,2012,Abder El Aissati
+1196,2012,James M McQueen
+1196,2012,Anne Cutler
+1197,2012,Cristine H Legare
+1197,2012,André L Souza
+1198,2012,Yuki Kamide
+1199,2012,Gordon Pennycook
+1199,2012,James Allan Cheyne
+1199,2012,Paul Seli
+1199,2012,Derek J Koehler
+1199,2012,Jonathan A Fugelsang
+1200,2012,Loes Koring
+1200,2012,Pim Mak
+1200,2012,Eric Reuland
+1201,2012,Uwe Mattler
+1201,2012,Simon Palmer
+1202,2012,Brian P Keane
+1202,2012,Hongjing Lu
+1202,2012,Thomas V Papathomas
+1202,2012,Steven M Silverstein
+1202,2012,Philip J Kellman
+1203,2012,Nicolas Davidenko
+1203,2012,Stephen J Flusberg
+1204,2012,Brigitte Weiermann
+1204,2012,Beat Meier
+1205,2012,Andrei Cimpian
+1205,2012,Rose M Scott
+1206,2012,Susan Goldin-Meadow
+1206,2012,Aaron Shield
+1206,2012,Daniel Lenzen
+1206,2012,Melissa Herzig
+1206,2012,Carol Padden
+1207,2012,Oriel FeldmanHall
+1207,2012,Dean Mobbs
+1207,2012,Davy Evans
+1207,2012,Lucy Hiscox
+1207,2012,Lauren Navrady
+1207,2012,Tim Dalgleish
+1208,2012,Michel Fayol
+1208,2012,Catherine Thevenot
+1209,2012,Mariagrazia Capizzi
+1209,2012,Daniel Sanabria
+1209,2012,Ángel Correa
+1210,2012,Cindy M Bukach
+1210,2012,Jasmine Cottle
+1210,2012,JoAnna Ubiwa
+1210,2012,Jessica Miller
+1211,2012,Tad T Brunyé
+1211,2012,Aaron Gardony
+1211,2012,Caroline R Mahoney
+1211,2012,Holly A Taylor
+1212,2012,Christina Starmans
+1212,2012,Paul Bloom
+1213,2012,Jonathan Grainger
+1213,2012,Bernard Lété
+1213,2012,Daisy Bertand
+1213,2012,Stéphane Dufau
+1213,2012,Johannes C Ziegler
+1214,2012,Rico Fischer
+1214,2012,Bernhard Hommel
+1215,2012,Ben Ambridge
+1215,2012,Julian M Pine
+1215,2012,Caroline F Rowland
+1216,2012,Ervin Poljac
+1216,2012,Lee de-Wit
+1216,2012,Johan Wagemans
+1217,2012,L C De Bruin
+1217,2012,A Newen
+1218,2012,Steven T Piantadosi
+1218,2012,Joshua B Tenenbaum
+1218,2012,Noah D Goodman
+1219,2012,Jacob Feldman
+1220,2012,Polina M Vanyukov
+1220,2012,Tessa Warren
+1220,2012,Mark E Wheeler
+1220,2012,Erik D Reichle
+1221,2012,Nicolas Dumay
+1221,2012,M Gareth Gaskell
+1222,2012,Clara C Levelt
+1223,2012,Sang Ah Lee
+1223,2012,Valeria A Sovrano
+1223,2012,Elizabeth S Spelke
+1224,2012,Kathryn Davidson
+1224,2012,Kortney Eng
+1224,2012,David Barner
+1225,2012,Gregory Scontras
+1225,2012,Peter Graff
+1225,2012,Noah D Goodman
+1226,2012,Padraic Monaghan
+1226,2012,Karen Mattock
+1227,2012,Trevor Blackford
+1227,2012,Phillip J Holcomb
+1227,2012,Jonathan Grainger
+1227,2012,Gina R Kuperberg
+1228,2012,Richard S Bogartz
+1228,2012,Adrian Staub
+1229,2012,Grayden J F Solman
+1229,2012,J Allan Cheyne
+1229,2012,Daniel Smilek
+1230,2012,Andreas Glöckner
+1230,2012,Thorsten Pachur
+1231,2012,Arnaud Rey
+1231,2012,Pierre Perruchet
+1231,2012,Joël Fagot
+1232,2012,Bing Wu
+1232,2012,Roberta L Klatzky
+1232,2012,George D Stetten
+1233,2012,Gerrit Kentner
+1234,2011,Alia Martin
+1234,2011,Kristine H Onishi
+1234,2011,Athena Vouloumanos
+1235,2011,Jennifer Culbertson
+1235,2011,Paul Smolensky
+1235,2011,Géraldine Legendre
+1236,2011,Marieke Jepma
+1236,2011,Eric-Jan Wagenmakers
+1236,2011,Sander Nieuwenhuis
+1237,2011,Douglas Roland
+1237,2011,Hongoak Yun
+1237,2011,Jean-Pierre Koenig
+1237,2011,Gail Mauner
+1238,2011,Erin Cvejic
+1238,2011,Jeesun Kim
+1238,2011,Chris Davis
+1239,2011,Steven T Piantadosi
+1239,2011,Harry Tily
+1239,2011,Edward Gibson
+1240,2011,Fabien Mathy
+1240,2011,Jacob Feldman
+1241,2011,Michael A Webster
+1241,2011,Paul Kay
+1242,2011,Inbal Arnon
+1242,2011,Michael Ramscar
+1243,2011,Csongor Juhos
+1243,2011,Ana Cristina Quelhas
+1243,2011,P N Johnson-Laird
+1244,2011,Stephanie C Goodhew
+1244,2011,Paul E Dux
+1244,2011,Ottmar V Lipp
+1244,2011,Troy A W Visser
+1245,2011,Giovanni Anobile
+1245,2011,Guido Marco Cicchini
+1245,2011,David C Burr
+1246,2011,Sophie Steelandt
+1246,2011,Bernard Thierry
+1246,2011,Marie-Hélène Broihanne
+1246,2011,Valérie Dufour
+1247,2011,David P Corina
+1247,2011,Michael Grosvald
+1248,2011,Kirsten I Taylor
+1248,2011,Barry J Devereux
+1248,2011,Kadia Acres
+1248,2011,Billi Randall
+1248,2011,Lorraine K Tyler
+1249,2011,Idalmis Santiesteban
+1249,2011,Sarah White
+1249,2011,Jennifer Cook
+1249,2011,Sam J Gilbert
+1249,2011,Cecilia Heyes
+1249,2011,Geoffrey Bird
+1250,2011,Steven L Franconeri
+1250,2011,Jason M Scimeca
+1250,2011,Jessica C Roth
+1250,2011,Sarah A Helseth
+1250,2011,Lauren E Kahn
+1251,2011,Jie Sui
+1251,2011,Magdalena Chechlacz
+1251,2011,Glyn W Humphreys
+1252,2011,William Curran
+1252,2011,Christopher P Benton
+1253,2011,Jean-Francois Delvenne
+1253,2011,Jessica L Holt
+1254,2011,Iva Ivanova
+1254,2011,Martin J Pickering
+1254,2011,Holly P Branigan
+1254,2011,Janet F McLean
+1254,2011,Albert Costa
+1255,2011,Rose M Scott
+1255,2011,Cynthia Fisher
+1256,2011,Thomas Mussweiler
+1256,2011,Ann-Christin Posten
+1257,2011,Sarah A Gerson
+1257,2011,Amanda L Woodward
+1258,2011,Casey Lew-Williams
+1258,2011,Jenny R Saffran
+1259,2011,Evelyne Treinen
+1259,2011,Olivier Corneille
+1259,2011,Gaylord Luypaert
+1260,2011,Katya Tentori
+1260,2011,Vincenzo Crupi
+1261,2011,Ann Bunger
+1261,2011,John C Trueswell
+1261,2011,Anna Papafragou
+1262,2011,Alex O Holcombe
+1262,2011,Wei-Ying Chen
+1263,2011,Roger Levy
+1263,2011,Evelina Fedorenko
+1263,2011,Mara Breen
+1263,2011,Edward Gibson
+1265,2011,S Hélène Deacon
+1265,2011,Jenna Benere
+1265,2011,Anne Castles
+1266,2011,Alp Aslan
+1266,2011,Karl-Heinz T Bäuml
+1267,2011,Evan F Risko
+1267,2011,Nicola C Anderson
+1267,2011,Sophie Lanthier
+1267,2011,Alan Kingstone
+1268,2011,Jessica J Green
+1268,2011,Marty G Woldorff
+1269,2011,Mante S Nieuwland
+1269,2011,Andrea E Martin
+1270,2011,Serge Caparos
+1270,2011,Lubna Ahmed
+1270,2011,Andrew J Bremner
+1270,2011,Jan W de Fockert
+1270,2011,Karina J Linnell
+1270,2011,Jules Davidoff
+1271,2011,Adriaan Spruyt
+1271,2011,Jan De Houwer
+1271,2011,Tom Everaert
+1271,2011,Dirk Hermans
+1272,2011,Patricia A Herrmann
+1272,2011,Douglas L Medin
+1272,2011,Sandra R Waxman
+1273,2011,Paula Marentette
+1273,2011,Elena Nicoladis
+1274,2011,Sashank Varma
+1274,2011,Daniel L Schwartz
+1275,2011,Tanya Kraljic
+1275,2011,Arthur G Samuel
+1276,2011,Alexandra Marquis
+1276,2011,Rushen Shi
+1277,2011,Jan W de Fockert
+1277,2011,Andrew J Bremner
+1278,2011,Noam Weinbach
+1278,2011,Avishai Henik
+1279,2011,Benjamin M Rottman
+1279,2011,Frank C Keil
+1280,2011,Aleck Shih-Wei Chen
+1281,2011,Brent Strickland
+1281,2011,Frank Keil
+1282,2011,Micah R Bregman
+1282,2011,Aniruddh D Patel
+1282,2011,Timothy Q Gentner
+1283,2011,Maria Augustinova
+1283,2011,Julie Collange
+1283,2011,Rasyid Bo Sanitioso
+1283,2011,Serban C Musca
+1284,2011,Ellen Bialystok
+1284,2011,Raluca Barac
+1285,2011,Bo Yao
+1285,2011,Christoph Scheepers
+1286,2011,Johan C Karremans
+1286,2011,Ron Dotsch
+1286,2011,Olivier Corneille
+1287,2011,Molly Flaherty
+1287,2011,Ann Senghas
+1288,2011,Mireia Hernández
+1288,2011,Albert Costa
+1288,2011,Glyn W Humphreys
+1289,2011,Rob Jenkins
+1289,2011,David White
+1289,2011,Xandra Van Montfort
+1289,2011,A Mike Burton
+1290,2011,Rebecca Lawson
+1291,2011,James Allan Cheyne
+1291,2011,Jonathan S A Carriere
+1291,2011,Grayden J F Solman
+1291,2011,Daniel Smilek
+1292,2011,Yuyan Luo
+1293,2011,Coral J Dando
+1293,2011,Thomas C Ormerod
+1293,2011,Rachel Wilcock
+1293,2011,Rebecca Milne
+1294,2011,Ian M Lyons
+1294,2011,Sian L Beilock
+1295,2011,Joyce F Benenson
+1295,2011,Robert Tennyson
+1295,2011,Richard W Wrangham
+1296,2011,Tilbe Göksun
+1296,2011,Kathy Hirsh-Pasek
+1296,2011,Roberta Michnick Golinkoff
+1296,2011,Mutsumi Imai
+1296,2011,Haruka Konishi
+1296,2011,Hiroyuki Okada
+1297,2011,Nivedita Mani
+1297,2011,Kim Plunkett
+1298,2011,Martina Rieger
+1298,2011,Fanny Martinez
+1298,2011,Dorit Wenke
+1299,2011,Andrew Lovett
+1299,2011,Kenneth Forbus
+1300,2011,Katherine Messenger
+1300,2011,Holly P Branigan
+1300,2011,Janet F McLean
+1301,2011,Kurt Gray
+1301,2011,T Anne Knickman
+1301,2011,Daniel M Wegner
+1302,2011,Christoph Hölscher
+1302,2011,Thora Tenbrink
+1302,2011,Jan M Wiener
+1303,2011,Carmen Weiss
+1303,2011,Arvid Herwig
+1303,2011,Simone Schütz-Bosbach
+1304,2011,Federico Rossano
+1304,2011,Hannes Rakoczy
+1304,2011,Michael Tomasello
+1305,2011,Daniel M Bartels
+1305,2011,David A Pizarro
+1306,2011,Nicholas D Duran
+1306,2011,Rick Dale
+1306,2011,Roger J Kreuz
+1307,2011,Edward B Royzman
+1307,2011,Geoffrey P Goodwin
+1307,2011,Robert F Leeman
+1308,2011,Tiziana Zalla
+1308,2011,Luca Barlassina
+1308,2011,Marine Buon
+1308,2011,Marion Leboyer
+1309,2011,Hermann Bulf
+1309,2011,Scott P Johnson
+1309,2011,Eloisa Valenza
+1310,2011,Julia A Mossbridge
+1310,2011,Marcia Grabowecky
+1310,2011,Satoru Suzuki
+1311,2011,Emmanuel M Pothos
+1311,2011,Amotz Perlman
+1311,2011,Todd M Bailey
+1311,2011,Ken Kurtz
+1311,2011,Darren J Edwards
+1311,2011,Peter Hines
+1311,2011,John V McDonnell
+1312,2011,Hauke S Meyerhoff
+1312,2011,Markus Huff
+1312,2011,Frank Papenmeier
+1312,2011,Georg Jahn
+1312,2011,Stephan Schwan
+1313,2011,Holly P Branigan
+1313,2011,Martin J Pickering
+1313,2011,Jamie Pearson
+1313,2011,Janet F McLean
+1313,2011,Ash Brown
+1314,2011,Ty W Boyer
+1314,2011,J Samantha Pan
+1314,2011,Bennett I Bertenthal
+1316,2011,Annette M E Henderson
+1316,2011,Amanda L Woodward
+1318,2011,Manuela Piazza
+1318,2011,Antonia Fumarola
+1318,2011,Alessandro Chinello
+1318,2011,David Melcher
+1319,2011,Matthew Goldrick
+1319,2011,H Ross Baker
+1319,2011,Amanda Murphy
+1319,2011,Melissa Baese-Berk
+1320,2011,Anna Shusterman
+1320,2011,Sang Ah Lee
+1320,2011,Elizabeth S Spelke
+1321,2011,Maria Staudte
+1321,2011,Matthew W Crocker
+1322,2011,Rafael Núñez
+1322,2011,D Doan
+1322,2011,Anastasia Nikoulina
+1323,2011,Peter Juslin
+1323,2011,Håkan Nilsson
+1323,2011,Anders Winman
+1323,2011,Marcus Lindskog
+1324,2011,Louise H Phillips
+1324,2011,Rebecca Bull
+1324,2011,Roy Allen
+1324,2011,Pauline Insch
+1324,2011,Kirsty Burr
+1324,2011,Will Ogg
+1325,2011,Anne Böckler
+1325,2011,Günther Knoblich
+1325,2011,Natalie Sebanz
+1326,2011,Peter R Blake
+1326,2011,Katherine McAuliffe
+1327,2011,Liane Young
+1327,2011,Rebecca Saxe
+1328,2011,Titia Gebuis
+1328,2011,Wim Gevers
+1329,2011,Claire Cook
+1329,2011,Noah D Goodman
+1329,2011,Laura E Schulz
+1330,2011,Bernhard Hommel
+1330,2011,Lorenza S Colzato
+1330,2011,Claudia Scorolli
+1330,2011,Anna M Borghi
+1330,2011,Wery P M van den Wildenberg
+1331,2011,Okko Räsänen
+1332,2011,Thierry Nazzi
+1332,2011,Isabelle Barrière
+1332,2011,Louise Goyet
+1332,2011,Sarah Kresh
+1332,2011,Géraldine Legendre
+1333,2011,Filip Van Opstal
+1333,2011,Floris P de Lange
+1333,2011,Stanislas Dehaene
+1334,2011,Peggy Li
+1334,2011,Linda Abarbanell
+1334,2011,Lila Gleitman
+1334,2011,Anna Papafragou
+1335,2011,Charles W Kalish
+1335,2011,Timothy T Rogers
+1335,2011,Jonathan Lang
+1335,2011,Xiaojin Zhu
+1336,2011,Michael J Beran
+1336,2011,J David Smith
+1337,2011,Norbert Zmyj
+1337,2011,Jana Jank
+1337,2011,Simone Schütz-Bosbach
+1337,2011,Moritz M Daum
+1338,2011,Matthew L Hall
+1338,2011,Daphne Bavelier
+1339,2011,Anne S Hsu
+1339,2011,Nick Chater
+1339,2011,Paul M B Vitányi
+1342,2011,Paul Muentener
+1342,2011,Laura Lakusta
+1343,2011,Napoleon Katsos
+1343,2011,Dorothy V M Bishop
+1344,2011,Don van Ravenzwaaij
+1344,2011,Scott Brown
+1344,2011,Eric-Jan Wagenmakers
+1345,2011,Jerker Denrell
+1345,2011,Gaël Le Mens
+1346,2011,Stella F Lourenco
+1346,2011,Matthew R Longo
+1346,2011,Thanujeni Pathman
+1347,2011,Nilufa Ali
+1347,2011,Nick Chater
+1347,2011,Mike Oaksford
+1348,2011,Laila Craighero
+1348,2011,Irene Leo
+1348,2011,Carlo Umiltà
+1348,2011,Francesca Simion
+1349,2011,Emily Mather
+1349,2011,Kim Plunkett
+1350,2011,Fabrice B R Parmentier
+1350,2011,Jane V Elsley
+1350,2011,Pilar Andrés
+1350,2011,Francisco Barceló
+1351,2011,Melanie Killen
+1351,2011,Kelly Lynn Mulvey
+1351,2011,Cameron Richardson
+1351,2011,Noah Jampol
+1351,2011,Amanda Woodward
+1352,2011,Merryn D Constable
+1352,2011,Ada Kritikos
+1352,2011,Andrew P Bayliss
+1353,2011,Patrick Shafto
+1353,2011,Charles Kemp
+1353,2011,Vikash Mansinghka
+1353,2011,Joshua B Tenenbaum
+1354,2011,A Nicolle
+1354,2011,M Symmonds
+1354,2011,R J Dolan
+1355,2011,Renata S Suter
+1355,2011,Ralph Hertwig
+1356,2011,Lili Ma
+1356,2011,Fei Xu
+1357,2011,Heather J Ferguson
+1357,2011,Richard Breheny
+1358,2010,Amy Franklin
+1358,2010,Anastasia Giannakidou
+1358,2010,Susan Goldin-Meadow
+1359,2011,Anna V Fisher
+1360,2011,Kerri L Johnson
+1360,2011,Lawrie S McKay
+1360,2011,Frank E Pollick
+1361,2011,Luisa Sartori
+1361,2011,Cristina Becchio
+1361,2011,Umberto Castiello
+1362,2011,Philip M Fernbach
+1362,2011,Adam Darlow
+1362,2011,Steven A Sloman
+1363,2011,Lance J Rips
+1364,2011,Daphna Buchsbaum
+1364,2011,Alison Gopnik
+1364,2011,Thomas L Griffiths
+1364,2011,Patrick Shafto
+1365,2011,Alinda Friedman
+1365,2011,David Waller
+1365,2011,Tyler Thrash
+1365,2011,Nathan Greenauer
+1365,2011,Eric Hodgson
+1366,2011,Katherine D Kinzler
+1366,2011,Elizabeth S Spelke
+1367,2011,Graham Hole
+1368,2011,Timo Stein
+1368,2011,Atsushi Senju
+1368,2011,Marius V Peelen
+1368,2011,Philipp Sterzer
+1369,2011,Chris L E Paffen
+1369,2011,Sarah Plukaard
+1369,2011,Ryota Kanai
+1371,2011,Sarah R Beck
+1371,2011,Ian A Apperly
+1371,2011,Jackie Chappell
+1371,2011,Carlie Guthrie
+1371,2011,Nicola Cutting
+1372,2011,Liane Young
+1372,2011,Jonathan Phillips
+1373,2011,Juan E Kamienkowski
+1373,2011,Harold Pashler
+1373,2011,Stanislas Dehaene
+1373,2011,Mariano Sigman
+1374,2011,Kou Murayama
+1374,2011,Christof Kuhbandner
+1375,2011,Jennifer B Wagner
+1375,2011,Susan C Johnson
+1376,2011,Amy Perfors
+1376,2011,Joshua B Tenenbaum
+1376,2011,Thomas L Griffiths
+1376,2011,Fei Xu
+1377,2011,Jean-Philippe van Dijck
+1377,2011,Wim Fias
+1378,2011,Colin Dawson
+1378,2011,Louann Gerken
+1379,2011,Nina Strohminger
+1379,2011,Richard L Lewis
+1379,2011,David E Meyer
+1380,2011,Daniel B M Haun
+1380,2011,Christian J Rapold
+1380,2011,Gabriele Janzen
+1380,2011,Stephen C Levinson
+1381,2011,Ashley de Marchena
+1381,2011,Inge-Marie Eigsti
+1381,2011,Amanda Worek
+1381,2011,Kim Emiko Ono
+1381,2011,Jesse Snedeker
+1382,2011,John M Tomlinson
+1382,2011,Jean E Fox Tree
+1383,2011,Anuenue Kukona
+1383,2011,Shin-Yi Fang
+1383,2011,Karen A Aicher
+1383,2011,Helen Chen
+1383,2011,James S Magnuson
+1384,2011,Napoleon Katsos
+1384,2011,Clara Andrés Roqueta
+1384,2011,Rosa Ana Clemente Estevan
+1384,2011,Chris Cummins
+1385,2011,Jonathan W Kelly
+1385,2011,Marios N Avraamides
+1386,2011,Anna V Fisher
+1386,2011,Bryan J Matlen
+1386,2011,Karrie E Godwin
+1387,2011,H Rohde
+1387,2011,R Levy
+1387,2011,A Kehler
+1388,2011,Elizabeth Bonawitz
+1388,2011,Patrick Shafto
+1388,2011,Hyowon Gweon
+1388,2011,Noah D Goodman
+1388,2011,Elizabeth Spelke
+1388,2011,Laura Schulz
+1389,2011,Atsunori Ariga
+1389,2011,Alejandro Lleras
+1390,2010,Amy Perfors
+1390,2010,Joshua B Tenenbaum
+1390,2010,Terry Regier
+1391,2010,Lisa M Oakes
+1391,2010,Karinna B Hurley
+1391,2010,Shannon Ross-Sheehy
+1391,2010,Steven J Luck
+1392,2010,Hadas Velan
+1392,2010,Ram Frost
+1393,2010,Henrike K Blumenfeld
+1393,2010,Viorica Marian
+1394,2010,Micah B Goldwater
+1394,2010,Arthur B Markman
+1394,2010,C Hunt Stilwell
+1395,2010,Bradley W Vines
+1395,2010,Carol L Krumhansl
+1395,2010,Marcelo M Wanderley
+1395,2010,Ioana M Dalca
+1395,2010,Daniel J Levitin
+1396,2010,Elsa Addessi
+1396,2010,Fabio Paglieri
+1396,2010,Valentina Focaroli
+1397,2010,Fabio Campanella
+1397,2010,Tim Shallice
+1398,2010,Eugene M Caruso
+1398,2010,Francesca Gino
+1399,2010,Jun Lai
+1399,2010,Fenna H Poletiek
+1400,2010,Jill P Morford
+1400,2010,Erin Wilkinson
+1400,2010,Agnes Villwock
+1400,2010,Pilar Piñar
+1400,2010,Judith F Kroll
+1401,2010,A Ross Otto
+1401,2010,Eric G Taylor
+1401,2010,Arthur B Markman
+1402,2010,Meghan Sumner
+1403,2010,Eric L Olofson
+1403,2010,Dare Baldwin
+1404,2010,Michael C Frank
+1404,2010,Joshua B Tenenbaum
+1405,2010,Laura T Germine
+1405,2010,Bradley Duchaine
+1405,2010,Ken Nakayama
+1406,2010,Liat Goldfarb
+1406,2010,Daniela Aisenberg
+1406,2010,Avishai Henik
+1407,2010,Jessica B Cicchino
+1407,2010,Richard N Aslin
+1407,2010,David H Rakison
+1408,2010,Maureen Gillespie
+1408,2010,Neal J Pearlmutter
+1409,2010,Russell E Jackson
+1409,2010,Chéla R Willey
+1411,2010,Sota Watanabe
+1411,2010,Noriyuki Nakamura
+1411,2010,Kazuo Fujita
+1412,2010,Michael D Lee
+1412,2010,Barbara W Sarnecka
+1413,2010,Christian Agrillo
+1413,2010,Laura Piffer
+1413,2010,Angelo Bisazza
+1414,2010,Minal Patel
+1414,2010,Maria Chait
+1416,2010,Chris McNorgan
+1416,2010,Jackie Reid
+1416,2010,Ken McRae
+1417,2010,Jessica S Horst
+1417,2010,Larissa K Samuelson
+1417,2010,Sarah C Kucker
+1417,2010,Bob McMurray
+1418,2010,Stephanie C Goodhew
+1418,2010,Troy A W Visser
+1418,2010,Ottmar V Lipp
+1418,2010,Paul E Dux
+1419,2010,Jessica Chia-Chin Tsai
+1419,2010,Natalie Sebanz
+1419,2010,Günther Knoblich
+1420,2010,David Barner
+1420,2010,Neon Brooks
+1420,2010,Alan Bale
+1421,2010,Seppe Santens
+1421,2010,Tom Verguts
+1422,2010,Noburo Saji
+1422,2010,Mutsumi Imai
+1422,2010,Henrik Saalbach
+1422,2010,Yuping Zhang
+1422,2010,Hua Shu
+1422,2010,Hiroyuki Okada
+1423,2010,Michel Gonzalez
+1423,2010,Vittorio Girotto
+1424,2010,Karin S Pilz
+1424,2010,Quoc C Vuong
+1424,2010,Heinrich H Bülthoff
+1424,2010,Ian M Thornton
+1425,2010,Anthony C Little
+1425,2010,Lisa M DeBruine
+1425,2010,Benedict C Jones
+1426,2010,Connor Diemand-Yauman
+1426,2010,Daniel M Oppenheimer
+1426,2010,Erikka B Vaughan
+1427,2010,Jean Vroomen
+1427,2010,Jeroen J Stekelenburg
+1428,2010,Lera Boroditsky
+1428,2010,Orly Fuhrman
+1428,2010,Kelly McCormick
+1429,2010,Ranmalee Eramudugolla
+1429,2010,Marc R Kamke
+1429,2010,Salvador Soto-Faraco
+1429,2010,Jason B Mattingley
+1431,2010,Tom Foulsham
+1431,2010,Joey T Cheng
+1431,2010,Jessica L Tracy
+1431,2010,Joseph Henrich
+1431,2010,Alan Kingstone
+1432,2010,Henry Markovits
+1432,2010,Joyce F Benenson
+1433,2010,Igor Douven
+1433,2010,Sara Verbrugge
+1434,2010,Corey T McMillan
+1434,2010,Martin Corley
+1435,2010,Thomas J McKeeff
+1435,2010,Rankin W McGugin
+1435,2010,Frank Tong
+1435,2010,Isabel Gauthier
+1438,2010,Jinfu Shi
+1438,2010,Xuchu Weng
+1438,2010,Sheng He
+1438,2010,Yi Jiang
+1439,2010,Edouard Machery
+1439,2010,Max Deutsch
+1439,2010,Ron Mallon
+1439,2010,Shaun Nichols
+1439,2010,Justin Sytsma
+1439,2010,Stephen P Stich
+1440,2010,Raoul Bell
+1440,2010,Axel Buchner
+1440,2010,Jochen Musch
+1442,2010,Ruth M Krebs
+1442,2010,Carsten N Boehler
+1442,2010,Marty G Woldorff
+1443,2010,Rolf Ulrich
+1443,2010,Claudia Maienborn
+1444,2010,Dustin J Merritt
+1444,2010,Daniel Casasanto
+1444,2010,Elizabeth M Brannon
+1446,2010,Michael C Frank
+1446,2010,Sharon Goldwater
+1446,2010,Thomas L Griffiths
+1446,2010,Joshua B Tenenbaum
+1447,2010,Antoine Pasquali
+1447,2010,Bert Timmermans
+1447,2010,Axel Cleeremans
+1450,2010,Mark L Howe
+1450,2010,Sarah R Garner
+1450,2010,Stephen A Dewhurst
+1450,2010,Linden J Ball
+1451,2010,Steve Guglielmo
+1451,2010,Bertram F Malle
+1455,2010,Jan Zwickel
+1455,2010,Hermann J Müller
+1456,2010,Lorenza S Colzato
+1456,2010,Ilja van Beest
+1456,2010,Wery P M van den Wildenberg
+1456,2010,Claudia Scorolli
+1456,2010,Shirley Dorchin
+1456,2010,Nachshon Meiran
+1456,2010,Anna M Borghi
+1456,2010,Bernhard Hommel
+1457,2010,Michelle C St Clair
+1457,2010,Padraic Monaghan
+1457,2010,Morten H Christiansen
+1458,2010,Laura E Thomas
+1458,2010,Adriane E Seiffert
+1459,2010,Akina Umemoto
+1459,2010,Trafton Drew
+1459,2010,Edward F Ester
+1459,2010,Edward Awh
+1460,2010,Andrei Cimpian
+1460,2010,Cristina Cadena
+1461,2010,Hugh Rabagliati
+1461,2010,Gary F Marcus
+1461,2010,Liina Pylkkänen
+1462,2010,Jordan A Comins
+1462,2010,Timothy Q Gentner
+1463,2010,Lars Hall
+1463,2010,Petter Johansson
+1463,2010,Betty Tärning
+1463,2010,Sverker Sikström
+1463,2010,Thérèse Deutgen
+1464,2010,Samuel Di Luca
+1464,2010,Nathalie Lefèvre
+1464,2010,Mauro Pesenti
+1465,2010,Arielle Borovsky
+1465,2010,Marta Kutas
+1465,2010,Jeff Elman
+1466,2010,Kenny Smith
+1466,2010,Elizabeth Wonnacott
+1470,2010,Ruth Filik
+1470,2010,Linda M Moxey
+1471,2010,Simone Kühn
+1471,2010,Marcel Brass
+1472,2010,Jonathan W Kelly
+1472,2010,Timothy P McNamara
+1473,2010,Daniel N Bub
+1473,2010,Michael E J Masson
+1474,2010,Scott Barry Kaufman
+1474,2010,Colin G Deyoung
+1474,2010,Jeremy R Gray
+1474,2010,Luis Jiménez
+1474,2010,Jamie Brown
+1474,2010,Nicholas Mackintosh
+1475,2010,Janet Metcalfe
+1475,2010,Teal S Eich
+1475,2010,Alan D Castel
+1476,2010,Panos Athanasopoulos
+1476,2010,Benjamin Dering
+1476,2010,Alison Wiggett
+1476,2010,Jan-Rouke Kuipers
+1476,2010,Guillaume Thierry
+1477,2010,Ferran Pons
+1477,2010,Juan M Toro
+1478,2010,Ulrich Ansorge
+1478,2010,Markus Kiefer
+1478,2010,Shah Khalid
+1478,2010,Sylvia Grassl
+1478,2010,Peter König
+1479,2010,Cristina M Atance
+1479,2010,Daniel M Bernstein
+1479,2010,Andrew N Meltzoff
+1480,2010,Koleen McCrink
+1480,2010,Elizabeth S Spelke
+1483,2010,Frank Domahs
+1483,2010,Korbinian Moeller
+1483,2010,Stefan Huber
+1483,2010,Klaus Willmes
+1483,2010,Hans-Christoph Nuerk
+1484,2010,Margaret Wilson
+1484,2010,Jessy Lancaster
+1484,2010,Karen Emmorey
+1485,2010,Randi C Martin
+1485,2010,Jason E Crowther
+1485,2010,Meredith Knight
+1485,2010,Franklin P Tamborello
+1485,2010,Chin-Lung Yang
+1486,2010,Megan H Papesh
+1486,2010,Stephen D Goldinger
+1487,2010,Yanchao Bi
+1487,2010,Xi Yu
+1487,2010,Jingyi Geng
+1487,2010,F-Xavier Alario
+1488,2010,Eugene M Caruso
+1488,2010,Adam Waytz
+1488,2010,Nicholas Epley
+1489,2010,Kevin Uttich
+1489,2010,Tania Lombrozo
+1490,2010,Hannah R Snyder
+1490,2010,Yuko Munakata
+1491,2010,Craig S Chapman
+1491,2010,Jason P Gallivan
+1491,2010,Daniel K Wood
+1491,2010,Jennifer L Milne
+1491,2010,Jody C Culham
+1491,2010,Melvyn A Goodale
+1492,2010,Emma Gregory
+1492,2010,Michael McCloskey
+1493,2010,Michael S Amato
+1493,2010,Maryellen C MacDonald
+1494,2010,Adrian Staub
+1495,2010,Manon W Jones
+1495,2010,Holly P Branigan
+1495,2010,Anna Hatzidaki
+1495,2010,Mateo Obregón
+1496,2010,Denis Drieghe
+1496,2010,Alexander Pollatsek
+1496,2010,Barbara J Juhasz
+1496,2010,Keith Rayner
+1497,2010,Daniel J Grodner
+1497,2010,Natalie M Klein
+1497,2010,Kathleen M Carbary
+1497,2010,Michael K Tanenhaus
+1498,2010,Nadia Milanese
+1498,2010,Cristina Iani
+1498,2010,Sandro Rubichi
+1499,2010,Manuela Piazza
+1499,2010,Andrea Facoetti
+1499,2010,Anna Noemi Trussardi
+1499,2010,Ilaria Berteletti
+1499,2010,Stefano Conte
+1499,2010,Daniela Lucangeli
+1499,2010,Stanislas Dehaene
+1499,2010,Marco Zorzi
+1500,2010,Simon Fischer-Baum
+1500,2010,Michael McCloskey
+1500,2010,Brenda Rapp
+1501,2010,Catriona M Morrison
+1501,2010,Martin A Conway
+1502,2010,Charles W Kalish
+1503,2010,Roman Liepelt
+1503,2010,Wolfgang Prinz
+1503,2010,Marcel Brass
+1504,2010,Laura B Silverman
+1504,2010,Loisa Bennetto
+1504,2010,Ellen Campana
+1504,2010,Michael K Tanenhaus
+1505,2010,Claus-Christian Carbon
+1506,2010,Adam S Cohen
+1506,2010,Tamsin C German
+1507,2010,Camilla K Gilmore
+1507,2010,Shannon E McCarthy
+1507,2010,Elizabeth S Spelke
+1508,2010,Aaron R Seitz
+1508,2010,Athanassios Protopapas
+1508,2010,Yoshiaki Tsushima
+1508,2010,Eleni L Vlahou
+1508,2010,Simone Gori
+1508,2010,Stephen Grossberg
+1508,2010,Takeo Watanabe
+1509,2010,Fabrice B R Parmentier
+1509,2010,Jane V Elsley
+1509,2010,Jessica K Ljungberg
+1510,2010,Jean-Rémy Hochmann
+1510,2010,Ansgar D Endress
+1510,2010,Jacques Mehler
+1511,2010,R G Verdonschot
+1511,2010,W La Heij
+1511,2010,N O Schiller
+1512,2010,Soghra Akbari Chermahini
+1512,2010,Bernhard Hommel
+1513,2010,Stefan Scherbaum
+1513,2010,Maja Dshemuchadse
+1513,2010,Rico Fischer
+1513,2010,Thomas Goschke
+1514,2010,Stefan Hawelka
+1514,2010,Benjamin Gagl
+1514,2010,Heinz Wimmer
+1515,2010,Jennifer Cole Wright
+1516,2010,Ori Friedman
+1516,2010,Karen R Neary
+1516,2010,Corinna L Burnstein
+1516,2010,Alan M Leslie
+1517,2010,Steven A Jax
+1517,2010,Laurel J Buxbaum
+1518,2010,Katherine Demuth
+1518,2010,Francina Moloi
+1518,2010,Malillo Machobane
+1519,2010,Christophe Mussolin
+1519,2010,Sandrine Mejias
+1519,2010,Marie-Pascale Noël
+1520,2010,Padraig G O'Seaghdha
+1520,2010,Jenn-Yeu Chen
+1520,2010,Train-Min Chen
+1521,2010,LouAnn Gerken
+1522,2010,Katherine A Yoshida
+1522,2010,John R Iversen
+1522,2010,Aniruddh D Patel
+1522,2010,Reiko Mazuka
+1522,2010,Hiromi Nito
+1522,2010,Judit Gervain
+1522,2010,Janet F Werker
+1523,2010,George E Newman
+1523,2010,Kristi L Lockhart
+1523,2010,Frank C Keil
+1524,2010,Sébastien Marti
+1524,2010,Jérôme Sackur
+1524,2010,Mariano Sigman
+1524,2010,Stanislas Dehaene
+1525,2010,John Lipinski
+1525,2010,Vanessa R Simmering
+1525,2010,Jeffrey S Johnson
+1525,2010,John P Spencer
+1526,2010,Barry Lam
+1527,2010,Steven A Sloman
+1527,2010,Philip M Fernbach
+1527,2010,York Hagmayer
+1528,2010,Elizabeth Baraff Bonawitz
+1528,2010,Darlene Ferranti
+1528,2010,Rebecca Saxe
+1528,2010,Alison Gopnik
+1528,2010,Andrew N Meltzoff
+1528,2010,James Woodward
+1528,2010,Laura E Schulz
+1529,2010,Daniel Casasanto
+1529,2010,Katinka Dijkstra
+1530,2010,Stacia R Friedman-Hill
+1530,2010,Meryl R Wagman
+1530,2010,Saskia E Gex
+1530,2010,Daniel S Pine
+1530,2010,Ellen Leibenluft
+1530,2010,Leslie G Ungerleider
+1531,2010,Rebecca Lawson
+1532,2010,René Zeelenberg
+1532,2010,Bruno R Bocanegra
+1533,2010,Mark L Howe
+1533,2010,Mary H Derbish
+1534,2010,Linda Abarbanell
+1534,2010,Marc D Hauser
+1535,2010,Ralph Hertwig
+1535,2010,Timothy J Pleskac
+1536,2010,Fuminori Ono
+1536,2010,Shigeru Kitazawa
+1537,2010,Erik Bijleveld
+1537,2010,Ruud Custers
+1537,2010,Henk Aarts
+1538,2010,Khena M Swallow
+1538,2010,Yuhong V Jiang
+1539,2010,Laurence Conty
+1539,2010,David Gimmig
+1539,2010,Clément Belletier
+1539,2010,Nathalie George
+1539,2010,Pascal Huguet
+1540,2010,Tobias Gerstenberg
+1540,2010,David A Lagnado
+1541,2010,Damian G Stephen
+1541,2010,Daniel Mirman
+1542,2010,Elisa Back
+1542,2010,Ian A Apperly
+1543,2009,Arnaud Badets
+1543,2009,Mauro Pesenti
+1544,2009,Mark Yates
+1545,2009,Zohar Eitan
+1545,2009,Renee Timmers
+1546,2009,Manuel Carreiras
+1546,2009,Jon Andoni Duñabeitia
+1546,2009,Marta Vergara
+1546,2009,Irene de la Cruz-Pavía
+1546,2009,Itziar Laka
+1547,2009,Kyle E Mathewson
+1547,2009,Monica Fabiani
+1547,2009,Gabriele Gratton
+1547,2009,Diane M Beck
+1547,2009,Alejandro Lleras
+1548,2010,Sarah Bernolet
+1548,2010,Robert J Hartsuiker
+1549,2009,Lawrence J Taylor
+1549,2009,Rolf A Zwaan
+1550,2009,Michele I Feist
+1551,2009,Jessica M Foxton
+1551,2009,Louis-David Riviere
+1551,2009,Pascal Barone
+1552,2009,Adrian Staub
+1553,2009,María Jesús Funes
+1553,2009,Juan Lupiáñez
+1553,2009,Glyn Humphreys
+1554,2009,Dorit Wenke
+1554,2009,Stephen M Fleming
+1554,2009,Patrick Haggard
+1555,2009,Sudha Arunachalam
+1555,2009,Sandra R Waxman
+1556,2009,Jane Leighton
+1556,2009,Geoffrey Bird
+1556,2009,Cecilia Heyes
+1557,2009,Todd R Haskell
+1557,2009,Robert Thornton
+1557,2009,Maryellen C Macdonald
+1558,2009,Tali Ditman
+1558,2009,Tad T Brunyé
+1558,2009,Caroline R Mahoney
+1558,2009,Holly A Taylor
+1559,2009,Ryan B Scott
+1559,2009,Zoltan Dienes
+1560,2009,Christopher M Conway
+1560,2009,Althea Bauernschmidt
+1560,2009,Sean S Huang
+1560,2009,David B Pisoni
+1561,2009,Delia Guagnano
+1561,2009,Elena Rusconi
+1561,2009,Carlo Arrigo Umiltà
+1562,2009,Maria A Brandimonte
+1562,2009,Donatella Ferrante
+1562,2009,Carmela Bianco
+1562,2009,Maria Grazia Villani
+1563,2009,Yi-Chuan Chen
+1563,2009,Charles Spence
+1564,2009,Louise Connell
+1564,2009,Dermot Lynott
+1565,2009,Mandy J Maguire
+1565,2009,Kathy Hirsh-Pasek
+1565,2009,Roberta Michnick Golinkoff
+1565,2009,Mutsumi Imai
+1565,2009,Etsuko Haryu
+1565,2009,Sandra Vanegas
+1565,2009,Hiroyuki Okada
+1565,2009,Rachel Pulverman
+1565,2009,Brenda Sanchez-Davis
+1566,2009,Emmanuel Dupoux
+1566,2009,Sharon Peperkamp
+1566,2009,Núria Sebastián-Gallés
+1567,2009,Erin A Maloney
+1567,2009,Evan F Risko
+1567,2009,Daniel Ansari
+1567,2009,Jonathan Fugelsang
+1568,2009,Charles Kemp
+1568,2009,Joshua B Tenenbaum
+1568,2009,Sourabh Niyogi
+1568,2009,Thomas L Griffiths
+1569,2009,Geoffrey P Goodwin
+1569,2009,P N Johnson-Laird
+1570,2009,Anina N Rich
+1570,2009,Jason B Mattingley
+1571,2009,Tamara Christie
+1571,2009,Virginia Slaughter
+1572,2009,Gary M Oppenheim
+1572,2009,Gary S Dell
+1572,2009,Myrna F Schwartz
+1573,2009,Katharina Spalek
+1573,2009,Kathryn Bock
+1573,2009,Herbert Schriefers
+1574,2009,Jonathan Winawer
+1574,2009,Alexander C Huk
+1574,2009,Lera Boroditsky
+1575,2009,Sascha Topolinski
+1575,2009,Rolf Reber
+1576,2009,Sofie V Gelskov
+1576,2009,Sid Kouider
+1577,2009,Alexander Kranjec
+1577,2009,Eileen R Cardillo
+1577,2009,Gwenda L Schmidt
+1577,2009,Anjan Chatterjee
+1579,2009,Vanja Kovic
+1579,2009,Kim Plunkett
+1579,2009,Gert Westermann
+1580,2009,Nathaniel D Daw
+1580,2009,Michael J Frank
+1581,2009,Max M Louwerse
+1581,2009,Patrick Jeuniaux
+1582,2009,Ulrike Hahn
+1582,2009,Mercè Prat-Sala
+1582,2009,Emmanuel M Pothos
+1582,2009,Duncan P Brumby
+1583,2009,Gustaf Gredebäck
+1583,2009,Annika Melinder
+1584,2009,Michael R W Dawson
+1584,2009,Debbie M Kelly
+1584,2009,Marcia L Spetch
+1584,2009,Brian Dupuis
+1585,2009,Lin Luo
+1585,2009,Gigi Luk
+1585,2009,Ellen Bialystok
+1586,2009,Claudia Civai
+1586,2009,Corrado Corradi-Dell'Acqua
+1586,2009,Matthias Gamer
+1586,2009,Raffaella I Rumiati
+1587,2009,Klaus Kessler
+1587,2009,Lindsey Anne Thomson
+1588,2009,Tyler K Perrachione
+1588,2009,Joan Y Chiao
+1588,2009,Patrick C M Wong
+1589,2009,James Russell
+1589,2009,Dean Alexis
+1589,2009,Nicola Clayton
+1590,2009,Kathleen H Corriveau
+1590,2009,Angie L Kim
+1590,2009,Courtney E Schwalen
+1590,2009,Paul L Harris
+1591,2009,H Henny Yeung
+1591,2009,Janet F Werker
+1592,2009,Thomas C Scott-Phillips
+1592,2009,Simon Kirby
+1592,2009,Graham R S Ritchie
+1593,2009,David M Sobel
+1594,2009,Ami Eidels
+1594,2009,James T Townsend
+1594,2009,Daniel Algom
+1595,2009,Hannes Rakoczy
+1595,2009,Michael Tomasello
+1596,2009,Ian M Lyons
+1596,2009,Sian L Beilock
+1597,2009,Albert Costa
+1597,2009,Mireia Hernández
+1597,2009,Jordi Costa-Faidella
+1597,2009,Núria Sebastián-Gallés
+1598,2009,Andrew Hollingworth
+1598,2009,Steven L Franconeri
+1599,2009,Chris L Baker
+1599,2009,Rebecca Saxe
+1599,2009,Joshua B Tenenbaum
+1600,2009,Jean-Philippe van Dijck
+1600,2009,Wim Gevers
+1600,2009,Wim Fias
+1601,2009,Carl J Hodgetts
+1601,2009,Ulrike Hahn
+1601,2009,Nick Chater
+1602,2009,Paulo Sousa
+1602,2009,Colin Holbrook
+1602,2009,Jared Piazza
+1603,2009,Xiaomei Qiao
+1603,2009,Kenneth Forster
+1603,2009,Naoko Witzel
+1604,2009,Bruna Pelucchi
+1604,2009,Jessica F Hay
+1604,2009,Jenny R Saffran
+1605,2009,Mijke Rhemtulla
+1605,2009,D Geoffrey Hall
+1606,2009,Wim De Neys
+1606,2009,Samuel Franssens
+1607,2009,Daniel Schreij
+1607,2009,Christian N L Olivers
+1608,2009,Antonia F de C Hamilton
+1608,2009,Rachel Brindley
+1608,2009,Uta Frith
+1609,2009,Susan Wagner Cook
+1609,2009,Michael K Tanenhaus
+1610,2009,Andrei Cimpian
+1610,2009,Ellen M Markman
+1611,2009,Jiaying Zhao
+1611,2009,Anuj Shah
+1611,2009,Daniel Osherson
+1612,2009,Olivia S Cheung
+1612,2009,William G Hayward
+1612,2009,Isabel Gauthier
+1613,2009,Derek J Koehler
+1613,2009,Greta James
+1614,2009,Katie L H Gray
+1614,2009,Wendy J Adams
+1614,2009,Matthew Garner
+1615,2009,S L Franconeri
+1615,2009,D K Bemis
+1615,2009,G A Alvarez
+1616,2009,Aitao Lu
+1616,2009,Bert Hodges
+1616,2009,Jijia Zhang
+1616,2009,John X Zhang
+1617,2009,Carla Krachun
+1617,2009,Josep Call
+1617,2009,Michael Tomasello
+1618,2009,Debi Roberson
+1618,2009,J Richard Hanley
+1618,2009,Hyensou Pak
+1619,2009,Stephen Stich
+1619,2009,Daniel M T Fessler
+1619,2009,Daniel Kelly
+1620,2009,Susanne Grassmann
+1620,2009,Marén Stracke
+1620,2009,Michael Tomasello
+1621,2009,Matthew Hudson
+1621,2009,Chang Hong Liu
+1621,2009,Tjeerd Jellema
+1622,2009,Ellen Bialystok
+1622,2009,Mythili Viswanathan
+1623,2009,Jeremy R Reynolds
+1623,2009,Randall C O'Reilly
+1624,2009,Stavroula-Thaleia Kousta
+1624,2009,David P Vinson
+1624,2009,Gabriella Vigliocco
+1625,2009,Mark A Sabbagh
+1625,2009,Dana Shafman
+1626,2009,Shogo Makioka
+1627,2009,Thomas T Hills
+1627,2009,Mounir Maouene
+1627,2009,Josita Maouene
+1627,2009,Adam Sheya
+1627,2009,Linda Smith
+1628,2009,Nicolas Vermeulen
+1628,2009,Martial Mermillod
+1628,2009,Jimmy Godefroid
+1628,2009,Olivier Corneille
+1629,2009,Simon M Laham
+1629,2009,Adam L Alter
+1629,2009,Geoffrey P Goodwin
+1630,2009,Tânia Fernandes
+1630,2009,Régine Kolinsky
+1630,2009,Paulo Ventura
+1631,2009,Olivier Mascaro
+1631,2009,Dan Sperber
+1632,2009,Christopher A Kurby
+1632,2009,Joseph P Magliano
+1632,2009,David N Rapp
+1633,2009,Stella F Lourenco
+1633,2009,Matthew R Longo
+1634,2009,Sarah Bernolet
+1634,2009,Robert J Hartsuiker
+1634,2009,Martin J Pickering
+1635,2009,Mark Blair
+1635,2009,Susan C Somerville
+1636,2009,David Buttelmann
+1636,2009,Malinda Carpenter
+1636,2009,Michael Tomasello
+1637,2009,Seyda Ozçalişkan
+1637,2009,Susan Goldin-Meadow
+1637,2009,Dedre Gentner
+1637,2009,Carolyn Mylander
+1638,2009,Jean-François Bonnefon
+1638,2009,Aidan Feeney
+1638,2009,Gaëlle Villejoubert
+1639,2009,Marco Dadda
+1639,2009,Laura Piffer
+1639,2009,Christian Agrillo
+1639,2009,Angelo Bisazza
+1640,2009,Peter DeScioli
+1640,2009,Robert Kurzban
+1641,2009,Marko Nardini
+1641,2009,Rhiannon L Thomas
+1641,2009,Victoria C P Knowland
+1641,2009,Oliver J Braddick
+1641,2009,Janette Atkinson
+1642,2009,Jeffrey M Zacks
+1642,2009,Shawn Kumar
+1642,2009,Richard A Abrams
+1642,2009,Ritesh Mehta
+1643,2009,Mark R Blair
+1643,2009,Marcus R Watson
+1643,2009,Kimberly M Meier
+1644,2009,Victoria I Weisz
+1644,2009,Pablo F Argibay
+1645,2009,Jennie E Pyers
+1645,2009,Tamar H Gollan
+1645,2009,Karen Emmorey
+1646,2009,Laurence Casini
+1646,2009,Boris Burle
+1646,2009,Noël Nguyen
+1647,2009,Lynne C Nygaard
+1647,2009,Allison E Cook
+1647,2009,Laura L Namy
+1648,2009,Edward B Royzman
+1648,2009,Robert F Leeman
+1648,2009,Jonathan Baron
+1649,2009,Fei Xu
+1649,2009,Stephanie Denison
+1650,2009,João Veríssimo
+1650,2009,Harald Clahsen
+1651,2009,Tyler Davis
+1651,2009,Bradley C Love
+1651,2009,W Todd Maddox
+1652,2009,Todd M Gureckis
+1652,2009,Bradley C Love
+1653,2009,Elsi Kaiser
+1653,2009,Jeffrey T Runner
+1653,2009,Rachel S Sussman
+1653,2009,Michael K Tanenhaus
+1654,2009,Rubi Hammer
+1654,2009,Gil Diesendruck
+1654,2009,Daphna Weinshall
+1654,2009,Shaul Hochstein
+1655,2009,Elizabeth B Liddle
+1655,2009,Gaia Scerif
+1655,2009,Christopher P Hollis
+1655,2009,Martin J Batty
+1655,2009,Madeleine J Groom
+1655,2009,Mario Liotti
+1655,2009,Peter F Liddle
+1656,2009,Sharon Goldwater
+1656,2009,Thomas L Griffiths
+1656,2009,Mark Johnson
+1657,2009,Kristin Shutts
+1657,2009,Kirsten F Condry
+1657,2009,Laurie R Santos
+1657,2009,Elizabeth S Spelke
+1658,2009,Régine Kolinsky
+1658,2009,Pascale Lidji
+1658,2009,Isabelle Peretz
+1658,2009,Mireille Besson
+1658,2009,José Morais
+1659,2009,Jill A Warker
+1659,2009,Ye Xu
+1659,2009,Gary S Dell
+1659,2009,Cynthia Fisher
+1660,2009,J Isaiah Harbison
+1660,2009,Michael R Dougherty
+1660,2009,Eddy J Davelaar
+1660,2009,Basma Fayyad
+1661,2009,Jeong-Ah Shin
+1661,2009,Kiel Christianson
+1662,2009,Adam S Cohen
+1662,2009,Tamsin C German
+1663,2009,Joshua D Greene
+1663,2009,Fiery A Cushman
+1663,2009,Lisa E Stewart
+1663,2009,Kelly Lowenberg
+1663,2009,Leigh E Nystrom
+1663,2009,Jonathan D Cohen
+1664,2009,Erin E Hannon
+1665,2009,David Barner
+1665,2009,Shunji Inagaki
+1665,2009,Peggy Li
+1666,2009,Marci S DeCaro
+1666,2009,Krista D Carlson
+1666,2009,Robin D Thomas
+1666,2009,Sian L Beilock
+1667,2009,Angèle Brunellière
+1667,2009,Sophie Dufour
+1667,2009,Noël Nguyen
+1667,2009,Ulrich Hans Frauenfelder
+1668,2009,Tobias Richter
+1668,2009,Rolf A Zwaan
+1669,2009,Colin Dawson
+1669,2009,LouAnn Gerken
+1670,2009,Peter T Richtsmeier
+1670,2009,LouAnn Gerken
+1670,2009,Lisa Goffman
+1670,2009,Tiffany Hogan
+1671,2009,Sophie Forster
+1671,2009,Nilli Lavie
+1672,2009,Florencia Reali
+1672,2009,Thomas L Griffiths
+1673,2009,Christian Gerlach
+1674,2009,Kristy vanMarle
+1674,2009,Karen Wynn
+1677,2009,Mary Hare
+1677,2009,Michael Jones
+1677,2009,Caroline Thomson
+1677,2009,Sarah Kelly
+1677,2009,Ken McRae
+1678,2009,Alexandra Frischen
+1678,2009,Daniel Loach
+1678,2009,Steven P Tipper
+1679,2009,Kate Crookes
+1679,2009,Elinor McKone
+1680,2009,Claudia Bonfiglioli
+1680,2009,Chiara Finocchiaro
+1680,2009,Benno Gesierich
+1680,2009,Francesco Rositani
+1680,2009,Massimo Vescovi
+1681,2009,Quentin J M Huys
+1681,2009,Peter Dayan
+1682,2009,Wim Notebaert
+1682,2009,Femke Houtman
+1682,2009,Filip Van Opstal
+1682,2009,Wim Gevers
+1682,2009,Wim Fias
+1682,2009,Tom Verguts
+1683,2009,Weimin Mou
+1683,2009,Hui Zhang
+1683,2009,Timothy P McNamara
+1684,2009,Laura E Thomas
+1684,2009,Alejandro Lleras
+1685,2009,Christel Devue
+1685,2009,Stefan Van der Stigchel
+1685,2009,Serge Brédart
+1685,2009,Jan Theeuwes
+1686,2009,Qi Wang
+1687,2009,M van Elk
+1687,2009,H T van Schie
+1687,2009,H Bekkering
+1688,2009,Mitsuhiko Ota
+1688,2009,Robert J Hartsuiker
+1688,2009,Sarah L Haywood
+1689,2009,Julien Musolino
+1690,2009,David Anaki
+1690,2009,Shlomo Bentin
+1691,2009,J Allan Cheyne
+1691,2009,Grayden J F Solman
+1691,2009,Jonathan S A Carriere
+1691,2009,Daniel Smilek
+1692,2009,Silvia P Gennari
+1692,2009,Maryellen C Macdonald
+1693,2009,Tessa Warren
+1693,2009,Sarah J White
+1693,2009,Erik D Reichle
+1694,2009,Sarah E Newman-Norlund
+1694,2009,Matthijs L Noordzij
+1694,2009,Roger D Newman-Norlund
+1694,2009,Inge A C Volman
+1694,2009,Jan Peter de Ruiter
+1694,2009,Peter Hagoort
+1694,2009,Ivan Toni
+1695,2009,Deborah Kelemen
+1695,2009,Evelyn Rosset
+1696,2009,Gerry T M Altmann
+1696,2009,Yuki Kamide
+1697,2009,Jeff Loucks
+1697,2009,Dare Baldwin
+1698,2009,Anna C Schapiro
+1698,2009,James L McClelland
+1699,2009,Sonia Kandel
+1699,2009,Lucie Hérault
+1699,2009,Géraldine Grosjacques
+1699,2009,Eric Lambert
+1699,2009,Michel Fayol
+1700,2009,Guy Dove
+1701,2009,Stefan L Frank
+1701,2009,Willem F G Haselager
+1701,2009,Iris van Rooij
+1702,2009,Larissa K Samuelson
+1702,2009,Anne R Schutte
+1702,2009,Jessica S Horst
+1703,2009,Martial Mermillod
+1703,2009,Nicolas Vermeulen
+1703,2009,Daniel Lundqvist
+1703,2009,Paula M Niedenthal
+1705,2009,Suzanne Dikker
+1705,2009,Hugh Rabagliati
+1705,2009,Liina Pylkkänen
+1706,2009,Shai Danziger
+1706,2009,Robert Rafal
+1707,2009,Karin Petrini
+1707,2009,Melanie Russell
+1707,2009,Frank Pollick
+1708,2009,Kai A Krueger
+1708,2009,Peter Dayan
+1709,2008,Valentijn T Visch
+1709,2008,Ed S Tan
+1710,2008,Michael C Frank
+1710,2008,Edward Vul
+1710,2008,Scott P Johnson
+1711,2008,Stephen McCullough
+1711,2008,Karen Emmorey
+1712,2008,Daniel B M Haun
+1712,2008,Josep Call
+1713,2008,Jennifer E Arnold
+1713,2008,Loisa Bennetto
+1713,2008,Joshua J Diehl
+1714,2008,James W Moore
+1714,2008,David Lagnado
+1714,2008,Darvany C Deal
+1714,2008,Patrick Haggard
+1715,2008,Jon Andoni Duñabeitia
+1715,2008,Alberto Avilés
+1715,2008,Olivia Afonso
+1715,2008,Christoph Scheepers
+1715,2008,Manuel Carreiras
+1716,2008,David W Gow
+1716,2008,Jennifer A Segawa
+1717,2008,Kate Nation
+1717,2008,Joanne Cocksey
+1718,2008,Julia Simner
+1718,2008,Sarah L Haywood
+1719,2008,Margaret A Defeyter
+1719,2008,Jill Hearing
+1719,2008,Tamsin C German
+1720,2008,Tania Lombrozo
+1721,2008,Maria-Dolores de Hevia
+1721,2008,Elizabeth S Spelke
+1722,2008,Wenping You
+1722,2008,Baoguo Chen
+1722,2008,Susan Dunlap
+1723,2008,Kim Verhoef
+1723,2008,Ardi Roelofs
+1723,2008,Dorothee J Chwilla
+1724,2008,Michael Siegal
+1724,2008,Laura Iozzi
+1724,2008,Luca Surian
+1725,2008,John E Marsh
+1725,2008,Robert W Hughes
+1725,2008,Dylan M Jones
+1726,2008,Seth D Pollak
+1726,2008,Michael Messner
+1726,2008,Doris J Kistler
+1726,2008,Jeffrey F Cohn
+1727,2008,Jean Vroomen
+1727,2008,Martijn Baart
+1728,2008,Sukhvinder S Obhi
+1728,2008,Peggy J Planetta
+1728,2008,Jordan Scantlebury
+1729,2008,Gil Diesendruck
+1729,2008,Lital Haber
+1730,2008,Barbara Tversky
+1730,2008,Bridgette Martin Hard
+1731,2008,Amanda C Brandone
+1731,2008,Susan A Gelman
+1732,2008,Atsushi Sato
+1733,2008,Adam J L Harris
+1733,2008,Adam Corner
+1733,2008,Ulrike Hahn
+1734,2008,Ian J Tharp
+1734,2008,Alan D Pickering
+1735,2008,Wolfgang Gaissmaier
+1735,2008,Lael J Schooler
+1736,2008,Luca Onnis
+1736,2008,Heidi R Waterfall
+1736,2008,Shimon Edelman
+1737,2008,Manon W Jones
+1737,2008,Mateo Obregón
+1737,2008,M Louise Kelly
+1737,2008,Holly P Branigan
+1738,2008,Arne Ridderikhoff
+1738,2008,C Lieke E Peper
+1738,2008,Peter J Beek
+1739,2008,David Soto
+1739,2008,Glyn W Humphreys
+1740,2008,Thérèse Collins
+1740,2008,Tobias Schicke
+1740,2008,Brigitte Röder
+1741,2008,Heather M Norbury
+1741,2008,Sandra R Waxman
+1741,2008,Hyun-Joo Song
+1742,2008,Amit Dubey
+1742,2008,Frank Keller
+1742,2008,Patrick Sturt
+1743,2008,Fabrice B R Parmentier
+1744,2008,Nicolas Vermeulen
+1744,2008,Olivier Corneille
+1744,2008,Paula M Niedenthal
+1745,2008,Michal Pinhas
+1745,2008,Martin H Fischer
+1746,2008,Hyun-Joo Song
+1746,2008,Kristine H Onishi
+1746,2008,Renée Baillargeon
+1746,2008,Cynthia Fisher
+1747,2008,Hilary C Barth
+1748,2008,Jonathan W Kelly
+1748,2008,Timothy P McNamara
+1748,2008,Bobby Bodenheimer
+1748,2008,Thomas H Carr
+1748,2008,John J Rieser
+1749,2008,Patrick Shafto
+1749,2008,Charles Kemp
+1749,2008,Elizabeth Baraff Bonawitz
+1749,2008,John D Coley
+1749,2008,Joshua B Tenenbaum
+1750,2008,Asifa Majid
+1750,2008,James S Boster
+1750,2008,Melissa Bowerman
+1751,2008,Vera Demberg
+1751,2008,Frank Keller
+1752,2008,Laura E Schulz
+1752,2008,Noah D Goodman
+1752,2008,Joshua B Tenenbaum
+1752,2008,Adrianna C Jenkins
+1753,2008,Matthew M Botvinick
+1753,2008,Yael Niv
+1753,2008,Andrew C Barto
+1754,2008,Emmanuel Dupoux
+1754,2008,Vincent de Gardelle
+1754,2008,Sid Kouider
+1755,2008,Juliane Kaminski
+1755,2008,Josep Call
+1755,2008,Michael Tomasello
+1756,2008,Sarah Brown-Schmidt
+1756,2008,Agnieszka E Konopka
+1757,2008,Haley A Vlach
+1757,2008,Catherine M Sandhofer
+1757,2008,Nate Kornell
+1758,2008,Severine Koch
+1758,2008,Rob W Holland
+1758,2008,Ad van Knippenberg
+1759,2008,Mutsumi Imai
+1759,2008,Sotaro Kita
+1759,2008,Miho Nagumo
+1759,2008,Hiroyuki Okada
+1760,2008,Mary E Stewart
+1760,2008,Mitsuhiko Ota
+1761,2008,Sergio E Chaigneau
+1761,2008,Ramón D Castillo
+1761,2008,Luis Martínez
+1762,2008,Jill P Morford
+1762,2008,Angus B Grieve-Smith
+1762,2008,James MacFarlane
+1762,2008,Joshua Staley
+1762,2008,Gabriel Waters
+1763,2008,Debbie M Kelly
+1763,2008,Walter F Bischof
+1764,2008,Brechtje Post
+1764,2008,William D Marslen-Wilson
+1764,2008,Billi Randall
+1764,2008,Lorraine K Tyler
+1765,2008,Mary Jane Spiller
+1765,2008,Ashok S Jansari
+1766,2008,Holger Mitterer
+1766,2008,Mirjam Ernestus
+1767,2008,Sabine Gillner
+1767,2008,Anja M Weiss
+1767,2008,Hanspeter A Mallot
+1768,2008,Dale J Barr
+1769,2008,Ashleigh M Richard
+1769,2008,Steven J Luck
+1769,2008,Andrew Hollingworth
+1770,2008,C Neil Macrae
+1770,2008,Oonagh K Duffy
+1770,2008,Lynden K Miles
+1770,2008,Julie Lawrence
+1771,2008,Ralph Hertwig
+1771,2008,Björn Benz
+1771,2008,Stefan Krauss
+1772,2008,Nick Chater
+1773,2008,Ulf Liszkowski
+1773,2008,Malinda Carpenter
+1773,2008,Michael Tomasello
+1774,2008,M van 't Wout
+1774,2008,A G Sanfey
+1775,2008,Sabrina Simmons
+1775,2008,Zachary Estes
+1776,2008,Kenny R Coventry
+1776,2008,Berenice Valdés
+1776,2008,Alejandro Castillo
+1776,2008,Pedro Guijarro-Fuentes
+1777,2008,David A Lagnado
+1777,2008,Shelley Channon
+1778,2008,Evelyn Rosset
+1779,2008,Jon Brock
+1779,2008,Courtenay Norbury
+1779,2008,Shiri Einav
+1779,2008,Kate Nation
+1780,2008,Todd R Ferretti
+1780,2008,Murray Singer
+1780,2008,Courtney Patterson
+1783,2008,Jules Davidoff
+1783,2008,Elisabeth Fonteneau
+1783,2008,Joel Fagot
+1784,2008,Cristina Baus
+1784,2008,Eva Gutiérrez-Sigut
+1784,2008,Josep Quer
+1784,2008,Manuel Carreiras
+1785,2008,Delphine Dahan
+1785,2008,Sarah J Drucker
+1785,2008,Rebecca A Scarborough
+1786,2008,Anna Stone
+1787,2008,Jakob Hohwy
+1787,2008,Andreas Roepstorff
+1787,2008,Karl Friston
+1788,2008,Katherine H Canobi
+1788,2008,Narelle E Bethune
+1789,2008,Catherine Chapados
+1789,2008,Daniel J Levitin
+1790,2008,Rachel Pulverman
+1790,2008,Roberta Michnick Golinkoff
+1790,2008,Kathy Hirsh-Pasek
+1790,2008,Jennifer Sootsman Buresh
+1791,2008,Tuomas Teinonen
+1791,2008,Richard N Aslin
+1791,2008,Paavo Alku
+1791,2008,Gergely Csibra
+1792,2008,Mandana Seyfeddinipur
+1792,2008,Sotaro Kita
+1792,2008,Peter Indefrey
+1793,2008,Daphna Heller
+1793,2008,Daniel Grodner
+1793,2008,Michael K Tanenhaus
+1794,2008,Meghan Clayards
+1794,2008,Michael K Tanenhaus
+1794,2008,Richard N Aslin
+1794,2008,Robert A Jacobs
+1795,2008,John E Opfer
+1795,2008,Jeffrey M Devries
+1796,2008,Barbara W Sarnecka
+1796,2008,Susan Carey
+1797,2008,Annette Bolte
+1797,2008,Thomas Goschke
+1798,2008,Kerry E Jordan
+1798,2008,Evan L Maclean
+1798,2008,Elizabeth M Brannon
+1799,2008,Merim Bilalić
+1799,2008,Peter McLeod
+1799,2008,Fernand Gobet
+1800,2008,Ji Y Son
+1800,2008,Linda B Smith
+1800,2008,Robert L Goldstone
+1801,2008,Michael C Frank
+1801,2008,Daniel L Everett
+1801,2008,Evelina Fedorenko
+1801,2008,Edward Gibson
+1802,2008,Robert J Hartsuiker
+1802,2008,Ciara M Catchpole
+1802,2008,Nivja H de Jong
+1802,2008,Martin J Pickering
+1803,2008,Michael D Dodd
+1803,2008,Stefan Van der Stigchel
+1803,2008,M Adil Leghari
+1803,2008,Gery Fung
+1803,2008,Alan Kingstone
+1804,2008,Vladimir M Sloutsky
+1805,2008,Amy S Finn
+1805,2008,Carla L Hudson Kam
+1806,2008,Samuel Shaki
+1806,2008,Martin H Fischer
+1807,2008,Daniel M Bartels
+1808,2008,Justin N Wood
+1809,2008,W Todd Maddox
+1809,2008,Bradley C Love
+1809,2008,Brian D Glass
+1809,2008,J Vincent Filoteo
+1810,2008,Jennifer A Zapf
+1810,2008,Linda B Smith
+1811,2008,Lari Vainio
+1811,2008,Ed Symes
+1811,2008,Rob Ellis
+1811,2008,Mike Tucker
+1811,2008,Giovanni Ottoboni
+1812,2008,Gary Lupyan
+1813,2008,Fiery Cushman
+1814,2008,Marjorie Rhodes
+1814,2008,Daniel Brickman
+1814,2008,Susan A Gelman
+1815,2008,Zachary Estes
+1815,2008,Michelle Verges
+1816,2008,Peter J Hills
+1816,2008,Michael B Lewis
+1816,2008,R C Honey
+1817,2008,Tad T Brunyé
+1817,2008,David N Rapp
+1817,2008,Holly A Taylor
+1818,2008,Merrit A Hoover
+1818,2008,Daniel C Richardson
+1819,2008,Natalie D Snoeren
+1819,2008,Juan Seguí
+1819,2008,Pierre A Hallé
+1820,2008,Anna Papafragou
+1820,2008,Justin Hulbert
+1820,2008,John Trueswell
+1821,2008,Geoffrey P Goodwin
+1821,2008,P N Johnson-Laird
+1822,2008,Fiery Cushman
+1822,2008,Joshua Knobe
+1822,2008,Walter Sinnott-Armstrong
+1823,2008,Joana Acha
+1823,2008,Manuel Perea
+1824,2008,Atsushi Senju
+1824,2008,Gergely Csibra
+1824,2008,Mark H Johnson
+1825,2008,Jennifer E Arnold
+1826,2008,Daniel Mirman
+1826,2008,James S Magnuson
+1826,2008,Katharine Graf Estes
+1826,2008,James A Dixon
+1827,2008,Qi Wang
+1828,2008,Weimin Mou
+1828,2008,Chengli Xiao
+1828,2008,Timothy P McNamara
+1829,2008,Jonathan St B T Evans
+1829,2008,Helen Neilens
+1829,2008,Simon J Handley
+1829,2008,David E Over
+1830,2008,Seppe Santens
+1830,2008,Wim Gevers
+1831,2008,Susan A J Birch
+1831,2008,Sophie A Vauthier
+1831,2008,Paul Bloom
+1832,2008,Jonathan I Flombaum
+1832,2008,Brian J Scholl
+1832,2008,Zenon W Pylyshyn
+1833,2008,Camilla K Gilmore
+1833,2008,Elizabeth S Spelke
+1834,2008,Michael Tombu
+1834,2008,Adriane E Seiffert
+1835,2008,Megha Sundara
+1835,2008,Linda Polka
+1835,2008,Monika Molnar
+1836,2008,Jared M Novick
+1836,2008,Sharon L Thompson-Schill
+1836,2008,John C Trueswell
+1837,2008,Paola Bonifacci
+1837,2008,Margaret J Snowling
+1838,2008,Craig G Chambers
+1838,2008,Valerie San Juan
+1839,2008,Matthew R Longo
+1839,2008,Friederike Schüür
+1839,2008,Marjolein P M Kammers
+1839,2008,Manos Tsakiris
+1839,2008,Patrick Haggard
+1840,2008,Cristina Burani
+1840,2008,Stefania Marcolini
+1840,2008,Maria De Luca
+1840,2008,Pierluigi Zoccolotti
+1841,2008,G M McArthur
+1841,2008,D Ellis
+1841,2008,C M Atkinson
+1841,2008,M Coltheart
+1842,2008,Malathi Thothathiri
+1842,2008,Jesse Snedeker
+1843,2008,Ori Friedman
+1843,2008,Karen R Neary
+1844,2008,Melissa A Redford
+1845,2008,Kristina R Olson
+1845,2008,Elizabeth S Spelke
+1846,2008,Kerry E Jordan
+1846,2008,Sumarga H Suanda
+1846,2008,Elizabeth M Brannon
+1847,2008,Alex O Holcombe
+1847,2008,Patrick Cavanagh
+1848,2008,Sachiko Kinoshita
+1848,2008,Kenneth I Forster
+1848,2008,Michael C Mozer
+1849,2008,Katherine S White
+1849,2008,Sharon Peperkamp
+1849,2008,Cecilia Kirk
+1849,2008,James L Morgan
+1850,2008,Pat Barclay
+1851,2007,Sarah Brown-Schmidt
+1851,2007,Christine Gunlogson
+1851,2007,Michael K Tanenhaus
+1852,2008,David Barner
+1852,2008,Justin Wood
+1852,2008,Marc Hauser
+1852,2008,Susan Carey
+1853,2007,Joshua D Greene
+1853,2007,Sylvia A Morelli
+1853,2007,Kelly Lowenberg
+1853,2007,Leigh E Nystrom
+1853,2007,Jonathan D Cohen
+1854,2007,Matthew Goldrick
+1854,2007,Meredith Larson
+1855,2007,Hilda M Fehd
+1855,2007,Adriane E Seiffert
+1856,2008,Emmanuel M Pothos
+1856,2008,James Close
+1857,2008,Candice M Mills
+1857,2008,Frank C Keil
+1858,2008,Daphne Bavelier
+1858,2008,Elissa L Newport
+1858,2008,Matt Hall
+1858,2008,Ted Supalla
+1858,2008,Mrim Boutla
+1859,2007,Jenny Saffran
+1859,2007,Marc Hauser
+1859,2007,Rebecca Seibel
+1859,2007,Joshua Kapfhamer
+1859,2007,Fritz Tsao
+1859,2007,Fiery Cushman
+1860,2007,Catherine Sophian
+1860,2007,Yun Chu
+1861,2008,Victoria Southgate
+1861,2008,Mark H Johnson
+1861,2008,Gergely Csibra
+1862,2008,N Escoffier
+1862,2008,B Tillmann
+1863,2008,Antonino Vallesi
+1863,2008,Malcolm A Binns
+1863,2008,Tim Shallice
+1864,2007,Elizabeth Wonnacott
+1864,2007,Duane G Watson
+1865,2008,Valérie Camos
+1865,2008,Barbara Tillmann
+1866,2007,George E Newman
+1866,2007,Patricia Herrmann
+1866,2007,Karen Wynn
+1866,2007,Frank C Keil
+1867,2007,Ruth Filik
+1867,2007,Anthony J Sanford
+1868,2007,Alastair D Smith
+1868,2007,Iain D Gilchrist
+1868,2007,Kirsten Cater
+1868,2007,Naimah Ikram
+1868,2007,Kylie Nott
+1868,2007,Bruce M Hood
+1869,2007,Mathieu Le Corre
+1869,2007,Susan Carey
+1870,2007,Tamar Kushnir
+1870,2007,Henry M Wellman
+1870,2007,Susan A Gelman
+1871,2007,Jamie I D Campbell
+1871,2007,Arron W S Metcalfe
+1872,2007,Steve Majerus
+1872,2007,Martine Poncelet
+1872,2007,Martial Van der Linden
+1872,2007,Brendan S Weekes
+1873,2007,Dare Baldwin
+1873,2007,Annika Andersson
+1873,2007,Jenny Saffran
+1873,2007,Meredith Meyer
+1874,2007,Katherine D Kinzler
+1874,2007,Kristin Shutts
+1875,2007,Richard A Abrams
+1875,2007,Christopher C Davoli
+1875,2007,Feng Du
+1875,2007,William H Knapp
+1875,2007,Daniel Paull
+1876,2007,Andrea M Loftus
+1876,2007,Michael E R Nicholls
+1876,2007,Jason B Mattingley
+1876,2007,John L Bradshaw
+1877,2007,Meinou H de Vries
+1877,2007,Padraic Monaghan
+1877,2007,Stefan Knecht
+1877,2007,Pienie Zwitserlood
+1878,2007,Johannes C Ziegler
+1878,2007,Caroline Castel
+1878,2007,Catherine Pech-Georgel
+1878,2007,Florence George
+1878,2007,F-Xavier Alario
+1878,2007,Conrad Perry
+1879,2007,Athena Vouloumanos
+1880,2007,Elisabeth Pacherie
+1881,2007,Wendy J Adams
+1882,2007,Debi Roberson
+1882,2007,Hyensou Pak
+1882,2007,J Richard Hanley
+1883,2007,Joanne L Brebner
+1883,2007,C Neil Macrae
+1884,2007,Douglas H Wedell
+1884,2007,Rodrigo Moro
+1885,2007,Henry Railo
+1885,2007,Mika Koivisto
+1885,2007,Antti Revonsuo
+1885,2007,Minna M Hannula
+1886,2007,Qi Wang
+1887,2007,P E G Bestelmeyer
+1887,2007,B C Jones
+1887,2007,L M Debruine
+1887,2007,A C Little
+1887,2007,D I Perrett
+1887,2007,A Schneider
+1887,2007,L L M Welling
+1887,2007,C A Conway
+1888,2007,Gergely Csibra
+1889,2007,Ian A Apperly
+1890,2007,Mark Yates
+1890,2007,John Friend
+1890,2007,Danielle M Ploetz
+1891,2007,Susan J Hespos
+1891,2007,Renée Baillargeon
+1892,2007,Kai Engbert
+1892,2007,Andreas Wohlschläger
+1892,2007,Patrick Haggard
+1893,2007,David H Rakison
+1893,2007,Jaime Derringer
+1894,2007,Grant Gutheil
+1894,2007,Susan A Gelman
+1894,2007,Eileen Klein
+1894,2007,Katherine Michos
+1894,2007,Kara Kelaita
+1895,2007,Lance J Rips
+1895,2007,Jennifer Asmuth
+1895,2007,Amber Bloomfield
+1896,2007,Tanya Kraljic
+1896,2007,Susan E Brennan
+1896,2007,Arthur G Samuel
+1897,2007,David P McCabe
+1897,2007,Alan D Castel
+1898,2007,Stephen R H Langton
+1898,2007,Anna S Law
+1898,2007,A Mike Burton
+1898,2007,Stefan R Schweinberger
+1899,2007,Chris Davis
+1899,2007,Jeesun Kim
+1899,2007,Kenneth I Forster
+1900,2007,Andrei Cimpian
+1900,2007,Ellen M Markman
+1901,2007,Bhuvana Narasimhan
+1901,2007,Christine Dimroth
+1902,2007,Rebecca Bull
+1902,2007,Louise H Phillips
+1902,2007,Claire A Conway
+1903,2007,Hartmut Blank
+1903,2007,Steffen Nestler
+1903,2007,Gernot von Collani
+1903,2007,Volkhard Fischer
+1904,2007,Lisa Feigenson
+1905,2007,Maha Adamo
+1905,2007,Carson Pun
+1905,2007,Jay Pratt
+1905,2007,Susanne Ferber
+1906,2007,Karen Mattock
+1906,2007,Monika Molnar
+1906,2007,Linda Polka
+1906,2007,Denis Burnham
+1907,2007,Xinlin Zhou
+1907,2007,Chuansheng Chen
+1907,2007,Lan Chen
+1907,2007,Qi Dong
+1908,2007,Anthony C Little
+1908,2007,Lisa M DeBruine
+1908,2007,Benedict C Jones
+1908,2007,Corri Waitt
+1909,2007,Marci S Decaro
+1909,2007,Robin D Thomas
+1909,2007,Sian L Beilock
+1910,2007,Duane G Watson
+1910,2007,Jennifer E Arnold
+1910,2007,Michael K Tanenhaus
+1911,2007,Geoffrey P Goodwin
+1911,2007,John M Darley
+1912,2007,Linda Smith
+1912,2007,Chen Yu
+1913,2007,Rebecca Treiman
+1913,2007,Bruce F Pennington
+1913,2007,Lawrence D Shriberg
+1913,2007,Richard Boada
+1914,2007,Véronique Izard
+1914,2007,Stanislas Dehaene
+1915,2007,Chiara Turati
+1915,2007,Hermann Bulf
+1915,2007,Francesca Simion
+1916,2006,Derek G Moore
+1916,2006,Julia E Goodwin
+1916,2006,Rachel George
+1916,2006,Emma L Axelsson
+1916,2006,Fleur M B Braddick
+1917,2007,Roger Levy
+1918,2007,Ian A Apperly
+1918,2007,Elisa Back
+1918,2007,Dana Samson
+1918,2007,Lisa France
+1919,2007,Sandra C Lozano
+1919,2007,Bridgette Martin Hard
+1919,2007,Barbara Tversky
+1920,2007,Wim De Neys
+1920,2007,Tamara Glumicic
+1921,2007,Samuel B Day
+1921,2007,Daniel M Bartels
+1922,2007,Daniel M Oppenheimer
+1922,2007,Michael C Frank
+1923,2007,Tobias Brosch
+1923,2007,Didier Grandjean
+1923,2007,David Sander
+1923,2007,Klaus R Scherer
+1924,2007,Susan E Brennan
+1924,2007,Xin Chen
+1924,2007,Christopher A Dickinson
+1924,2007,Mark B Neider
+1924,2007,Gregory J Zelinsky
+1925,2007,Katsumi Watanabe
+1926,2007,Catherine Wilburn
+1926,2007,Aidan Feeney
+1927,2007,Madelijn Strick
+1927,2007,Rob W Holland
+1927,2007,Ad van Knippenberg
+1928,2007,Anton J M Dijker
+1929,2007,Emmanuel Dupoux
+1929,2007,Núria Sebastián-Gallés
+1929,2007,Eduardo Navarrete
+1929,2007,Sharon Peperkamp
+1930,2007,Kylie J Barnett
+1930,2007,Ciara Finucane
+1930,2007,Julian E Asher
+1930,2007,Gary Bargary
+1930,2007,Aiden P Corvin
+1930,2007,Fiona N Newell
+1930,2007,Kevin J Mitchell
+1931,2007,Shai Gabay
+1931,2007,Avishai Henik
+1932,2007,Leher Singh
+1933,2007,Cristina Becchio
+1933,2007,Luisa Sartori
+1933,2007,Maria Bulgheroni
+1933,2007,Umberto Castiello
+1934,2007,David Barner
+1934,2007,Laura Wagner
+1934,2007,Jesse Snedeker
+1935,2007,Yi-hui Hung
+1935,2007,Daisy L Hung
+1935,2007,Ovid J-L Tzeng
+1935,2007,Denise H Wu
+1936,2007,Susan Wagner Cook
+1936,2007,Zachary Mitchell
+1936,2007,Susan Goldin-Meadow
+1937,2007,Ivilin Stoianov
+1937,2007,Peter Kramer
+1937,2007,Carlo Umiltà
+1937,2007,Marco Zorzi
+1938,2007,Lisa K Fazio
+1938,2007,Elizabeth J Marsh
+1939,2007,Weimin Mou
+1939,2007,Yanli Fan
+1939,2007,Timothy P McNamara
+1939,2007,Charles B Owen
+1940,2007,Joanne N Lee
+1940,2007,Letitia R Naigles
+1941,2007,Verónica C Ramenzoni
+1941,2007,Michael A Riley
+1941,2007,Kevin Shockley
+1941,2007,Tehran Davis
+1942,2007,Wim Notebaert
+1942,2007,Tom Verguts
+1943,2007,Natacha Mendes
+1943,2007,Hannes Rakoczy
+1943,2007,Josep Call
+1944,2007,Carlo Geraci
+1944,2007,Marta Gozzi
+1944,2007,Costanza Papagno
+1944,2007,Carlo Cecchetto
+1945,2007,Ann R Bradlow
+1945,2007,Tessa Bent
+1946,2007,William G Hayward
+1946,2007,Gillian Rhodes
+1946,2007,Adrian Schwaninger
+1947,2007,Ruth Filik
+1948,2007,Joo-Hyun Song
+1948,2007,Ken Nakayama
+1949,2007,Kim Plunkett
+1949,2007,Jon-Fan Hu
+1949,2007,Leslie B Cohen
+1950,2007,Adam E Green
+1950,2007,Jonathan A Fugelsang
+1950,2007,David J M Kraemer
+1950,2007,Kevin N Dunbar
+1951,2007,Daniel Casasanto
+1951,2007,Lera Boroditsky
+1952,2007,Sarah C Creel
+1952,2007,Richard N Aslin
+1952,2007,Michael K Tanenhaus
+1953,2007,Eric Margolis
+1953,2007,Stephen Laurence
+1954,2007,Joseph P Magliano
+1954,2007,John J Skowronski
+1954,2007,M Anne Britt
+1954,2007,C Dominik Güss
+1954,2007,Chris Forsythe
+1955,2007,Daniele Schön
+1955,2007,Maud Boyer
+1955,2007,Sylvain Moreno
+1955,2007,Mireille Besson
+1955,2007,Isabelle Peretz
+1955,2007,Régine Kolinsky
+1956,2007,Tom Verguts
+1956,2007,Filip Van Opstal
+1957,2007,Amy E Booth
+1958,2007,Tali Sharot
+1958,2007,Andrew P Yonelinas
+1959,2007,Laura A Carlson
+1959,2007,Shannon R Van Deman
+1960,2007,Fabrice B R Parmentier
+1960,2007,Gregory Elford
+1960,2007,Carles Escera
+1960,2007,Pilar Andrés
+1960,2007,Iria San Miguel
+1961,2007,Nicola Molinaro
+1961,2007,Albert Kim
+1961,2007,Francesco Vespignani
+1961,2007,Remo Job
+1962,2007,Niels O Schiller
+1963,2007,Paola Bressan
+1963,2007,Silvia Pizzighello
+1964,2007,Martin L Jönsson
+1964,2007,James A Hampton
+1965,2007,Raymond W Gibbs
+1965,2007,Gregory A Bryant
+1966,2007,Gary M Oppenheim
+1966,2007,Gary S Dell
+1967,2007,Vittorio Girotto
+1967,2007,Michel Gonzalez
+1968,2007,Melissa Allen Preissler
+1968,2007,Paul Bloom
+1969,2007,Marko Nardini
+1969,2007,Janette Atkinson
+1969,2007,Neil Burgess
+1970,2007,Megha Sundara
+1970,2007,Linda Polka
+1971,2007,Justin N Wood
+1971,2007,Marc D Hauser
+1971,2007,David D Glynn
+1971,2007,David Barner
+1972,2007,Peter Juslin
+1972,2007,Linnea Karlsson
+1972,2007,Henrik Olsson
+1973,2007,Lyn Frazier
+1973,2007,Charles Clifton
+1973,2007,Britta Stolterfoht
+1974,2007,Noriko Hoshino
+1974,2007,Judith F Kroll
+1975,2007,Jennifer A K Green
+1975,2007,Usha Goswami
+1976,2007,Brendan S Weekes
+1976,2007,Stephen Hamilton
+1976,2007,Jane V Oakhill
+1976,2007,Robyn E Holliday
+1977,2007,Gustav Kuhn
+1977,2007,Zoltán Dienes
+1978,2007,Sükrü Bariş Demiral
+1978,2007,Matthias Schlesewsky
+1978,2007,Ina Bornkessel-Schlesewsky
+1979,2007,Bruce M Hood
+1979,2007,Paul Bloom
+1980,2007,Yvonne M Asher
+1980,2007,Deborah G Kemler Nelson
+1981,2007,Han L J van der Maas
+1981,2007,Philip T Quinlan
+1981,2007,Brenda R J Jansen
+1982,2007,Ben Ambridge
+1982,2007,Julian M Pine
+1982,2007,Caroline F Rowland
+1982,2007,Chris R Young
+1983,2007,David Waller
+1983,2007,Yvonne Lippa
+1983,2007,Adam Richardson
+1984,2007,David R Mandel
+1985,2007,Daniel M Oppenheimer
+1985,2007,Robyn A LeBoeuf
+1985,2007,Noel T Brewer
+1986,2007,Janellen Huttenlocher
+1986,2007,Marina Vasilyeva
+1986,2007,Nora Newcombe
+1986,2007,Sean Duffy
+1987,2007,Ansgar D Endress
+1987,2007,Ghislaine Dehaene-Lambertz
+1987,2007,Jacques Mehler
+1988,2007,Roi Cohen Kadosh
+1988,2007,Joseph Tzelgov
+1988,2007,Avishai Henik
+1989,2007,Albert Costa
+1989,2007,Mireia Hernández
+1989,2007,Núria Sebastián-Gallés
+1990,2007,Sharon Peperkamp
+1991,2007,Paul D Siakaluk
+1991,2007,Penny M Pexman
+1991,2007,Laura Aguilera
+1991,2007,William J Owen
+1991,2007,Christopher R Sears
+1992,2007,Paulo Ventura
+1992,2007,José Morais
+1992,2007,Régine Kolinsky
+1993,2007,Daniel N Bub
+1993,2007,Michael E J Masson
+1993,2007,George S Cree
+1994,2007,Adélaïde de Heering
+1994,2007,Chiara Turati
+1994,2007,Bruno Rossion
+1994,2007,Hermann Bulf
+1994,2007,Valérie Goffaux
+1994,2007,Francesca Simion
+1995,2007,José C Perales
+1995,2007,Andrés Catena
+1995,2007,Antonio Maldonado
+1995,2007,Antonio Cándido
+1996,2007,Elizabeth A Maylor
+1996,2007,Matthew A J Roberts
+1997,2007,Thomas R Shultz
+1997,2007,Yoshio Takane
+1998,2007,Jon Andoni Duñabeitia
+1998,2007,Manuel Perea
+1998,2007,Manuel Carreiras
+1999,2007,Mathieu Le Corre
+1999,2007,Susan Carey
+2000,2006,Jessica Phillips-Silver
+2000,2006,Laurel J Trainor
+2001,2006,Hadas Shintel
+2001,2006,Howard C Nusbaum
+2002,2006,Jenny R Saffran
+2002,2006,Seth D Pollak
+2002,2006,Rebecca L Seibel
+2002,2006,Anna Shkolnik
+2003,2006,Barbara C Malt
+2003,2006,Steven A Sloman
+2004,2006,Yuyan Luo
+2004,2006,Renée Baillargeon
+2005,2006,Patrick Sturt
+2006,2006,Ludovic Fabre
+2006,2006,Patrick Lemaire
+2006,2006,Jonathan Grainger
+2007,2006,Martin Corley
+2007,2006,Lucy J MacGregor
+2007,2006,David I Donaldson
+2010,2006,Rebecca Ozdemir
+2010,2006,Ardi Roelofs
+2010,2006,Willem J M Levelt
+2016,2006,Susan A Gelman
+2016,2006,Paul Bloom
+2017,2006,Anna Papafragou
+2017,2006,Kimberly Cassidy
+2017,2006,Lila Gleitman
+2018,2006,Ori Friedman
+2018,2006,Alan M Leslie
+2019,2006,Nina Kazanina
+2019,2006,Colin Phillips
+2021,2006,Lera Boroditsky
+2023,2006,Jenn-Yeu Chen
+2024,2006,Richard H Yaxley
+2024,2006,Rolf A Zwaan
+2025,2006,Simon K Rushton
+2025,2006,Mark F Bradshaw
+2025,2006,Paul A Warren
+2026,2006,Anne L Fulkerson
+2026,2006,Sandra R Waxman
+2027,2006,Sorel Cahan
+2027,2006,Yaniv Mor
+2028,2006,Marco Casarotti
+2028,2006,Marika Michielin
+2028,2006,Marco Zorzi
+2028,2006,Carlo Umiltà
+2029,2006,John E Opfer
+2029,2006,Megan J Bulloch
+2030,2006,Annie E Wertz
+2030,2006,Timsin C German
+2031,2006,Josep Call
+2032,2006,Olga Kochukhova
+2032,2006,Gustaf Gredebäck
+2033,2006,Joseph Glicksohn
+2033,2006,Revital Naor-Ziv
+2033,2006,Rotem Leshem
+2034,2006,Katrin Linser
+2034,2006,Thomas Goschke
+2035,2006,Britta Stolterfoht
+2035,2006,Angela D Friederici
+2035,2006,Kai Alter
+2035,2006,Anita Steube
+2036,2006,Anna Stone
+2036,2006,Tim Valentine
+2037,2006,Kathryn Bock
+2037,2006,Gary S Dell
+2037,2006,Franklin Chang
+2037,2006,Kristine H Onishi
+2038,2006,Yoonhyoung Lee
+2038,2006,Hanjung Lee
+2038,2006,Peter C Gordon
+2039,2006,Elsa Spinelli
+2039,2006,Florent Gros-Balthazard
+2040,2006,Andrew P Bayliss
+2040,2006,Alexandra Frischen
+2040,2006,Mark J Fenske
+2040,2006,Steven P Tipper
+2041,2006,Josh McDermott
+2041,2006,Marc D Hauser
+2042,2006,Ian Cunnings
+2042,2006,Harald Clahsen
+2043,2006,Iris Berent
+2043,2006,Donca Steriade
+2043,2006,Tracy Lennertz
+2043,2006,Vered Vaknin
+2044,2006,Derek G Moore
+2044,2006,Julia E Goodwin
+2044,2006,Rachel George
+2044,2006,Emma L Axelsson
+2044,2006,Fleur M B Braddick
+2045,2006,Jennifer Sootsman Buresh
+2045,2006,Amanda L Woodward
+2046,2006,India Morrison
+2046,2006,Ellen Poliakoff
+2046,2006,Lucy Gordon
+2046,2006,Paul Downing
+2047,2006,David January
+2047,2006,Edward Kako
+2048,2006,Y Yamazaki
+2048,2006,U Aust
+2048,2006,L Huber
+2048,2006,M Hausmann
+2048,2006,O Güntürkün
+2049,2006,Doris Eckstein
+2049,2006,Walter J Perrig
+2050,2006,R J R Blair
+2051,2006,Iris Berent
+2051,2006,Vered Vaknin
+2051,2006,Gary F Marcus
+2052,2006,Ehren L Newman
+2052,2006,Jeremy B Caplan
+2052,2006,Matthew P Kirschen
+2052,2006,Igor O Korolev
+2052,2006,Robert Sekuler
+2052,2006,Michael J Kahana
+2053,2006,Holly P Branigan
+2053,2006,Martin J Pickering
+2053,2006,Janet F McLean
+2053,2006,Alexandra A Cleland
+2054,2006,Marie-Line Bosse
+2054,2006,Marie Josèphe Tainturier
+2054,2006,Sylviane Valdois
+2055,2006,Jennifer Boyer
+2055,2006,Tony Ro
+2056,2006,Bruce F Pennington
+2057,2006,Elinor McKone
+2057,2006,Rachel Robbins
+2058,2006,Shoba Bandi-Rao
+2058,2006,Gregory L Murphy
+2059,2006,Francesco Pavani
+2059,2006,Giovanni Galfano
+2060,2006,Caroline F Rowland
+2061,2006,Anthony P Atkinson
+2061,2006,Mary L Tunstall
+2061,2006,Winand H Dittrich
+2062,2006,Louis Goldstein
+2062,2006,Marianne Pouplier
+2062,2006,Larissa Chen
+2062,2006,Elliot Saltzman
+2062,2006,Dani Byrd
+2063,2006,Andrea Kiesel
+2063,2006,Wilfried Kunde
+2063,2006,Joachim Hoffmann
+2064,2006,Edouard Machery
+2065,2006,Karin Stromswold
+2066,2006,Paul E Dux
+2066,2006,Irina M Harris
+2067,2006,Ian A Apperly
+2067,2006,Dana Samson
+2067,2006,Claudia Chiavarino
+2067,2006,Wai-Ling Bickerton
+2067,2006,Glyn W Humphreys
+2068,2006,Isabel Gauthier
+2068,2006,Cindy Bukach
+2069,2006,Wataru Sato
+2069,2006,Sakiko Yoshikawa
+2070,2006,Sandra C Lozano
+2070,2006,Bridgette Martin Hard
+2070,2006,Barbara Tversky
+2071,2006,Ceri T Trevethan
+2071,2006,Arash Sahraie
+2071,2006,Larry Weiskrantz
+2072,2006,Simon E Fisher
+2073,2006,Evan Balaban
+2074,2006,Gary F Marcus
+2075,2006,Franck Ramus
+2076,2006,Karl Halvor Teigen
+2076,2006,Gideon Keren
+2077,2006,Daniele Amati
+2077,2006,Tim Shallice
+2078,2006,Anna Papafragou
+2078,2006,Peggy Li
+2078,2006,Youngon Choi
+2078,2006,Chung-Hye Han
+2079,2006,Janet F Werker
+2079,2006,Ferran Pons
+2079,2006,Christiane Dietrich
+2079,2006,Sachiyo Kajikawa
+2079,2006,Laurel Fais
+2079,2006,Shigeaki Amano
+2080,2006,Katya Tentori
+2080,2006,Vincenzo Crupi
+2080,2006,Nicolao Bonini
+2080,2006,Daniel Osherson
+2081,2006,Thomas L Griffiths
+2081,2006,Joshua B Tenenbaum
+2082,2006,Heidi Kloos
+2083,2006,Erin Conwell
+2083,2006,Katherine Demuth
+2084,2006,Bruno Gauthier
+2084,2006,Rushen Shi
+2084,2006,Yi Xu
+2085,2006,Rachel Robbins
+2085,2006,Elinor McKone
+2086,2006,Andrew C Connolly
+2086,2006,Jerry A Fodor
+2086,2006,Lila R Gleitman
+2086,2006,Henry Gleitman
+2087,2006,Louise Connell
+2088,2006,Véronique Boulenger
+2088,2006,Nathalie Décoppet
+2088,2006,Alice C Roy
+2088,2006,Yves Paulignan
+2088,2006,Tatjana A Nazir
+2089,2006,Krista Casler
+2089,2006,Deborah Kelemen
+2090,2006,Chris Donlan
+2090,2006,Richard Cowan
+2090,2006,Elizabeth J Newton
+2090,2006,Delyth Lloyd
+2091,2006,Philip T Quinlan
+2091,2006,Han L J van der Maas
+2091,2006,Brenda R J Jansen
+2091,2006,Olaf Booij
+2091,2006,Mark Rendell
+2092,2006,Maryanne Martin
+2092,2006,Gregory V Jones
+2093,2006,F-X Alario
+2093,2006,Laetitia Perre
+2093,2006,Caroline Castel
+2093,2006,Johannes C Ziegler
+2094,2006,Bruno H Repp
+2095,2005,Jacob Feldman
+2095,2005,Patrice D Tremoulet
+2096,2006,Teresa Farroni
+2096,2006,Stefano Massaccesi
+2096,2006,Enrica Menon
+2096,2006,Mark H Johnson
+2097,2006,Ioanna Georgiou
+2097,2006,Cristina Becchio
+2097,2006,Scott Glover
+2097,2006,Umberto Castiello
+2098,2006,Webb Phillips
+2098,2006,Laurie R Santos
+2099,2006,Ellen Poliakoff
+2099,2006,Eleanor Miles
+2099,2006,Xinying Li
+2099,2006,Isabelle Blanchette
+2100,2006,Teodora Gliga
+2100,2006,Ghislaine Dehaene-Lambertz
+2101,2006,Laurence Rousselle
+2101,2006,Marie-Pascale Noël
+2102,2006,Isabelle Peretz
+2103,2006,Matthew Goldrick
+2103,2006,Brenda Rapp
+2104,2006,Margaret C McKinnon
+2104,2006,Morris Moscovitch
+2105,2006,Ula Cartwright-Finch
+2105,2006,Nilli Lavie
+2106,2006,Daniel Sanabria
+2106,2006,Charles Spence
+2106,2006,Salvador Soto-Faraco
+2107,2006,Céline Chéreau
+2107,2006,M Gareth Gaskell
+2107,2006,Nicolas Dumay
+2108,2006,Katinka Dijkstra
+2108,2006,Michael P Kaschak
+2108,2006,Rolf A Zwaan
+2109,2006,Paul Kay
+2109,2006,Terry Regier
+2110,2006,Patric Bach
+2110,2006,Steven P Tipper
+2111,2006,Asif A Ghazanfar
+2111,2006,Kristina Nielsen
+2111,2006,Nikos K Logothetis
+2112,2006,Elan Barenholtz
+2112,2006,Jacob Feldman
+2113,2005,Sandeep Prasada
+2113,2005,Elaine M Dillingham
+2114,2005,Asifa Majid
+2114,2005,Anthony J Sanford
+2114,2005,Martin J Pickering
+2116,2006,Shanley Allen
+2116,2006,Asli Ozyürek
+2116,2006,Sotaro Kita
+2116,2006,Amanda Brown
+2116,2006,Reyhan Furman
+2116,2006,Tomoko Ishizuka
+2116,2006,Mihoko Fujii
+2117,2006,Jun Saiki
+2117,2006,Hirofumi Miyatsuji
+2118,2006,Daniel Richardson
+2118,2006,Teenie Matlock
+2119,2006,David Howard
+2119,2006,Lyndsey Nickels
+2119,2006,Max Coltheart
+2119,2006,Jennifer Cole-Virtue
+2120,2006,Lance J Rips
+2120,2006,Jennifer Asmuth
+2120,2006,Amber Bloomfield
+2121,2006,Brian Hare
+2121,2006,Josep Call
+2121,2006,Michael Tomasello
+2122,2006,E Bigand
+2122,2006,B Poulin-Charronnat
+2123,2006,W Tecumseh Fitch
+2124,2006,Jamshed J Bharucha
+2124,2006,Meagan Curtis
+2124,2006,Kaivon Paroo
+2125,2006,K Lawrence
+2125,2006,A Jones
+2125,2006,L Oreland
+2125,2006,D Spektor
+2125,2006,W Mandy
+2125,2006,R Campbell
+2125,2006,D Skuse
+2126,2005,Liqi Zhu
+2126,2005,Gerd Gigerenzer
+2130,2005,Ray Jackendoff
+2130,2005,Fred Lerdahl
+2131,2005,Sanae Okamoto-Barth
+2131,2005,Nobuyuki Kawai
+2132,2005,Sandra E Trehub
+2132,2005,Erin E Hannon
+2133,2005,Cynthia Fisher
+2133,2005,Stacy L Klingler
+2133,2005,Hyun-Joo Song
+2134,2005,Sharon Peperkamp
+2134,2005,Rozenn Le Calvez
+2134,2005,Jean-Pierre Nadal
+2134,2005,Emmanuel Dupoux
+2135,2005,Shlomi Sher
+2135,2005,Craig R M McKenzie
+2136,2005,Julie Franck
+2136,2005,Glenda Lassi
+2136,2005,Ulrich H Frauenfelder
+2136,2005,Luigi Rizzi
+2137,2005,Rebecca Saxe
+2137,2005,Tania Tzelnic
+2137,2005,Susan Carey
+2138,2005,Marko Nardini
+2138,2005,Neil Burgess
+2138,2005,Kate Breckenridge
+2138,2005,Janette Atkinson
+2139,2005,C S Green
+2139,2005,D Bavelier
+2140,2005,Moises Betancort
+2140,2005,Manuel Carreiras
+2140,2005,Carlos Acuña-Fariña
+2141,2005,Markus Bindemann
+2141,2005,A Mike Burton
+2141,2005,Rob Jenkins
+2145,2005,Deena Skolnick
+2145,2005,Paul Bloom
+2146,2005,Marco Bertamini
+2146,2005,Theodore E Parks
+2147,2005,A N Rich
+2147,2005,J L Bradshaw
+2147,2005,J B Mattingley
+2148,2005,Timothy Justus
+2148,2005,Alexandra List
+2149,2005,Thierry Nazzi
+2150,2004,Judy Plantinga
+2150,2004,Laurel J Trainor
+2151,2005,Chris Davis
+2151,2005,Jeesun Kim
+2152,2005,Edward Kako
+2153,2005,Michael Snodgrass
+2153,2005,Howard Shevrin
+2154,2005,Bradley W Vines
+2154,2005,Carol L Krumhansl
+2154,2005,Marcelo M Wanderley
+2154,2005,Daniel J Levitin
+2155,2005,Keith J Fernandes
+2155,2005,Gary F Marcus
+2155,2005,Jennifer A Di Nubila
+2155,2005,Athena Vouloumanos
+2156,2005,Tim P German
+2156,2005,Jessica A Hehman
+2157,2005,Noam Sagiv
+2157,2005,Julia Simner
+2157,2005,James Collins
+2157,2005,Brian Butterworth
+2157,2005,Jamie Ward
+2158,2005,Amy S Desroches
+2158,2005,Marc F Joanisse
+2158,2005,Erin K Robertson
+2159,2005,Cara DiYanni
+2159,2005,Deborah Kelemen
+2160,2005,Jonathan I Flombaum
+2160,2005,Justin A Junge
+2160,2005,Marc D Hauser
+2161,2004,Lisa Feigenson
+2161,2004,Susan Carey
+2162,2004,Shelia M Kennison
+2163,2005,Ulrike Hahn
+2163,2005,Todd M Bailey
+2164,2005,Zsuzsa Káldy
+2164,2005,Alan M Leslie
+2165,2004,Matthew M Botvinick
+2166,2004,Valeria Anna Sovrano
+2166,2004,Angelo Bisazza
+2166,2004,Giorgio Vallortigara
+2168,2005,Juan M Toro
+2168,2005,Scott Sinnett
+2168,2005,Salvador Soto-Faraco
+2169,2005,Stella F Lourenco
+2169,2005,Janellen Huttenlocher
+2170,2005,Vikram K Jaswal
+2171,2005,Barbara Landau
+2171,2005,James E Hoffman
+2171,2005,Nicole Kurz
+2172,2005,Andrea Weber
+2172,2005,Martine Grice
+2172,2005,Matthew W Crocker
+2173,2005,Richard Cowan
+2173,2005,Daniel P J Carney
+2174,2005,Shaun Nichols
+2174,2005,Ron Mallon
+2175,2004,Min Wang
+2175,2004,Charles A Perfetti
+2175,2004,Ying Liu
+2176,2004,David Barner
+2176,2004,Jesse Snedeker
+2177,2005,Justin N Wood
+2177,2005,Elizabeth S Spelke
+2178,2005,Jean-Baptiste Van der Henst
+2178,2005,Walter Schaeken
+2179,2005,Charles Hulme
+2179,2005,Markéta Caravolas
+2179,2005,Gabriela Málková
+2179,2005,Sophie Brigstocke
+2180,2005,Kirsten Thorpe
+2180,2005,Anne Fernald
+2181,2005,Rebecca J Woods
+2181,2005,Teresa Wilcox
+2182,2005,Michael P Kaschak
+2182,2005,Renrick A Loney
+2182,2005,Kristin L Borreggine
+2183,2005,Richard Breheny
+2183,2005,Napoleon Katsos
+2183,2005,John Williams
+2184,2005,Jennifer S Lipton
+2184,2005,Elizabeth S Spelke
+2185,2005,Lyn Frazier
+2185,2005,Maria Nella Carminati
+2185,2005,Anne E Cook
+2185,2005,Helen Majewski
+2185,2005,Keith Rayner
+2186,2005,Megha Sundara
+2186,2005,Linda Polka
+2186,2005,Fred Genesee
+2187,2005,W Tecumseh Fitch
+2187,2005,Marc D Hauser
+2187,2005,Noam Chomsky
+2188,2005,Robert L Woolfolk
+2188,2005,John M Doris
+2188,2005,John M Darley
+2189,2005,Amir Amin Yazdi
+2189,2005,Tim P German
+2189,2005,Margaret Anne Defeyter
+2189,2005,Michael Siegal
+2190,2005,Chloe R Marshall
+2190,2005,Heather K J van der Lely
+2191,2005,Douglas L Medin
+2191,2005,Norbert O Ross
+2191,2005,Scott Atran
+2191,2005,Douglas Cox
+2191,2005,John Coley
+2191,2005,Julia B Proffitt
+2191,2005,Sergey Blok
+2192,2005,Masahiro Hirai
+2192,2005,Kazuo Hiraki
+2193,2005,Matthijs L Noordzij
+2193,2005,Sander Zuidhoek
+2193,2005,Albert Postma
+2194,2005,Camillo Padoa-Schioppa
+2194,2005,Lucia Jandolo
+2194,2005,Elisabetta Visalberghi
+2195,2005,Anna Papafragou
+2195,2005,Christine Massey
+2195,2005,Lila Gleitman
+2196,2005,Joeri De Winter
+2196,2005,Johan Wagemans
+2197,2004,Victor S Ferreira
+2197,2004,L Robert Slevc
+2197,2004,Erin S Rogers
+2198,2005,Suzanne Curtin
+2198,2005,Toben H Mintz
+2198,2005,Morten H Christiansen
+2199,2004,Manos Tsakiris
+2199,2004,Patrick Haggard
+2199,2004,Nicolas Franck
+2199,2004,Nelly Mainy
+2199,2004,Angela Sirigu
+2200,2004,David H Rakison
+2201,2005,Jean-François Delvenne
+2202,2005,Seyda Ozçalişkan
+2202,2005,Susan Goldin-Meadow
+2203,2005,Willy Serniclaes
+2203,2005,Paulo Ventura
+2203,2005,José Morais
+2203,2005,Régine Kolinsky
+2204,2005,Atsunobu Suzuki
+2204,2005,Takahiro Hoshino
+2204,2005,Kazuo Shigemasu
+2205,2005,Paul E Dux
+2205,2005,Veronika Coltheart
+2205,2005,Irina M Harris
+2207,2005,Hyun-joo Song
+2207,2005,Renée Baillargeon
+2207,2005,Cynthia Fisher
+2208,2005,Taomei Guo
+2208,2005,Danling Peng
+2208,2005,Ying Liu
+2209,2005,Orlando Espino
+2209,2005,Carlos Santamaría
+2209,2005,Enrique Meseguer
+2209,2005,Manuel Carreiras
+2210,2005,LouAnn Gerken
+2211,2005,Tania Lombrozo
+2211,2005,Susan Carey
+2212,2005,Joana Cholin
+2212,2005,Willem J M Levelt
+2212,2005,Niels O Schiller
+2213,2005,Susan J Hespos
+2213,2005,Renée Baillargeon
+2214,2004,Padraic Monaghan
+2214,2004,Nick Chater
+2214,2004,Morten H Christiansen
+2215,2004,William S Horton
+2215,2004,Richard J Gerrig
+2216,2004,Susan Goldin-Meadow
+2216,2004,Susan A Gelman
+2216,2004,Carolyn Mylander
+2217,2004,H Clark Barrett
+2217,2004,Tanya Behne
+2218,2005,Simone Dalla Bella
+2218,2005,Isabelle Peretz
+2220,2005,Eva Belke
+2220,2005,Marc Brysbaert
+2220,2005,Antje S Meyer
+2220,2005,Mandy Ghyselinck
+2221,2005,Jeffrey S Bowers
+2221,2005,Colin J Davis
+2221,2005,Derek A Hanley
+2222,2005,Alissa Melinger
+2222,2005,Christian Dobel
+2224,2005,Elena Rusconi
+2224,2005,Bonnie Kwan
+2224,2005,Bruno L Giordano
+2224,2005,Carlo Umiltà
+2224,2005,Brian Butterworth
+2225,2005,Christine Tipper
+2225,2005,Alan Kingstone
+2226,2005,Jane Ashby
+2226,2005,Charles Clifton
+2227,2005,Chikako Suda
+2227,2005,Josep Call
+2228,2005,Hilary Barth
+2228,2005,Kristen La Mont
+2228,2005,Jennifer Lipton
+2228,2005,Stanislas Dehaene
+2228,2005,Nancy Kanwisher
+2228,2005,Elizabeth Spelke
+2229,2005,Stephen R Mitroff
+2229,2005,Brian J Scholl
+2229,2005,Karen Wynn
+2230,2004,Stephen Darling
+2230,2004,Tim Valentine
+2231,2004,Laura Lakusta
+2231,2004,Barbara Landau
+2233,2004,Falk Huettig
+2233,2004,Gerry T M Altmann
+2234,2004,Jyrki Tuomainen
+2234,2004,Tobias S Andersen
+2234,2004,Kaisa Tiippana
+2234,2004,Mikko Sams
+2236,2005,J A Stevens
+2237,2005,Yuyan Luo
+2237,2005,Renée Baillargeon
+2238,2005,Daniel Grodner
+2238,2005,Edward Gibson
+2238,2005,Duane Watson
+2239,2004,Julie E Boland
+2240,2004,Sandra R Waxman
+2240,2004,Irena Braun
+2241,2005,Akiko Arita
+2241,2005,Kazuo Hiraki
+2241,2005,Takayuki Kanda
+2241,2005,Hiroshi Ishiguro
+2242,2005,Lisa Feigenson
