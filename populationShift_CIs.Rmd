@@ -1,7 +1,7 @@
 ---
 title: "Assessing population shifts following open data policies"
 author: "Tom"
-date: "2/1/2018"
+date: "2/4/2018"
 output: html_document
 ---
 
@@ -14,14 +14,14 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 library(viridis)
 library(knitr)
+set.seed(123) # set random seed
+btstrp.N <- 999 # number of bootstrap samples
 ```
-
 
 # PSYCHOLOGICAL SCIENCE
 
-## Mike code
-
-```{r}
+```{r, include = FALSE}
+## Mike Code:
 d <- read_csv("AuthorList.csv")
 
 authors <- d %>%
@@ -41,8 +41,6 @@ unique_authors <- d %>%
   select(-article_id) %>%
   distinct
   
-  
-
 overlaps <- d %>%
   split(.$year) %>%
   map_df(function(x) {
@@ -67,61 +65,81 @@ ggplot(filter(overlaps, year > 2008 & year < 2018,
 
 ## Tom code:
 
+Function to calculate dice coefficient:
+
 ```{r}
-# function to calculate dice coefficient between authors publishing in target year and previous 3 years
+dice <- function(vector1, vector2){
+  v1 <- unique(vector1) # select only unique elements
+  v2 <- unique(vector2) # select only unique elements
+  
+  overlap <- intersect(v1, v2) # find elements that are present in both vectors
+  overlapN <- length(overlap) # find number of overlapping elements
+  
+  v1N <- length(v1) # get length of vector 1
+  v2N <- length(v2) # get length of vector 2
+  
+  diceCoeff <- (2*overlapN) / (v2N + v1N) # calculate dice coefficient
+  
+  return(diceCoeff)
+}
+```
+
+Function to generate samples with replacement and calculate dice each time:
+
+```{r}
+bootDice <- function(v1, v2) {
+  v1_new <- sample(v1, size = length(v1), replace = T)
+  v2_new <- sample(v2, size = length(v2), replace = T)
+  return(dice(v1_new, v2_new))
+}
+```
+
+Wrapper function uses dice() and bootDice() to calculate Dice coefficent between authors publishing target year and previous 3 years:
+
+```{r}
 rollingDice <- function(targetYear){
   
-  previousYears <- as.character(c(targetYear-1, targetYear-2, targetYear-3))
-  targetYear <- as.character(targetYear)
+  previousYears <- as.character(c(targetYear-1, targetYear-2, targetYear-3)) # get list of previous 3 years
+  targetYear <- as.character(targetYear) # target year as character
   
-  targetYear <- d %>% filter(year == targetYear) %>% pull(author) %>% unique() # select only unique authors in this year
-  previousYears <- d %>% filter(year %in% previousYears) %>% pull(author) %>% unique() # select only unique authors in these years
+  targetAuthors <- d %>% filter(year == targetYear) %>% pull(author) # select authors in target year
+  previousAuthors <- d %>% filter(year %in% previousYears) %>% pull(author) # select authors in previous three years
   
-  overlap <- intersect(targetYear, previousYears) # get vector of authors which appear in target year and previous years
-  overlapN <- length(overlap) # get number of authors overlapping
-  
-  targetN <- length(targetYear) # get number of authors in target year
-  previousN <- length(previousYears) # get number of authors in previous years
-  
-  dice <- (2*overlapN) / (previousN + targetN) # calculate dice coefficient
-  proportion <- overlapN/targetN
-  
-  return(data.frame(dice, proportion))
-}
+  diceOut <- dice(targetAuthors, previousAuthors) # get dice coefficient
 
+  myDice <- replicate(btstrp.N, bootDice(targetAuthors, previousAuthors)) # bootstrap
+  diceCI <- quantile(myDice, c(.025, .975)) # calculate confidence intervals
+  results <- data.frame(targetYear = as.numeric(targetYear), dice = diceOut, lwr.ci = diceCI[1], upr.ci = diceCI[2], btstrp.dice.mean = mean((myDice)), row.names = NULL) # combine Dice, CIs, and the mean dice for bootstrapped samples
+  
+  return(results)
+}
+```
+
+Apply the functions:
+
+```{r}
 yearDice <- data.frame(targetYear = seq(2011,2017, 0001)) %>%
   rowwise() %>%
-  mutate(rollingDice = rollingDice(targetYear)$dice, 
-         proportion = rollingDice(targetYear)$proportion)
+  do(rollingDice(.$targetYear))
 
-ggplot(data = yearDice) +
-  geom_line(aes(x = targetYear, y = rollingDice, group = 1), colour = "indianred1", size = 1.1) +
-  geom_vline(xintercept=2014.05) +
-  scale_x_continuous(breaks = seq(2011, 2017, 0001), labels = seq(2011, 2017, 0001)) +
-  ylab("Author overlap with previous three years (Dice coeffcient)") +
-  xlab("Publication year") +
-  ggtitle("Psychological Science") +
-  papaja::theme_apa()
+kable(yearDice)
+```
 
-ggplot(data = yearDice) +
-  geom_line(aes(x = targetYear, y = proportion, group = 1), colour = "indianred1", size = 1.1) +
-  geom_vline(xintercept=2014.05) +
-  scale_x_continuous(breaks = seq(2011, 2017, 0001), labels = seq(2011, 2017, 0001)) +
-  ylab("Author overlap with previous three years (proportion)") +
-  xlab("Publication year") +
-  ggtitle("Psychological Science") +
-  papaja::theme_apa()
+```{r include = FALSE}
+# ggplot(data = yearDice) +
+#   geom_line(aes(x = targetYear, y = dice, group = 1), colour = "indianred1", size = 1.1) +
+#   geom_vline(xintercept=2014.05) +
+#   scale_x_continuous(breaks = seq(2011, 2017, 0001), labels = seq(2011, 2017, 0001)) +
+#   ylim(0,0.2) +
+#   ylab("Author overlap with previous three years (Dice coeffcient)") +
+#   xlab("Publication year") +
+#   ggtitle("Psychological Science") +
+#   papaja::theme_apa()
 ```
 
 
-
-# COGNITION
-
-Repeating the same analyses for Cognition.
-
-## Mike code
-
-```{r}
+```{r, include=FALSE}
+## COGNITION ANALYSES - CIs not implemented yet
 d <- read_csv("AuthorList_Cognition.csv")
 
 authors <- d %>%
@@ -165,11 +183,7 @@ ggplot(filter(overlaps, year > 2008 & year < 2018,
   theme_bw()
 ```
 
-## Tom code:
-
-Comparing the target year to the previous three years might provide a more stable index of author retention and time-series plots may be easier to interpret?
-
-```{r}
+```{r include = FALSE}
 # function to calculate dice coefficient between authors publishing in target year and previous 3 years
 rollingDice <- function(targetYear){
   
@@ -197,31 +211,18 @@ yearDice <- data.frame(targetYear = seq(2008,2017, 0001)) %>%
          proportion = rollingDice(targetYear)$proportion)
 ```
 
-Dice coefficient:
-
-```{r}
+```{r include = FALSE}
 ggplot(data = yearDice) +
   geom_line(aes(x = targetYear, y = rollingDice, group = 1), colour = "indianred1", size = 1.1) +
   geom_vline(xintercept=2015.12) +
   scale_x_continuous(breaks = seq(2008, 2017, 0001), labels = seq(2008, 2017, 0001)) +
+  ylim(0,0.2) +
   ylab("Author overlap with previous three years (Dice coeffcient)") +
   xlab("Publication year") +
   ggtitle("Cognition") +
   papaja::theme_apa()
 ```
 
-Proportion:
-
-```{r}
-ggplot(data = yearDice) +
-  geom_line(aes(x = targetYear, y = proportion, group = 1), colour = "indianred1", size = 1.1) +
-  geom_vline(xintercept=2015.12) +
-  scale_x_continuous(breaks = seq(2008, 2017, 0001), labels = seq(2008, 2017, 0001)) +
-  ylab("Author overlap with previous three years (proportion)") +
-  xlab("Publication year") +
-  ggtitle("Cognition") +
-  papaja::theme_apa()
-```
 
 
 

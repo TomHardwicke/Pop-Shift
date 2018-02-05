@@ -2,6 +2,8 @@ library(tidyverse)
 library(viridis)
 library(knitr)
 
+set.seed(123) # set random seed
+
 d <- read_csv("AuthorList_Cognition.csv")
 
 authors <- d %>%
@@ -47,25 +49,45 @@ ggplot(filter(overlaps, year > 2008 & year < 2018,
 
 ### TOM CODE
 
+# calculate dice coefficient 
+dice <- function(vector1, vector2){
+  v1 <- unique(vector1)
+  v2 <- unique(vector2)
+  
+  overlap <- intersect(v1, v2) # find elements that are present in both vectors
+  overlapN <- length(overlap) # find number of overlapping elements
+  
+  v1N <- length(v1) # get length of vector 1
+  v2N <- length(v2) # get length of vector 2
+  
+  diceCoeff <- (2*overlapN) / (v2N + v1N) # calculate dice coefficient
+  
+  return(diceCoeff)
+}
+
+bootDice <- function(v1, v2) {
+  v1_new <- sample(v1, size = length(v1), replace = T)
+  v2_new <- sample(v2, size = length(v2), replace = T)
+  return(dice(v1_new, v2_new))
+}
+
 # calculate dice coefficient between authors publishing target year and previous 3 years
 rollingDice <- function(targetYear){
   
   previousYears <- as.character(c(targetYear-1, targetYear-2, targetYear-3))
   targetYear <- as.character(targetYear)
   
-  targetYear <- d %>% filter(year == targetYear) %>% pull(author) %>% unique() # select only unique authors in this year
-  previousYears <- d %>% filter(year %in% previousYears) %>% pull(author) %>% unique() # select only unique authors in these years
+  targetYear <- d %>% filter(year == targetYear) %>% pull(author) # select authors in this year
+  previousYears <- d %>% filter(year %in% previousYears) %>% pull(author) # select authors in these years
   
-  overlap <- intersect(targetYear, previousYears) # get vector of authors which appear in target year and previous years
-  overlapN <- length(overlap) # get number of authors overlapping
-  
-  targetN <- length(targetYear) # get number of authors in target year
-  previousN <- length(previousYears) # get number of authors in previous years
-  
-  dice <- (2*overlapN) / (previousN + targetN) # calculate dice coefficient
-  proportion <- overlapN/targetN
-  
-  return(data.frame(dice, proportion))
+  diceOut<- dice(targetYear, previousYears)
+
+  myDice <- replicate(9999, bootDice(targetYear, previousYears))
+  hist(myDice)
+  diceCI <- quantile(myDice, c(.025, .975))
+  print(mean(myDice))
+  print(diceCI)
+  return(diceOut)
 }
 
 yearDice <- data.frame(targetYear = seq(2008,2017, 0001)) %>%
@@ -92,5 +114,22 @@ ggplot(data = yearDice) +
   papaja::theme_apa()
 
 
+x <- array(c(vector1, vector2))
+b <- boot(x, statistic = dice, R = 999)
+boot.ci(b, type = c("norm", "basic", "perc", "bca"))
 
 
+
+# calculate percentile bootstrap
+
+
+
+bootDice <- function() {
+  v1 <- sample(x = vector1, size = length(vector1), replace = T)
+  v2 <- sample(x = vector2, size = length(vector2), replace = T)
+  return(dice(v1, v2))
+}
+
+myDice <- replicate(999, bootDice())
+hist(myDice)
+quantile(myDice, c(.025, .975))
