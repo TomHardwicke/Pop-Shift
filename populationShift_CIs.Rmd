@@ -126,7 +126,7 @@ yearDice <- data.frame(targetYear = seq(2011,2017, 0001)) %>%
 kable(yearDice)
 ```
 
-```{r include = FALSE}
+```{r}
 ggplot(data = yearDice) +
   geom_line(aes(x = targetYear, y = dice, group = 1), colour = "indianred1", size = 1.1) +
   geom_vline(xintercept=2014.05) +
