@@ -1,6 +1,9 @@
-.Rproj
+PROJ_BadgesComment.Rproj
+scraper.py
 .Rproj*
 .Rhistory
 .Rdata
 .Rproj.user
 populationShift_MikeCode.Rmd
+cognition_author_net.R
+psych_sci_author_net.R
