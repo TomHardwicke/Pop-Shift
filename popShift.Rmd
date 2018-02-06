@@ -1,6 +1,6 @@
 ---
-title: "Assessing population shifts following open data policies"
-author: "Tom"
+title: "Assessing author population shifts following introduction of journal open data policies"
+author: "Tom Hardwicke"
 date: "2/4/2018"
 output: html_document
 ---
@@ -9,63 +9,35 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
 ```{r}
 library(tidyverse)
-library(viridis)
+#library(viridis)
 library(knitr)
+#library(papaja)
 set.seed(123) # set random seed
 btstrp.N <- 999 # number of bootstrap samples
 ```
 
-# PSYCHOLOGICAL SCIENCE
+# Background
 
-```{r, include = FALSE}
-## Mike Code:
-d <- read_csv("AuthorList.csv")
+We have run two observational studys in which we found large increases in data availability following the introduction of open data policys at two journals: Psychological Science, and Cognition. However, one possibility is that the results are affected by self-selection bias: it could be that the policy attracted authors to the journal who were already inclined towards sharing data, and deterred authors who were not. In order to investigate this possibilitity, we are conducted additional analyses of author retention at these journals before and after the policy was introduced.
 
-authors <- d %>%
-  group_by(author) %>%
-  count
+Here we define author retention as the overlap in authors publishing at the journal in a given year relative to the previous threes years (the choice of three is relatively arbitrary). We calculate an 'author retention index' as the Dice coefficient between each target year and the previous three years. If there is a general population shift caused by the policy intervention, we might expect to see a marked reduction in the author retention index shortly after the policy was introduced.
 
-d %>% 
-  group_by(year) %>%
-  summarise(n_papers = length(unique(article_id)), 
-            n_authors = length(author),
-            n_authors_per_paper = n_authors / n_papers,
-            n_unique_authors = length(unique(author))) %>%
-  kable(digits = 2)
+# Questions
+
+1. We are interested in hearing thoughts on whether the proposed method of calculating the Dice coefficient etc is a reasonable way to address this problem.
+
+2. A more specific problem we have is how to calculate confidence intervals for the Dice coefficient. We have attempted a bootstrapping approach, but the mean Dice for the bootstrap samples (and thus the bootstraped CIs) is consistently lower than the actual Dice. The specific code we are using is included below.
 
 
-unique_authors <- d %>% 
-  select(-article_id) %>%
-  distinct
-  
-overlaps <- d %>%
-  split(.$year) %>%
-  map_df(function(x) {
-    this_year_authors = unique(x$author)
-    overlap <- unique_authors %>% 
-      group_by(year) %>% 
-      summarise(overlap = sum(author %in% this_year_authors), 
-                dice = (2 * overlap) / (length(author) + length(this_year_authors))) %>%
-      mutate(source_year = x$year[1])
-  }) %>%
-  mutate(overlap = ifelse(year == source_year, NA, overlap),
-         dice = ifelse(year == source_year, NA, dice))
+# Analysis
 
-ggplot(filter(overlaps, year > 2008 & year < 2018, 
-              source_year > 2008 & source_year < 2018), 
-       aes(x = year, y = source_year, fill = dice)) + 
-  geom_tile() + 
-  xlim(2009,2018) + 
-  scale_fill_viridis() + 
-  theme_bw()
-```
+## Functions
 
-## Tom code:
+First we specify some functions to use in the analysis.
 
-Function to calculate dice coefficient:
+Function to calculate dice coefficient: (NB - sometimes authors appear more than once in each year. We select only unique elements. Not sure if this is correct.)
 
 ```{r}
 dice <- function(vector1, vector2){
@@ -94,7 +66,7 @@ bootDice <- function(v1, v2) {
 }
 ```
 
-Wrapper function uses dice() and bootDice() to calculate Dice coefficent between authors publishing target year and previous 3 years:
+Wrapper function uses dice() and bootDice() to calculate Dice coefficent between authors publishing target year and previous 3 years (the "Author Retention Index"):
 
 ```{r}
 rollingDice <- function(targetYear){
@@ -116,6 +88,13 @@ rollingDice <- function(targetYear){
 }
 ```
 
+
+## Run analysis for the journal Psychological Science
+
+```{r}
+d <- read_csv("AuthorList_PsychSci.csv")
+```
+
 Apply the functions:
 
 ```{r}
@@ -126,20 +105,27 @@ yearDice <- data.frame(targetYear = seq(2011,2017, 0001)) %>%
 kable(yearDice)
 ```
 
+As you can see, the mean Dice for the bootstrap samples is consistently lower than the actual Dice.
+
+Plot Dice across the time series:
+
 ```{r}
 ggplot(data = yearDice) +
   geom_line(aes(x = targetYear, y = dice, group = 1), colour = "indianred1", size = 1.1) +
   geom_vline(xintercept=2014.05) +
   scale_x_continuous(breaks = seq(2011, 2017, 0001), labels = seq(2011, 2017, 0001)) +
   ylim(0,0.2) +
-  ylab("Author overlap with previous three years (Dice coeffcient)") +
+  ylab("Author retention index") +
   xlab("Publication year") +
-  ggtitle("Psychological Science") +
-  papaja::theme_apa()
+  ggtitle("Psychological Science")
+  #theme_apa()
 ```
 
-## COGNITION
+Author rentention index appears fairly stable both before and after introducion of the policy - there is perhaps a small decline. No evidence of a large population shift.
 
+## Run analysis for the journal Cognition
+
+Note we have data going back further here so the date range is larger.
 
 ```{r, include=FALSE}
 d <- read_csv("AuthorList_Cognition.csv")
@@ -154,7 +140,7 @@ yearDice <- data.frame(targetYear = seq(2008,2017, 0001)) %>%
 
 kable(yearDice)
 ```
-
+Same problem - mean Dice and CIs from bootstrap samples are consistently lower than actual Dice.
 
 ```{r}
 ggplot(data = yearDice) +
@@ -164,6 +150,8 @@ ggplot(data = yearDice) +
   ylim(0,0.2) +
   ylab("Author overlap with previous three years (Dice coeffcient)") +
   xlab("Publication year") +
-  ggtitle("Cognition") +
-  papaja::theme_apa()
+  ggtitle("Cognition")
+  #papaja::theme_apa()
 ```
+
+Author rentention index appears stable both before and after introducion of the policy - no evidence of a population shift.
