@@ -14,7 +14,6 @@ library(tidyverse)
 #library(viridis)
 library(knitr)
 #library(papaja)
-set.seed(123) # set random seed
 btstrp.N <- 999 # number of bootstrap samples
 ```
 
@@ -22,7 +21,7 @@ btstrp.N <- 999 # number of bootstrap samples
 
 We have run two observational studys in which we found large increases in data availability following the introduction of open data policys at two journals: Psychological Science, and Cognition. However, one possibility is that the results are affected by self-selection bias: it could be that the policy attracted authors to the journal who were already inclined towards sharing data, and deterred authors who were not. In order to investigate this possibilitity, we are conducted additional analyses of author retention at these journals before and after the policy was introduced.
 
-Here we define author retention as the overlap in authors publishing at the journal in a given year relative to the previous threes years (the choice of three is relatively arbitrary). We calculate an 'author retention index' as the Dice coefficient between each target year and the previous three years. If there is a general population shift caused by the policy intervention, we might expect to see a marked reduction in the author retention index shortly after the policy was introduced.
+Here we define author retention as the overlap (using Dice coefficient) in authors publishing at the journal in a given year relative to the previous three years (note the choice of three is relatively arbitrary - it just seems like it might provide a more stable estimate of author retention). If there is a general population shift caused by the policy intervention, we might expect to see a marked reduction in the author retention index shortly after the policy was introduced.
 
 # Questions
 
@@ -140,6 +139,7 @@ yearDice <- data.frame(targetYear = seq(2008,2017, 0001)) %>%
 
 kable(yearDice)
 ```
+
 Same problem - mean Dice and CIs from bootstrap samples are consistently lower than actual Dice.
 
 ```{r}
